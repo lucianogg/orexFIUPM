@@ -1,0 +1,94 @@
+#+HTML_HEAD: <style type="text/css"> <!--/*--><![CDATA[/*><!--*/ .title { display: none; } /*]]>*/--> </style>
+#+OPTIONS: num:nil
+
+* Alumnos del centro
+** Programas académicos
+*** Programas internacionales
+**** Erasmus+
+***** Descripción
+La página del medio (377) súper resumida
+- asdasdasd
+- asdasdasdasd
+- asdasdasdasd
+***** Convocatoria k
+Enlace: página 951
+***** Convocatoria k-1
+No existe aún
+**** Magalhães
+***** Descripción
+Página 967 tiene algo de información útil pero incluye cosas de la Convocatoria de 2015-2016
+***** Convocatoria k
+Por ahora página 955 quitando la información para estudiantes extranjeros, ya que lleva a la misma página de todo
+***** Convocatoria k-1
+**** Programa GE3
+Enlace a la página de UPM (misma que hoy)
+**** Programa de movilidad hispano-chino
+***** Descripción
+Lo que hay dentro de la página
+***** Convocatoria k
+Nueva página con lo de 2017-2018 que ya está puesto
+***** Convocatoria k-1
+**** Programa indio-español
+ENLACE NO FUNCIONA
+***** Descripción
+***** Convocatoria k
+***** Convocatoria k-1
+**** Convocatoria de proyectos de fin de carrera para el desarrollo
+Sigue existiendo?
+***** Descripción
+***** Convocatoria k
+***** Convocatoria k-1
+**** Convocatoria de ayudas de viaje de cooperación
+***** 1-4 meses
+Enlace a la página de UPM
+***** 4-6 meses
+Enlace a la página de UPM
+**** Programas de estancias cortas
+***** Athens
+Idea: coger la introducción y meter en la página de listado. Luego las convocatorias poner en otra página
+****** Descripción
+El programa ATHENS ....
+****** Convocatoria k
+Nueva página con la convocatoria 2017-2018
+****** Convocatoria k-1
+***** BEST
+****** Descripción
+Crear una pequeña introducción y meter el enlace a su página, que es lo que hay hoy
+*** Programa nacional Sicue
+Quitar de esa página y poner en otra la parte específica (Convocatoria de 2017-2018)
+**** Descripción corta
+***** Convocatoria k
+***** Convocatoria k-1
+*** Acuerdos bilaterales y acuerdos de doble diploma de máster
+**** Descripción
+La ETSIINF mantiene acuerdos ....
+**** Convocatoria k
+Página (basada en la actual) con destinos, plazos y todo
+*** Becas Tokyo Institute of Technology (Japón)
+**** Descripción
+**** Convocatoria k
+Enlace a upm.es
+*** Becas Iberoamérica - Santander Universidades - son becas o programas académicos?
+*** Becas fórmula Santander - son becas o programas académicos?
+*** Becas Santander-CRUE de movilidad Iberoamericana - son becas o programas académicos?
+*** Becas UPM-Santander - son becas o programas académicos?
+** Programas de prácticas en empresa en el exterior
+*** Vulcanus
+*** Becas ARGO
+*** Becas Faro Global
+*** Becas Goya-Mundus
+*** Movilidad para prácticas en empresas a través del programa ERASMUS
+**** Plataforma para ofertas de prácticas ERASMUS+
+** Otros programas
+*** Programas de voluntariado
+** Información de interés sobre idiomas
+Explicar mejor la necesidad de esta parte
+*** PROLINTER
+*** Programa de Formación linguística para los participantes en los programas de movilidad
+*** Exámenes de acreditación externa TOEIC/TFI
+*** Lenguas del mundo en B-learning
+*** Certificados reconocidos nacional e internacionalmente
+- Inglés
+- Alemán
+- Francés
+- ...???
