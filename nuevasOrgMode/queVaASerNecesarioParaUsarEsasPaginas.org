@@ -3,3 +3,4 @@
 - Quitar cosas inútiles y lo de clases y tal
 - Rehacer el índice
 - Reponer los enlaces para que usen rutas relativas
+- Quitar lo de author: Luciano ...., Created ... y lo de validate ....
