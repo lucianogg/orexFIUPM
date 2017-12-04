@@ -5,7 +5,7 @@
 ** Programas académicos
 *** Programas internacionales
 **** Erasmus+
-El programa Erasmus+ ofrece la oportunidad al alumno de cursar parte de sus estudios en una de las universidades con las que tiene acuerdo la ETSIINF. La estancia dura entre 3 y 12 meses, la universidad de destino suele ofrecer alojamiento y se proporciona una ayuda mensual.
+El programa Erasmus+ ofrece la oportunidad al alumno de cursar parte de sus estudios en una de las universidades con las que tiene acuerdo la ETSIINF. La estancia dura entre 3 y 12 meses, la universidad de destino suele ofrecer alojamiento y se proporciona una ayuda mensual. [[http://www2.upm.es/portal/site/institucional/menuitem.e29ff8272ddfb41943a75910dffb46a8/?vgnextoid=99cd56b1540be110VgnVCM10000009c7648aRCRD][(más detalles)]]
 ***** [[http://fi.upm.es][Convocatoria k]]
 ***** [[http://www.fi.upm.es][Convocatoria k-1]]
 **** Magalhães - SMILE
@@ -30,32 +30,27 @@ Sigue existiendo?
 ***** Convocatoria k
 ***** Convocatoria k-1
 **** Convocatoria de ayudas de viaje de cooperación
-***** 1-4 meses
-Enlace a la página de UPM
-***** 4-6 meses
-Enlace a la página de UPM
+[Hacer una pequeña Descripción]
+***** [[http://www.upm.es/institucional/Estudiantes/Movilidad/Programas_Internacionales/Ayudas_Viaje_Coop_1][1-4 meses]]
+***** [[http://www.upm.es/institucional/Estudiantes/Movilidad/Programas_Internacionales/Ayudas_Viaje_Coop_2][4-6 meses]]
 **** Programas de estancias cortas
 ***** Athens
-Idea: coger la introducción y meter en la página de listado. Luego las convocatorias poner en otra página
-****** Descripción
-El programa ATHENS ....
-****** Convocatoria k
-Nueva página con la convocatoria 2017-2018
-****** Convocatoria k-1
+El programa ATHENS consta de una serie de cursos organizados en universidades tecnológicas europeas, con reconocimiento de créditos y posibilidad de solicitar bolsa de viaje para acudir a los cursos en otros países. Hay una convocatoria de marzo y una de noviembre en cada curso. (más detalles o bien en la [[http://www.upm.es/Estudiantes/Movilidad/Programas_Internacionales/Athens][página de UPM]] o en la [[http://athensnetwork.eu/][página oficial de ATHENS]])
+****** [[https://fi.upm.es][Convocatoria k]]
+****** [[http://www.fi.upm.es][Convocatoria k-1]]
 ***** BEST
-****** Descripción
-Crear una pequeña introducción y meter el enlace a su página, que es lo que hay hoy
-*** Programa nacional Sicue
-Quitar de esa página y poner en otra la parte específica (Convocatoria de 2017-2018)
-**** Descripción corta
-***** Convocatoria k
-***** Convocatoria k-1
+BEST (Board of European Students of Technology) es una organización apolítica y sin ánimo de lucro que ofrece cursos de corta duración y competiciones por Europa. [[http://www.best.eu.org/index.jsp][(más detalles)]]
+*** Programa nacional SICUE
+El programa SICUE permite la realización de parte de los estudios en otra universidad española, con garantía de reconocimiento académico y de aprovechamiento, así como adecuación al perfil curricular.
+**** [[http://fi.upm.es][Convocatoria k]]
+**** [[http://www.fi.upm.es][Convocatoria k-1]]
 *** Acuerdos bilaterales y acuerdos de doble diploma de máster
-**** Descripción
-La ETSIINF mantiene acuerdos ....
-**** Convocatoria k
-Página (basada en la actual) con destinos, plazos y todo
-*** Becas Tokyo Institute of Technology (Japón)
+La ETSIINF mantiene acuerdos de cooperación y acuerdos bilaterales con diversos centros extranjeros. Algunos de ellos permiten actividades de movilidad de tipo académico, doble diploma, de investigación, etc. Se listan en las páginas de cada convocatoria, a seguir:
+**** [[http://www.fi.upm.es][Convocatoria k]]
+**** [[http://www.fi.upm.es][Convocatoria k-1]]
+*** Becas para estancias cortas de investigación en el MIT
+Esta convocatoria está orientada a promover la relación con el Massachusetts Institute of Technology (MIT) mediante becas para estancias cortas de investigación de estudiantes de máster y de último curso de grado. [[http://www.upm.es/Estudiantes/BecasAyudasPremios/Becas/Becas_Movilidad?id=35d6e50734841510VgnVCM10000009c7648a____&fmt=detail&prefmt=articulo][(más detalles)]]
+*** Becas Tokyo Institute of Technology (Japón) SEGUIR A PARTIR DE AQUI!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 **** Descripción
 **** Convocatoria k
 Enlace a upm.es
