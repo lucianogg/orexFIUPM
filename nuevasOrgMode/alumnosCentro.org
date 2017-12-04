@@ -5,29 +5,20 @@
 ** Programas académicos
 *** Programas internacionales
 **** Erasmus+
-***** Descripción
-La página del medio (377) súper resumida
-- asdasdasd
-- asdasdasdasd
-- asdasdasdasd
-***** Convocatoria k
-Enlace: página 951
-***** Convocatoria k-1
-No existe aún
-**** Magalhães
-***** Descripción
-Página 967 tiene algo de información útil pero incluye cosas de la Convocatoria de 2015-2016
-***** Convocatoria k
-Por ahora página 955 quitando la información para estudiantes extranjeros, ya que lleva a la misma página de todo
-***** Convocatoria k-1
-**** Programa GE3
-Enlace a la página de UPM (misma que hoy)
+El programa Erasmus+ ofrece la oportunidad al alumno de cursar parte de sus estudios en una de las universidades con las que tiene acuerdo la ETSIINF. La estancia dura entre 3 y 12 meses, la universidad de destino suele ofrecer alojamiento y se proporciona una ayuda mensual.
+***** [[http://fi.upm.es][Convocatoria k]]
+***** [[http://www.fi.upm.es][Convocatoria k-1]]
+**** Magalhães - SMILE
+El programa Magalhães es una red entre Europa, Latinoamérica y Caribe cuyo objetivo es fomentar la movilidad y cooperación entre las universidades participantes. SMILE es el programa de movilidad de estudiantes dentro de Magalhães. Es similar al programa ERASMUS. La UPM es miembro de esta red y la ETSIINF participa en ella a través de acuerdos bilaterales con universidades latinoamericanas de reconocido prestigio.
+***** [[http://fi.upm.es][Convocatoria k]]
+***** [[http://www.fi.upm.es][Convocatoria k-1]]
+**** Programa Global E3
+Global E3 es un programa de intercambio para estudiantes de ingeniería. Se ofrece a los alumnos como oportunidad de cursar parte de sus estudios en una de las universidades asociadas. Está dirigido a alumnos con excelente aprovechamiento académico.
+***** [[http://www2.upm.es/portal/site/institucional/menuitem.e29ff8272ddfb41943a75910dffb46a8/?vgnextoid=049f56b1540be110VgnVCM10000009c7648aRCRD][Descripción detallada y convocatorias]]
 **** Programa de movilidad hispano-chino
-***** Descripción
-Lo que hay dentro de la página
-***** Convocatoria k
-Nueva página con lo de 2017-2018 que ya está puesto
-***** Convocatoria k-1
+La UPM mantiene acuerdos bilaterales con diversas universidades chinas con el objetivo de fomentar la movilidad de estudiantes entre ambos países. El programa está especialmente dirigido a la realización del trabajo fin de grado o de fin de master.
+***** [[http://fi.upm.es][Convocatoria k]]
+***** [[http://fi.upm.es][Convocatoria k-1]]
 **** Programa indio-español
 ENLACE NO FUNCIONA
 ***** Descripción
