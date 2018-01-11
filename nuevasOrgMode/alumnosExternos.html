@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2017-12-21 Thu 16:33 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Luciano Garcia" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<style type="text/css"> <!--/*--><![CDATA[/*><!--*/ .title { display: none; } /*]]>*/--> </style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2017 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#orga8de3ff">Programas de movilidad para alumnos externos</a></li>
+<li><a href="#orgdb7a372">Acceso a la ETSIINF</a>
+<ul>
+<li><a href="#orgde92c40">Plazos de solicitud de admisión</a></li>
+<li><a href="#org952cb3e">Documentos para la solicitud</a></li>
+<li><a href="#org4585a9a">Admisión</a></li>
+<li><a href="#org678e92f">Visados</a></li>
+<li><a href="#orgf5a0cc9">Seguros</a></li>
+</ul>
+</li>
+<li><a href="#org73c2354">Llegada a Madrid y primeros pasos</a></li>
+<li><a href="#orgbf0e4ae">Programas de estudios</a>
+<ul>
+<li><a href="#org17e59c1">Calendario</a></li>
+<li><a href="#orgbc112d4">Horarios de clase</a></li>
+<li><a href="#org1723864">Exámenes</a></li>
+<li><a href="#org1484fd8">Matrícula</a></li>
+<li><a href="#org89561d4">Lengua en la que se imparten las clases</a></li>
+</ul>
+</li>
+<li><a href="#org160afb4">Cursos de español</a></li>
+<li><a href="#orgae6609a">Alojamiento</a></li>
+<li><a href="#orgf764e55">Grupos y sitios de noticias</a>
+<ul>
+<li><a href="#orge5d5d5f">Otros sitios con información de interés</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orga8de3ff" class="outline-2">
+<h2 id="orga8de3ff">Programas de movilidad para alumnos externos</h2>
+<div class="outline-text-2" id="text-orga8de3ff">
+<p>
+En primer lugar queremos dar la bienvenida a la Escuela Técnica Superior de Ingenieros Informáticos - ETSIINF - (antes Facultad de Informática), Universidad Politécnica de Madrid, a todos los alumnos de intercambio que han decidido hacer una estancia con nosotros. Estamos realmente encantados de que hayáis elegido nuestra Facultad para llevar a cabo vuestro programa de intercambio y estamos convencidos de que vuestra estancia de estudios así como  vuestra estancia en España será muy agradable y valiosa para vuestro futuro académico, profesional y personal.
+</p>
+
+<p>
+En esta página se incluye información útil para los alumnos extranjeros que deseen pasar una estancia de estudios en la ETSIINF mediante programas de intercambio.
+</p>
+
+<p>
+Si la información que buscas no está aquí, contacta con la <a href="http://fi.upm.es/?pagina=286">Oficina de Relaciones Externas (OREX)</a> y gustosamente te atenderemos.
+</p>
+</div>
+</div>
+<div id="outline-container-orgdb7a372" class="outline-2">
+<h2 id="orgdb7a372">Acceso a la ETSIINF</h2>
+<div class="outline-text-2" id="text-orgdb7a372">
+<p>
+Los estudiantes extranjeros interesados en realizar una estancia en la ETSIINF deberán contactar con la oficina internacional de su universidad o centro de origen y verificar si existe o no convenio de intercambio de estudiantes.
+</p>
+
+<p>
+En caso de existir convenio, los estudiantes podrán solicitar su admisión a través de sus oficinas internacionales.
+</p>
+
+<p>
+Si no existe convenio deben consultar con sus oficinas internacionales sobre la posibilidad de establecer uno. De no ser posible, cabe la posibilidad de ser admitido como alumno visitante (sin convenio) (<a href="http://www.upm.es/sfs/Rectorado/Vicerrectorado%20de%20Relaciones%20Internacionales/Resto%20del%20Mundo/normativa_estudiantes_visitantes.pdf">Normativa</a>).
+</p>
+</div>
+
+<div id="outline-container-orgde92c40" class="outline-3">
+<h3 id="orgde92c40">Plazos de solicitud de admisión</h3>
+<div class="outline-text-3" id="text-orgde92c40">
+<ul class="org-ul">
+<li><b>1 Junio</b>: para estancias de curso completo y del semestre de otoño</li>
+<li><b>1 Diciembre</b>: para estancias durante el semestre de primavera</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org952cb3e" class="outline-3">
+<h3 id="org952cb3e">Documentos para la solicitud</h3>
+<div class="outline-text-3" id="text-org952cb3e">
+<p>
+Las solicitudes deben ser remitidas junto con la siguiente documentación por el coordinador o la oficina internacional de la universidad de origen a la Oficina de la Relaciones Externas (OREX) de la ETSIINF.
+</p>
+
+<p>
+Documentos para <b>todos</b> los programas de intercambio:
+</p>
+<ul class="org-ul">
+<li>Carta de motivación</li>
+<li>Curriculum vitae</li>
+<li>Certificado oficial de calificaciones</li>
+<li>Fotocopia de pasaporte o tarjeta de identidad</li>
+<li>1 fotografía digitalizada</li>
+</ul>
+
+<p>
+Documentos específicos para el programa <b>ERASMUS+</b>:
+</p>
+<ul class="org-ul">
+<li><a href="http://fi.upm.es/docs/servicios/tramites/432_EPP_2016_17_learning_agreement_studies_ver2016_3.docx">Contrato de estudios</a></li>
+<li><a href="http://www.upm.es/sfs/Rectorado/Vicerrectorado%20de%20Alumnos/Extension%20Universitaria/Intercambios:%20movilidad%20de%20estudiantes/Erasmus/Extranjeros/FORMULARIO%20ALTA%20EXTRANJEROS%202014-2015.pdf">Formulario de alta (A rellenar en el momento de  la incorporación)</a></li>
+</ul>
+
+<p>
+Documentos específicos para el programa <b>SMILE</b>:
+</p>
+<ul class="org-ul">
+<li><a href="https://vri5.rec.upm.es/magalhaes/Files/SMILE%20Student%20Application-Form.pdf">Solicitud de admisión</a></li>
+<li><a href="https://vri5.rec.upm.es/magalhaes/Files/SMILE%20Student%20Learning-Agreement.pdf">Contrato de estudios</a></li>
+</ul>
+
+<p>
+Documentos específicos para el programa de <b>acuerdos bilaterales</b>:
+</p>
+<ul class="org-ul">
+<li><a href="http://fi.upm.es/docs/servicios/tramites/432_2014_Solicitud%20alumnos%20con%20convenio.pdf">Solicitud de admisión</a></li>
+<li><a href="http://fi.upm.es/docs/servicios/tramites/432_Contrato%20de%20estudios%20CON%20CONVENIO2010-11.doc">Contrato de estudios</a></li>
+</ul>
+
+<p>
+Documentos específicos para alumnos <b>visitantes</b> (sin convenio):
+</p>
+<ul class="org-ul">
+<li><a href="http://www.upm.es/sfs/Rectorado/Vicerrectorado%20de%20Relaciones%20Internacionales/Resto%20del%20Mundo/Impreso_alumnos_visitantes.pdf">Solicitud de admisión</a></li>
+<li><a href="http://fi.upm.es/docs/servicios/tramites/432_Contrato%20de%20estudios%20VISITANTES%20SC.doc">Contrato de estudios</a></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org4585a9a" class="outline-3">
+<h3 id="org4585a9a">Admisión</h3>
+<div class="outline-text-3" id="text-org4585a9a">
+<p>
+Una vez recibida la solicitud de admisión junto con toda la documentación señalada, la Oficina de Relaciones Externas (OREX) de la ETSIINF procederá a estudiar y en su caso admitir a los estudiantes. En un plazo no superior a cuatro semanas desde la recepción de la solicitud, se le comunicará al alumno la admisión o no al programa. Una vez admitido en el programa, el alumno recibirá una carta de admisión por parte de la ETSIINF, junto con el contrato de estudios firmado e información útil para alumnos de intercambio.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org678e92f" class="outline-3">
+<h3 id="org678e92f">Visados</h3>
+<div class="outline-text-3" id="text-org678e92f">
+<p>
+Los alumnos no europeos deben solicitar visado para entrar en España. La solicitud deben realizarla en la Embajada o Consulado español del pais de origen.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf5a0cc9" class="outline-3">
+<h3 id="orgf5a0cc9">Seguros</h3>
+<div class="outline-text-3" id="text-orgf5a0cc9">
+<p>
+Los alumnos europeos deberán proveerse de la Tarjeta Sanitaria Europea en sus paises de origen o deben contratar un seguro privado.
+</p>
+
+<p>
+Los alumnos no europeos deberán contratar un seguro privado con repatriación en sus paises de origen a la hora de tramitar el visado.
+</p>
+
+<p>
+La UPM ofrece la posibilidad de contratar el seguro <a href="http://oncampus.es/">ONCAMPUS</a>.
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org73c2354" class="outline-2">
+<h2 id="org73c2354">Llegada a Madrid y primeros pasos</h2>
+<div class="outline-text-2" id="text-org73c2354">
+<p>
+La ETSIINF se encuetra en el Campus de Montegancedo.
+</p>
+
+<p>
+<a href="http://fi.upm.es/?pagina=166">Como llegar a la ETSIINF</a>
+</p>
+
+<p>
+Una vez que el alumno ha llegado a Madrid, una de las primeras cosas que debe hacer es visitar la Oficina de Relaciones Externas (OREX)de la ETSIINF para registrarse. Allí el alumno recibirá toda la información necesaria para convertirse en un alumno de la ETSIINF. La OREX es la que se encarga de todos los trámites relacionados con  alumnos en programas de movilidad.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbf0e4ae" class="outline-2">
+<h2 id="orgbf0e4ae">Programas de estudios</h2>
+<div class="outline-text-2" id="text-orgbf0e4ae">
+<p>
+En la actualidad, en la ETSIINF se imparten los siguientes programas de estudios:
+</p>
+<ul class="org-ul">
+<li><a href="http://fi.upm.es/?id=gradoingenieriainformatica">Graduado en Ingeniería Informática</a></li>
+<li><a href="http://fi.upm.es/?id=gradomatematicasinformatica">Graduado en Matemáticas e Informática</a></li>
+<li><a href="http://fi.upm.es/?pagina=1645">Máster Universitario en Ingeniería Informática</a>, de orientación profesional</li>
+<li><a href="http://fi.upm.es/es/europeanmasteronsoftwareengineering">Máster Universitario en Ingeniería del Software - European Master on Software Engineering</a>
+<ul class="org-ul">
+<li>Para cursar asignaturas de este máster se requiere nivel de inglés B2 o superior, que puede ser certificado a través de títulos oficiales (IELTS, FCE, CAE, CPE, TOEFL o TOEIC) o a través de certificación de la universidad de origen.</li>
+</ul></li>
+<li><a href="http://www.dia.fi.upm.es/masteria/?q=es/MUIA">Máster Universitario en Inteligencia Artificial</a>, orientado a la investigación. <a href="http://fi.upm.es/?id=masterinteligenciaartificial">(enlace interno)</a></li>
+<li><a href="http://muss.fi.upm.es/">Máster Universitario en Software y Sistemas</a>, orientado a la investigación <a href="http://fi.upm.es/?id=mastersoftwareysistemas">(enlace interno)</a></li>
+</ul>
+
+<p>
+Todos los programas están estructurados en asignaturas semestrales y créditos ECTS.
+</p>
+</div>
+
+<div id="outline-container-org17e59c1" class="outline-3">
+<h3 id="org17e59c1">Calendario</h3>
+<div class="outline-text-3" id="text-org17e59c1">
+<p>
+Para cada curso coexisten varios calendarios activos en función del programa de estudios. Consultar cada programa para ver calendario adecuado.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbc112d4" class="outline-3">
+<h3 id="orgbc112d4">Horarios de clase</h3>
+<div class="outline-text-3" id="text-orgbc112d4">
+<p>
+Los horarios de clase son fijos y no es posible cambiarlos. Es responsabilidad del alumno el confeccionar un programa de estudios en el que no haya solapamientos de horarios.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1723864" class="outline-3">
+<h3 id="org1723864">Exámenes</h3>
+<div class="outline-text-3" id="text-org1723864">
+<p>
+Las fecha y horarios de exámenes son fijos y no es posible cambiarlos.
+</p>
+
+<p>
+No es necesario registrarse para realizar un examen. Una vez que el alumno está oficialmente matriculado tiene derecho a dos convocatorias de exámen, una ordinaria (Enero o Junio) y otra extraordinaria (Julio).
+</p>
+
+<p>
+Los alumnos que opten por la modalidad de examen final deben comunicarlo al profesor-coordinador de la asignatura en un plazo que se informa en la guía de la misma.
+</p>
+
+<p>
+Se recomienda consultar fechas y horarios de ambas convocatorias en los respectivos programas de estudios (guía de asignatura).
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1484fd8" class="outline-3">
+<h3 id="org1484fd8">Matrícula</h3>
+<div class="outline-text-3" id="text-org1484fd8">
+<p>
+La matrícula de todos los alumnos de intercambio será realizada exclusivamente por la Oficina de Relaciones Externas del centro.
+</p>
+
+<p>
+Para realizar la matrícula es necesario que el Acuerdo Académico esté debidamente cumplimentado y refleje las asignaturas que el alumno realmente quiere cursar. Si fuera necesario realizar cambios al Acuerdo Académico inicial, éstos podrán hacerse en un periodo máximo de diez días desde el comienzo del curso. Durante este periodo los alumnos de intercambio deben comunicar a la mayor brevedad posible dichos cambios a la Oficina de Relaciones Externas para rehacer el Acuerdo Académico y enviarlo a su universidad de origen, o por el contrario, deben comunicar  que el contenido inicial del Acuerdo Académico es válido y correcto. Sin este requisito NO es posible realizar la matrícula.
+</p>
+
+<p>
+Una vez realizada la matrícula no es posible modificarla a lo largo del curso, por lo que se recomienda encarecidamente que el alumno se asegure de que las asignaturas que figuran en el Acuerdo Académico son las que realmente quiere cursar, que pertenecen al semestre adecuado y que el horario no se solapa con otras asignaturas.
+</p>
+
+<p>
+La matrícula se realizará por semestres. Cada semestre tiene un periodo de matrícula (Julio-Septiembre y Enero-Febrero).
+</p>
+
+<p>
+Una vez realizada la matrícula se avisará al alumno por correo electrónico para que solicite de forma on-line, cuenta de correo electrónico @alumnos.upm.es. Esta dirección de correo electrónico es imprescindible para acceder a los servicios en red de la UPM (Politécnica virtual, plataformas de teleenseñanza, red inalámbrica, correo electrónico, etc.).
+</p>
+</div>
+</div>
+
+<div id="outline-container-org89561d4" class="outline-3">
+<h3 id="org89561d4">Lengua en la que se imparten las clases</h3>
+<div class="outline-text-3" id="text-org89561d4">
+<p>
+Las clases son impartidas mayoritariamente en español, en especial en los programas de grado. Algunos programas de master imparten clases en inglés y español. Para conocer la lengua en que se imparten las clases hay que consultar cada asignatura en su guia de aprendizaje.
+</p>
+
+<p>
+Por todo lo anterior y para que el alumno pueda seguir con normalidad y aprovechamiento las clases, se recomienda encarecidamente que los alumnos posean un nivel de español de B1 (Marco Comun Europeo de Referencia de las Lenguas) certificado oficialmente, o  por  la propia universidad de origen. Aquellos alumnos que no puedan acreditar dicho nivel, deberan asistir al programa de Español organizado por <a href="http://www.upm.es/institucional/Estudiantes/Movilidad/LenguasInternacionalizacion">PROLINTER UPM</a> para los alumnos internacionales.
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org160afb4" class="outline-2">
+<h2 id="org160afb4">Cursos de español</h2>
+<div class="outline-text-2" id="text-org160afb4">
+<p>
+La UPM a través del <a href="http://www.upm.es/institucional/Estudiantes/Movilidad/LenguasInternacionalizacion">Programa de Lenguas para la Internacionalización (PROLINTER)</a> ofrece una alta variedad de cursos de español para los estudiantes de intercambio que van a disfrutar de una estancia en cualquiera de sus centros.
+</p>
+
+<p>
+Existen muchas razones para aprender español. La primera de ellas es que la mayoría de los programas de estudio en la ETSIINF son impartidos en español por lo que es muy recomendable tomar algún curso de español para poder seguir las clases con el adecuado aprovechamiento. En segundo lugar, el español es una herramienta esencial para tratar y resolver asuntos de la vida cotidiana con españoles. Y por último pero no por ello menos importante, el español es una de las lenguas más habladas en el mundo, por ello, vale la pena aprovechar la oportunidad de aprender y practicar español durante vuestra estancia en Madrid.
+</p>
+
+<p>
+Los alumnos de intercambio tienen varias programas de español para elegir: cursos de verano, cursos intensivos, cursos regulares aplicados a la ciencia y la tecnología, examenes DELE, etc.. Asimismo existen precios especiales para los alumnos de intercambio.
+</p>
+
+<p>
+Más információn sobre calendario, horarios, plazos de solicitud, etc. en <a href="http://www.upm.es/institucional/Estudiantes/Movilidad/LenguasInternacionalizacion">PROLINTER</a>.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgae6609a" class="outline-2">
+<h2 id="orgae6609a">Alojamiento</h2>
+<div class="outline-text-2" id="text-orgae6609a">
+<p>
+La ETSIINF no dispone de servicio de alojamiento tales como residencias de estudiantes o colegios mayores, pero puedes encontrar información sobre alojamiento en la <a href="http://www.upm.es/institucional/Estudiantes/Atencion/AlojamientoEstudiantes">web</a> de la UPM y en (&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;).
+</p>
+
+<p>
+Tienes que tener en cuenta que Madrid es una ciudad muy cara para vivir, por ello debes estimar una cantidad aproximada 350€ por mes por una habitación en piso compartido, más una cantidad similar para dejar en depósito. Los precios varían dependiendo de la zona.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf764e55" class="outline-2">
+<h2 id="orgf764e55">Grupos y sitios de noticias</h2>
+<div class="outline-text-2" id="text-orgf764e55">
+<p>
+Facebook: <a href="https://www.facebook.com/ETSIINF">https://www.facebook.com/ETSIINF</a>
+</p>
+
+<p>
+Twitter: @informaticaupm
+</p>
+</div>
+
+<div id="outline-container-orge5d5d5f" class="outline-3">
+<h3 id="orge5d5d5f">Otros sitios con información de interés</h3>
+<div class="outline-text-3" id="text-orge5d5d5f">
+<ul class="org-ul">
+<li><a href="http://www.upm.es/sfs/Rectorado/Vicerrectorado%20de%20Alumnos/Extension%20Universitaria/Intercambios:%20movilidad%20de%20estudiantes/Erasmus/Extranjeros/GUIA%20PARA%20ESTUDIANTES%20EXTRANJEROS%20-%20SPANISH.pdf">Guia para estudiantes extranjeros UPM</a></li>
+<li><a href="http://www.upm.es/portal/site/institucional/template.PAGE/menuitem.ca8d5a1f6c6bb42aad77b13bdffb46a8/?javax.portlet.tpst=ec9cfb82dd1810f48851ac10907c46a8&amp;javax.portlet.prp_ec9cfb82dd1810f48851ac10907c46a8=opcion=vistaCentros&amp;javax.portlet.begCacheTok=com.vignette.cachetoken&amp;javax.portlet.endCacheTok=com.vignette.cachetoken&amp;vgnextoid=598350078572f110VgnVCM10000009c7648aRCRD">Asociaciones de estudiantes en la UPM</a></li>
+<li><a href="http://fi.upm.es/?pagina=18">Asociaciones de estudiantes en la ETSIINF</a></li>
+<li><a href="http://www.upm.es/DelegacionAlumnos/Delegacion/E_Delegacion">Delegación de Alumnos UPM</a></li>
+<li><a href="http://da.fi.upm.es/">Delegación de Alumnos ESTIINF</a></li>
+<li><a href="http://www.upm.es/institucional/UPM/Actividades_Culturales/Acceso_Actividades">Actividades culturales UPM</a></li>
+<li><a href="http://www.upm.es/institucional/UPM/Actividades_Culturales/Aula_Cultura">Aula de cultura</a></li>
+<li><a href="http://www.upm.es/institucional/UPM/MuseosUPM">Museos y colecciones UPM</a></li>
+<li><a href="http://www.mhi.fi.upm.es/">Museo Histórico de la Informática</a></li>
+<li><a href="http://www.upm.es/institucional/UPM/Deportes">Actividades deportivas UPM</a></li>
+<li><a href="http://fi.upm.es/?pagina=229">Instalaciones deportivas en la ETSIINF</a></li>
+<li><a href="http://www.upm.es/institucional/Estudiantes/CompeticionesEstudiantes">Competiciones de estudiantes UPM</a></li>
+</ul>
+
+
+
+<p>
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+He terminado esta pagina por ahora y seguir con las siguientes
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Luciano Garcia</p>
+<p class="date">Created: 2017-12-21 Thu 16:33</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>
