@@ -2,12 +2,18 @@
 #+OPTIONS: num:nil
 
 * Programas de movilidad para alumnos externos
+:PROPERTIES:
+:CUSTOM_ID: preparacionTOEIC
+:END:
 En primer lugar queremos dar la bienvenida a la Escuela Técnica Superior de Ingenieros Informáticos - ETSIINF - (antes Facultad de Informática), Universidad Politécnica de Madrid, a todos los alumnos de intercambio que han decidido hacer una estancia con nosotros. Estamos realmente encantados de que hayáis elegido nuestra Facultad para llevar a cabo vuestro programa de intercambio y estamos convencidos de que vuestra estancia de estudios así como  vuestra estancia en España será muy agradable y valiosa para vuestro futuro académico, profesional y personal.
 
 En esta página se incluye información útil para los alumnos extranjeros que deseen pasar una estancia de estudios en la ETSIINF mediante programas de intercambio.
 
 Si la información que buscas no está aquí, contacta con la [[http://fi.upm.es/?pagina=286][Oficina de Relaciones Externas (OREX)]] y gustosamente te atenderemos.
 * Acceso a la ETSIINF
+:PROPERTIES:
+:CUSTOM_ID: preparacionTOEIC
+:END:
 Los estudiantes extranjeros interesados en realizar una estancia en la ETSIINF deberán contactar con la oficina internacional de su universidad o centro de origen y verificar si existe o no convenio de intercambio de estudiantes.
 
 En caso de existir convenio, los estudiantes podrán solicitar su admisión a través de sus oficinas internacionales.
@@ -15,10 +21,16 @@ En caso de existir convenio, los estudiantes podrán solicitar su admisión a tr
 Si no existe convenio deben consultar con sus oficinas internacionales sobre la posibilidad de establecer uno. De no ser posible, cabe la posibilidad de ser admitido como alumno visitante (sin convenio) ([[http://www.upm.es/sfs/Rectorado/Vicerrectorado%20de%20Relaciones%20Internacionales/Resto%20del%20Mundo/normativa_estudiantes_visitantes.pdf][Normativa]]).
 
 ** Plazos de solicitud de admisión
+:PROPERTIES:
+:CUSTOM_ID: preparacionTOEIC
+:END:
 - *1 Junio*: para estancias de curso completo y del semestre de otoño
 - *1 Diciembre*: para estancias durante el semestre de primavera
 
 ** Documentos para la solicitud
+:PROPERTIES:
+:CUSTOM_ID: preparacionTOEIC
+:END:
 Las solicitudes deben ser remitidas junto con la siguiente documentación por el coordinador o la oficina internacional de la universidad de origen a la Oficina de la Relaciones Externas (OREX) de la ETSIINF.
 
 Documentos para *todos* los programas de intercambio:
@@ -45,14 +57,23 @@ Documentos específicos para alumnos *visitantes* (sin convenio):
 - [[http://fi.upm.es/docs/servicios/tramites/432_Contrato%20de%20estudios%20VISITANTES%20SC.doc][Contrato de estudios]]
 
 ** Admisión
+:PROPERTIES:
+:CUSTOM_ID: preparacionTOEIC
+:END:
 
 Una vez recibida la solicitud de admisión junto con toda la documentación señalada, la Oficina de Relaciones Externas (OREX) de la ETSIINF procederá a estudiar y en su caso admitir a los estudiantes. En un plazo no superior a cuatro semanas desde la recepción de la solicitud, se le comunicará al alumno la admisión o no al programa. Una vez admitido en el programa, el alumno recibirá una carta de admisión por parte de la ETSIINF, junto con el contrato de estudios firmado e información útil para alumnos de intercambio.
 
 ** Visados
+:PROPERTIES:
+:CUSTOM_ID: preparacionTOEIC
+:END:
 
 Los alumnos no europeos deben solicitar visado para entrar en España. La solicitud deben realizarla en la Embajada o Consulado español del pais de origen.
 
 ** Seguros
+:PROPERTIES:
+:CUSTOM_ID: preparacionTOEIC
+:END:
 
 Los alumnos europeos deberán proveerse de la Tarjeta Sanitaria Europea en sus paises de origen o deben contratar un seguro privado.
 
@@ -61,14 +82,44 @@ Los alumnos no europeos deberán contratar un seguro privado con repatriación e
 La UPM ofrece la posibilidad de contratar el seguro [[http://oncampus.es/][ONCAMPUS]].
 
 * Llegada a Madrid y primeros pasos
+:PROPERTIES:
+:CUSTOM_ID: preparacionTOEIC
+:END:
 
 La ETSIINF se encuetra en el Campus de Montegancedo.
 
 [[http://fi.upm.es/?pagina=166][Como llegar a la ETSIINF]]
 
-Una vez que el alumno ha llegado a Madrid, una de las primeras cosas que debe hacer es visitar la Oficina de Relaciones Externas (OREX)de la ETSIINF para registrarse. Allí el alumno recibirá toda la información necesaria para convertirse en un alumno de la ETSIINF. La OREX es la que se encarga de todos los trámites relacionados con  alumnos en programas de movilidad.
+Una vez que el alumno ha llegado a Madrid, una de las primeras cosas que debe hacer es visitar la Oficina de Relaciones Externas (OREX) de la ETSIINF para registrarse. Allí el alumno recibirá toda la información necesaria para convertirse en un alumno de la ETSIINF. La OREX es la que se encarga de todos los trámites relacionados con  alumnos en programas de movilidad.
 
+* Eligiendo las asignaturas a cursar
+:PROPERTIES:
+:CUSTOM_ID: preparacionTOEIC
+:END:
+Algunos factores son esenciales para una buena elección de asignaturas por parte de los alumnos que vienen a la ETSIINF en programas de intercambio. Se divide su enumeración en tipo de programa de origen.
+** Alumnos de grado
+:PROPERTIES:
+:CUSTOM_ID: preparacionTOEIC
+:END:
+- En la ETSIINF se imparten 3 programas de grado (Grado en Ingeniería Informática, Grado en Matemáticas e Informática y Doble grado en Ingeniería Informática y Administración de Empresas). El alumno de intercambio puede elegir asignaturas de cualquiera de los 3 grados de forma indistinta. También se debe considerar que diversas de las asignaturas de un programa (principalmente las de los primeros cursos) tienen equivalentes en los otros programas.
+- Todas las asignaturas disponibles a los alumnos en intercambio se imparten en Castellano.
+- Existe un documento llamado "Guía de Asignatura" para todas y cada una de las asignaturas en la ETSIINF. En este documento se recogen todos los datos importantes de la asignatura. Sin embargo, no se suele publicar en ellas las fechas de los exámenes, aunque sí su existencia y una semana aproximada en que ocurrirá.
+- Las asignaturas de los programas de grado están pensadas para que se hagan en cursos (años) consecutivos. Por este motivo, los horarios de las clases están divididos por semestre y se presentan todos en un mismo documento para un mismo semestre. Además de eso, cada curso puede tener más de un grupo, y si es este el caso, todas las asignaturas obligatorias estarán disponibles para todos los grupos listados. En los documentos de horarios, los distintos grupos están en el mismo documento en páginas separadas. Se recuerda que no hay restricciones para los alumnos en intercambio cuánto a grupos que elija, curso al que pertenece cada asignatura, programa al que pertenece cada asignatura, etc. Simplemente hay que saber qué significan todos esos datos para que se pueda elegir bien las asignaturas y sus grupos.
+- Otro factor que hay que tener en cuenta son los horarios de actividades de evaluación, que aparecen en los documentos de horarios de cada curso. Son siempre los mismos para cierto curso independiente del grupo que se elija. Las asignaturas pueden definir como horario de examen tanto un momento en su propia clase como un intervalo en los horarios de actividades de evaluación de su curso. Se garantiza que, entre las asignaturas de un mismo curso, nunca se solapan los horarios de examen para cada asignatura. Sin embargo, para asignaturas de distintos cursos es responsabilidad del alumno elegir asignaturas que, si son de cursos distintos, no tengan su horario dedicado a evaluación solapado. No se prohibe la elección de asignaturas con ese horario solapado si son de distintos cursos, pero el posible caso de examenes en el mismo horario no es un factor que justifique el dejar de hacer uno de ellos.
+Los listados de asignaturas, sus guías de asignatura y sus horarios se encuentran en:
+- Asignaturas: [[http://fi.upm.es/es/gradoingenieriainformatica/asignaturas][Grado en Ingeniería Informática]], [[http://fi.upm.es/?pagina=1081][Grado en Matemáticas e Informática]], [[http://fi.upm.es/?pagina=2123][Doble Grado en Ingeniería Informática y Administración de Empresas]]
+- Guías de Asignatura: [[http://fi.upm.es/?pagina=2283][Grado en Ingeniería Informática]], [[http://fi.upm.es/?pagina=1105][Grado en Matemáticas e Informática]], [[http://fi.upm.es/?pagina=2203][Doble Grado en Ingeniería Informática y Administración de Empresas]]
+- Horarios: [[http://fi.upm.es/?id=gradoingenieriainformatica][Grado en Ingeniería Informática]], [[http://fi.upm.es/?id=gradomatematicasinformatica][Grado en Matemáticas e Informática]], [[http://fi.upm.es/?id=Informatica-ADE][Doble Grado en Ingeniería Informática y Administración de Empresas]]
+** Alumnos de máster
+:PROPERTIES:
+:CUSTOM_ID: preparacionTOEIC
+:END:
+Los alumnos que vienen a la ETSIINF a partir de cursos de máster pueden elegir asignaturas tanto de grado, cuyas recomendaciones se mencionan en el punto anterior, como de máster, que se mencionan a seguir:
+-
 * Programas de estudios
+:PROPERTIES:
+:CUSTOM_ID: preparacionTOEIC
+:END:
 En la actualidad, en la ETSIINF se imparten los siguientes programas de estudios:
 - [[http://fi.upm.es/?id=gradoingenieriainformatica][Graduado en Ingeniería Informática]]
 - [[http://fi.upm.es/?id=gradomatematicasinformatica][Graduado en Matemáticas e Informática]]
@@ -81,12 +132,21 @@ En la actualidad, en la ETSIINF se imparten los siguientes programas de estudios
 Todos los programas están estructurados en asignaturas semestrales y créditos ECTS.
 
 ** Calendario
+:PROPERTIES:
+:CUSTOM_ID: preparacionTOEIC
+:END:
 Para cada curso coexisten varios calendarios activos en función del programa de estudios. Consultar cada programa para ver calendario adecuado.
 
 ** Horarios de clase
+:PROPERTIES:
+:CUSTOM_ID: preparacionTOEIC
+:END:
 Los horarios de clase son fijos y no es posible cambiarlos. Es responsabilidad del alumno el confeccionar un programa de estudios en el que no haya solapamientos de horarios.
 
 ** Exámenes
+:PROPERTIES:
+:CUSTOM_ID: preparacionTOEIC
+:END:
 Las fecha y horarios de exámenes son fijos y no es posible cambiarlos.
 
 No es necesario registrarse para realizar un examen. Una vez que el alumno está oficialmente matriculado tiene derecho a dos convocatorias de exámen, una ordinaria (Enero o Junio) y otra extraordinaria (Julio).
@@ -96,6 +156,9 @@ Los alumnos que opten por la modalidad de examen final deben comunicarlo al prof
 Se recomienda consultar fechas y horarios de ambas convocatorias en los respectivos programas de estudios (guía de asignatura).
 
 ** Matrícula
+:PROPERTIES:
+:CUSTOM_ID: preparacionTOEIC
+:END:
 La matrícula de todos los alumnos de intercambio será realizada exclusivamente por la Oficina de Relaciones Externas del centro.
 
 Para realizar la matrícula es necesario que el Acuerdo Académico esté debidamente cumplimentado y refleje las asignaturas que el alumno realmente quiere cursar. Si fuera necesario realizar cambios al Acuerdo Académico inicial, éstos podrán hacerse en un periodo máximo de diez días desde el comienzo del curso. Durante este periodo los alumnos de intercambio deben comunicar a la mayor brevedad posible dichos cambios a la Oficina de Relaciones Externas para rehacer el Acuerdo Académico y enviarlo a su universidad de origen, o por el contrario, deben comunicar  que el contenido inicial del Acuerdo Académico es válido y correcto. Sin este requisito NO es posible realizar la matrícula.
@@ -107,12 +170,18 @@ La matrícula se realizará por semestres. Cada semestre tiene un periodo de mat
 Una vez realizada la matrícula se avisará al alumno por correo electrónico para que solicite de forma on-line, cuenta de correo electrónico @alumnos.upm.es. Esta dirección de correo electrónico es imprescindible para acceder a los servicios en red de la UPM (Politécnica virtual, plataformas de teleenseñanza, red inalámbrica, correo electrónico, etc.).
 
 ** Lengua en la que se imparten las clases
+:PROPERTIES:
+:CUSTOM_ID: preparacionTOEIC
+:END:
 
 Las clases son impartidas mayoritariamente en español, en especial en los programas de grado. Algunos programas de master imparten clases en inglés y español. Para conocer la lengua en que se imparten las clases hay que consultar cada asignatura en su guia de aprendizaje.
 
 Por todo lo anterior y para que el alumno pueda seguir con normalidad y aprovechamiento las clases, se recomienda encarecidamente que los alumnos posean un nivel de español de B1 (Marco Comun Europeo de Referencia de las Lenguas) certificado oficialmente, o  por  la propia universidad de origen. Aquellos alumnos que no puedan acreditar dicho nivel, deberan asistir al programa de Español organizado por [[http://www.upm.es/institucional/Estudiantes/Movilidad/LenguasInternacionalizacion][PROLINTER UPM]] para los alumnos internacionales.
 
 * Cursos de español
+:PROPERTIES:
+:CUSTOM_ID: preparacionTOEIC
+:END:
 
 La UPM a través del [[http://www.upm.es/institucional/Estudiantes/Movilidad/LenguasInternacionalizacion][Programa de Lenguas para la Internacionalización (PROLINTER)]] ofrece una alta variedad de cursos de español para los estudiantes de intercambio que van a disfrutar de una estancia en cualquiera de sus centros.
 
@@ -123,16 +192,25 @@ Los alumnos de intercambio tienen varias programas de español para elegir: curs
 Más információn sobre calendario, horarios, plazos de solicitud, etc. en [[http://www.upm.es/institucional/Estudiantes/Movilidad/LenguasInternacionalizacion][PROLINTER]].
 
 * Alojamiento
+:PROPERTIES:
+:CUSTOM_ID: preparacionTOEIC
+:END:
 La ETSIINF no dispone de servicio de alojamiento tales como residencias de estudiantes o colegios mayores, pero puedes encontrar información sobre alojamiento en la [[http://www.upm.es/institucional/Estudiantes/Atencion/AlojamientoEstudiantes][web]] de la UPM y en (>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<).
 
 Tienes que tener en cuenta que Madrid es una ciudad muy cara para vivir, por ello debes estimar una cantidad aproximada 350€ por mes por una habitación en piso compartido, más una cantidad similar para dejar en depósito. Los precios varían dependiendo de la zona.
 
 * Grupos y sitios de noticias
+:PROPERTIES:
+:CUSTOM_ID: preparacionTOEIC
+:END:
 Facebook: https://www.facebook.com/ETSIINF
 
 Twitter: @informaticaupm
 
 ** Otros sitios con información de interés
+:PROPERTIES:
+:CUSTOM_ID: preparacionTOEIC
+:END:
 - [[http://www.upm.es/sfs/Rectorado/Vicerrectorado%20de%20Alumnos/Extension%20Universitaria/Intercambios:%20movilidad%20de%20estudiantes/Erasmus/Extranjeros/GUIA%20PARA%20ESTUDIANTES%20EXTRANJEROS%20-%20SPANISH.pdf][Guia para estudiantes extranjeros UPM]]
 - [[http://www.upm.es/portal/site/institucional/template.PAGE/menuitem.ca8d5a1f6c6bb42aad77b13bdffb46a8/?javax.portlet.tpst=ec9cfb82dd1810f48851ac10907c46a8&javax.portlet.prp_ec9cfb82dd1810f48851ac10907c46a8=opcion%3DvistaCentros&javax.portlet.begCacheTok=com.vignette.cachetoken&javax.portlet.endCacheTok=com.vignette.cachetoken&vgnextoid=598350078572f110VgnVCM10000009c7648aRCRD][Asociaciones de estudiantes en la UPM]]
 - [[http://fi.upm.es/?pagina=18][Asociaciones de estudiantes en la ETSIINF]]

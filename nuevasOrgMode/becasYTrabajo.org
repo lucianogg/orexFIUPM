@@ -2,17 +2,62 @@
 #+OPTIONS: num:nil
 
 * Becas y Trabajo
+:PROPERTIES:
+:CUSTOM_ID: becasytrabajo
+:END:
 * Becas
+:PROPERTIES:
+:CUSTOM_ID: becas
+:END:
 ** [[http://www.upm.es/Estudiantes/BecasAyudasPremios][Becas y ayudas oficiales para alumnos]]
+:PROPERTIES:
+:CUSTOM_ID: becasoficialesalumnos
+:END:
 ** [[http://fi.upm.es/?id=becasinvestigacion][Becas de investigación en la ETSI Informáticos]]
+:PROPERTIES:
+:CUSTOM_ID: becasinvestigacionETSIINF
+:END:
 ** [[https://fi.upm.es/PaginaNuevaDeAlumnosDelCentro][Becas para la movilidad académica y laboral]]
+:PROPERTIES:
+:CUSTOM_ID: becasMovilidad
+:END:
 * Prácticas en empresa y ofertas laborales
+:PROPERTIES:
+:CUSTOM_ID: practicasyofertas
+:END:
 ** [[http://fi.upm.es/?pagina=154][Prácticas en empresas: convenios, listados, practicum de grado y practicum de postgrado]]
+:PROPERTIES:
+:CUSTOM_ID: practicasempresas
+:END:
 ** [[http://fi.upm.es/?pagina=259][Ofertas de empleo]]
+:PROPERTIES:
+:CUSTOM_ID: ofertas
+:END:
 ** [[http://congresotryit.es/][Formación para la inserción laboral: TryIT!]]
+:PROPERTIES:
+:CUSTOM_ID: formacionparainsercionlaboral
+:END:
 ** [[https://www.coie.upm.es/][Plataforma de Prácticas de la UPM - COIE]]
+:PROPERTIES:
+:CUSTOM_ID: plataformapracticascoie
+:END:
 * Emprendedorismo
+:PROPERTIES:
+:CUSTOM_ID: emprendedorismo
+:END:
 ** [[http://www.upm.es/Investigacion/innovacion/CreacionEmpresas/Servicios/Competicion_Creacion_Empresas][Programa de creación de empresas - actúaupm]]
+:PROPERTIES:
+:CUSTOM_ID: actuaupm
+:END:
 * Premios y concursos
+:PROPERTIES:
+:CUSTOM_ID: premiosconcursos
+:END:
 ** [[http://fi.upm.es/?pagina=443][Premio Accenture al Mejor Trabajo Fin de Grado]]
+:PROPERTIES:
+:CUSTOM_ID: accenturemejortfg
+:END:
 ** [[http://fi.upm.es/?pagina=2021][Premio Accenture al Mejor Trabajo Fin de Master en Ingeniería Informática]]
+:PROPERTIES:
+:CUSTOM_ID: accenturemejortfm
+:END:

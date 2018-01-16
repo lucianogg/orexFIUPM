@@ -1,17 +1,24 @@
-#+HTML_HEAD: <style type="text/css"> <!--/*--><![CDATA[/*><!--*/ .title { display: none; } /*]]>*/--> </style>
-#+OPTIONS: num:nil
+# +HTML_HEAD: <style type="text/css"> <!--/*--><![CDATA[/*><!--*/ .title { display: none; } /*]]>*/--> </style>
+#+OPTIONS: num:nil author:nil html-style:nil html-preamble:nil html-postamble:nil html-scripts:nil
 
 * Movilidad académica
-La Escuela Técnica Superior de Ingenieros Informáticos (ETSIINF) de la Universidad Politécnica de Madrid es uno de los
+:PROPERTIES:
+:CUSTOM_ID: movilidadAcademica
+:END:
+La Escuela Técnica Superior de Ingenieros Informáticos (ETSIINF) de la Universidad Politécnica de Madrid es uno de los centros con mayor prestigio nacional en los estudios de Ingeniería Informática y uno de las más relevantes de Europa. Su vocación internacional se manifiesta a través de las relaciones institucionales que desde sus orígenes mantiene con algunos de los más prestigiosos centros europeos de formación, bien a través de la red europea de intercambio ERASMUS, bien mediante acuerdos específicos de doble diploma. Asimismo, la ETSIINF, participa en otras redes y programas internacionales como: ERASMUS-MUNDUS, Magalhães-SMILE, GE3, Programa Hispano-Chino, GOYA-MUNDUS, ATHENS, Vulcanus, etc.
 
-La Escuela Técnica Superior de Ingenieros Informáticos (ETSIINF) de la Universidad Politécnica de Madrid es uno de los centros con mayor prestigio nacional en los estudios de Ingeniería Informática y uno de las más relevantes de Europa. Su vocación internacional se manifiesta a través de las relaciones institucionales que desde sus orígenes mantiene con algunos de los más prestigiosos centros europeos de formación, bien a través de la red europea de intercambio ERASMUS, bien mediante acuerdos específicos de doble diploma. Asimismo, la ETSIINF, participa en otras redes y programas internacionales como: ERASMUS-MUNDUS, Magalhães-SMILE, GE3, Programa Hispano-Chino, GOYA-MUNDUS, ATHENS, VULCANUS, etc.
-
-La mayoría de estos programas llevan asociadas [[http://fi.upm.es/becasytrabajo/movilidadinternacional][becas o ayudas]], cuyas convocatorias podrás encontrar puntualmente, en el [[http://www.fi.upm.es/?id=tablon][tablón de anuncios]] de este mismo portal en la sección de becas o movilidad
+La mayoría de estos programas llevan asociadas [[http://fi.upm.es/?id=becasytrabajo/movilidadinternacional][becas o ayudas]], cuyas convocatorias podrás encontrar puntualmente, en el [[http://www.fi.upm.es/?id=tablon][tablón de anuncios]] de este mismo portal en la sección de becas o movilidad
 
 En la [[http://fi.upm.es/?pagina=286][Oficina de Relaciones Externas]] nos ocupamos de la gestión gestión administrativa de la movilidad y los intercambios.
 
 ** Estudiantes extranjeros en programas de movilidad
-[[http://fi.upm.es/?pagina=432][Información general para estudiantes extranjeros en programas de movilidad]]
+:PROPERTIES:
+:CUSTOM_ID: incoming
+:END:
+[[http://fi.upm.es/?id=exchange][Información general para estudiantes extranjeros en programas de movilidad]]
 
 ** Estudiantes de la ETSIINF en programas de movilidad
+:PROPERTIES:
+:CUSTOM_ID: outgoing
+:END:
 [[http://fi.upm.es/?pagina=9999][Información general para estudiantes de la ETSIINF en programas de movilidad]]

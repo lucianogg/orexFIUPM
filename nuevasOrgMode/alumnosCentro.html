@@ -3,230 +3,11 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2017-12-21 Thu 16:49 -->
+<!-- 2018-01-15 Mon 17:59 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>&lrm;</title>
 <meta name="generator" content="Org mode" />
-<meta name="author" content="Luciano Garcia" />
-<style type="text/css">
- <!--/*--><![CDATA[/*><!--*/
-  .title  { text-align: center;
-             margin-bottom: .2em; }
-  .subtitle { text-align: center;
-              font-size: medium;
-              font-weight: bold;
-              margin-top:0; }
-  .todo   { font-family: monospace; color: red; }
-  .done   { font-family: monospace; color: green; }
-  .priority { font-family: monospace; color: orange; }
-  .tag    { background-color: #eee; font-family: monospace;
-            padding: 2px; font-size: 80%; font-weight: normal; }
-  .timestamp { color: #bebebe; }
-  .timestamp-kwd { color: #5f9ea0; }
-  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
-  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
-  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
-  .underline { text-decoration: underline; }
-  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
-  p.verse { margin-left: 3%; }
-  pre {
-    border: 1px solid #ccc;
-    box-shadow: 3px 3px 3px #eee;
-    padding: 8pt;
-    font-family: monospace;
-    overflow: auto;
-    margin: 1.2em;
-  }
-  pre.src {
-    position: relative;
-    overflow: visible;
-    padding-top: 1.2em;
-  }
-  pre.src:before {
-    display: none;
-    position: absolute;
-    background-color: white;
-    top: -10px;
-    right: 10px;
-    padding: 3px;
-    border: 1px solid black;
-  }
-  pre.src:hover:before { display: inline;}
-  /* Languages per Org manual */
-  pre.src-asymptote:before { content: 'Asymptote'; }
-  pre.src-awk:before { content: 'Awk'; }
-  pre.src-C:before { content: 'C'; }
-  /* pre.src-C++ doesn't work in CSS */
-  pre.src-clojure:before { content: 'Clojure'; }
-  pre.src-css:before { content: 'CSS'; }
-  pre.src-D:before { content: 'D'; }
-  pre.src-ditaa:before { content: 'ditaa'; }
-  pre.src-dot:before { content: 'Graphviz'; }
-  pre.src-calc:before { content: 'Emacs Calc'; }
-  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
-  pre.src-fortran:before { content: 'Fortran'; }
-  pre.src-gnuplot:before { content: 'gnuplot'; }
-  pre.src-haskell:before { content: 'Haskell'; }
-  pre.src-hledger:before { content: 'hledger'; }
-  pre.src-java:before { content: 'Java'; }
-  pre.src-js:before { content: 'Javascript'; }
-  pre.src-latex:before { content: 'LaTeX'; }
-  pre.src-ledger:before { content: 'Ledger'; }
-  pre.src-lisp:before { content: 'Lisp'; }
-  pre.src-lilypond:before { content: 'Lilypond'; }
-  pre.src-lua:before { content: 'Lua'; }
-  pre.src-matlab:before { content: 'MATLAB'; }
-  pre.src-mscgen:before { content: 'Mscgen'; }
-  pre.src-ocaml:before { content: 'Objective Caml'; }
-  pre.src-octave:before { content: 'Octave'; }
-  pre.src-org:before { content: 'Org mode'; }
-  pre.src-oz:before { content: 'OZ'; }
-  pre.src-plantuml:before { content: 'Plantuml'; }
-  pre.src-processing:before { content: 'Processing.js'; }
-  pre.src-python:before { content: 'Python'; }
-  pre.src-R:before { content: 'R'; }
-  pre.src-ruby:before { content: 'Ruby'; }
-  pre.src-sass:before { content: 'Sass'; }
-  pre.src-scheme:before { content: 'Scheme'; }
-  pre.src-screen:before { content: 'Gnu Screen'; }
-  pre.src-sed:before { content: 'Sed'; }
-  pre.src-sh:before { content: 'shell'; }
-  pre.src-sql:before { content: 'SQL'; }
-  pre.src-sqlite:before { content: 'SQLite'; }
-  /* additional languages in org.el's org-babel-load-languages alist */
-  pre.src-forth:before { content: 'Forth'; }
-  pre.src-io:before { content: 'IO'; }
-  pre.src-J:before { content: 'J'; }
-  pre.src-makefile:before { content: 'Makefile'; }
-  pre.src-maxima:before { content: 'Maxima'; }
-  pre.src-perl:before { content: 'Perl'; }
-  pre.src-picolisp:before { content: 'Pico Lisp'; }
-  pre.src-scala:before { content: 'Scala'; }
-  pre.src-shell:before { content: 'Shell Script'; }
-  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
-  /* additional language identifiers per "defun org-babel-execute"
-       in ob-*.el */
-  pre.src-cpp:before  { content: 'C++'; }
-  pre.src-abc:before  { content: 'ABC'; }
-  pre.src-coq:before  { content: 'Coq'; }
-  pre.src-groovy:before  { content: 'Groovy'; }
-  /* additional language identifiers from org-babel-shell-names in
-     ob-shell.el: ob-shell is the only babel language using a lambda to put
-     the execution function name together. */
-  pre.src-bash:before  { content: 'bash'; }
-  pre.src-csh:before  { content: 'csh'; }
-  pre.src-ash:before  { content: 'ash'; }
-  pre.src-dash:before  { content: 'dash'; }
-  pre.src-ksh:before  { content: 'ksh'; }
-  pre.src-mksh:before  { content: 'mksh'; }
-  pre.src-posh:before  { content: 'posh'; }
-  /* Additional Emacs modes also supported by the LaTeX listings package */
-  pre.src-ada:before { content: 'Ada'; }
-  pre.src-asm:before { content: 'Assembler'; }
-  pre.src-caml:before { content: 'Caml'; }
-  pre.src-delphi:before { content: 'Delphi'; }
-  pre.src-html:before { content: 'HTML'; }
-  pre.src-idl:before { content: 'IDL'; }
-  pre.src-mercury:before { content: 'Mercury'; }
-  pre.src-metapost:before { content: 'MetaPost'; }
-  pre.src-modula-2:before { content: 'Modula-2'; }
-  pre.src-pascal:before { content: 'Pascal'; }
-  pre.src-ps:before { content: 'PostScript'; }
-  pre.src-prolog:before { content: 'Prolog'; }
-  pre.src-simula:before { content: 'Simula'; }
-  pre.src-tcl:before { content: 'tcl'; }
-  pre.src-tex:before { content: 'TeX'; }
-  pre.src-plain-tex:before { content: 'Plain TeX'; }
-  pre.src-verilog:before { content: 'Verilog'; }
-  pre.src-vhdl:before { content: 'VHDL'; }
-  pre.src-xml:before { content: 'XML'; }
-  pre.src-nxml:before { content: 'XML'; }
-  /* add a generic configuration mode; LaTeX export needs an additional
-     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
-  pre.src-conf:before { content: 'Configuration File'; }
-
-  table { border-collapse:collapse; }
-  caption.t-above { caption-side: top; }
-  caption.t-bottom { caption-side: bottom; }
-  td, th { vertical-align:top;  }
-  th.org-right  { text-align: center;  }
-  th.org-left   { text-align: center;   }
-  th.org-center { text-align: center; }
-  td.org-right  { text-align: right;  }
-  td.org-left   { text-align: left;   }
-  td.org-center { text-align: center; }
-  dt { font-weight: bold; }
-  .footpara { display: inline; }
-  .footdef  { margin-bottom: 1em; }
-  .figure { padding: 1em; }
-  .figure p { text-align: center; }
-  .inlinetask {
-    padding: 10px;
-    border: 2px solid gray;
-    margin: 10px;
-    background: #ffffcc;
-  }
-  #org-div-home-and-up
-   { text-align: right; font-size: 70%; white-space: nowrap; }
-  textarea { overflow-x: auto; }
-  .linenr { font-size: smaller }
-  .code-highlighted { background-color: #ffff00; }
-  .org-info-js_info-navigation { border-style: none; }
-  #org-info-js_console-label
-    { font-size: 10px; font-weight: bold; white-space: nowrap; }
-  .org-info-js_search-highlight
-    { background-color: #ffff00; color: #000000; font-weight: bold; }
-  .org-svg { width: 90%; }
-  /*]]>*/-->
-</style>
-<style type="text/css"> <!--/*--><![CDATA[/*><!--*/ .title { display: none; } /*]]>*/--> </style>
-<script type="text/javascript">
-/*
-@licstart  The following is the entire license notice for the
-JavaScript code in this tag.
-
-Copyright (C) 2012-2017 Free Software Foundation, Inc.
-
-The JavaScript code in this tag is free software: you can
-redistribute it and/or modify it under the terms of the GNU
-General Public License (GNU GPL) as published by the Free Software
-Foundation, either version 3 of the License, or (at your option)
-any later version.  The code is distributed WITHOUT ANY WARRANTY;
-without even the implied warranty of MERCHANTABILITY or FITNESS
-FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
-
-As additional permission under GNU GPL version 3 section 7, you
-may distribute non-source (e.g., minimized or compacted) forms of
-that code without the copy of the GNU GPL normally required by
-section 4, provided you include this license notice and a URL
-through which recipients can access the Corresponding Source.
-
-
-@licend  The above is the entire license notice
-for the JavaScript code in this tag.
-*/
-<!--/*--><![CDATA[/*><!--*/
- function CodeHighlightOn(elem, id)
- {
-   var target = document.getElementById(id);
-   if(null != target) {
-     elem.cacheClassElem = elem.className;
-     elem.cacheClassTarget = target.className;
-     target.className = "code-highlighted";
-     elem.className   = "code-highlighted";
-   }
- }
- function CodeHighlightOff(elem, id)
- {
-   var target = document.getElementById(id);
-   if(elem.cacheClassElem)
-     elem.className = elem.cacheClassElem;
-   if(elem.cacheClassTarget)
-     target.className = elem.cacheClassTarget;
- }
-/*]]>*///-->
-</script>
 </head>
 <body>
 <div id="content">
@@ -234,174 +15,175 @@ for the JavaScript code in this tag.
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#orgd0faa1c">Alumnos del centro</a></li>
-<li><a href="#org46dda2e">Programas académicos</a>
+<li><a href="#org9c9c4c3">Alumnos del centro</a></li>
+<li><a href="#programasAcademicos">Programas académicos</a>
 <ul>
-<li><a href="#orgabe1a52">Programas internacionales</a>
+<li><a href="#internacionales">Programas internacionales</a>
 <ul>
-<li><a href="#org75b4039">Erasmus+</a></li>
-<li><a href="#org09a8451">Magalhães - SMILE</a></li>
-<li><a href="#org07034d3">Programa Global E3</a></li>
-<li><a href="#org7a37ad4">Programa de movilidad hispano-chino</a></li>
-<li><a href="#org80cbe29">Convocatoria de proyectos de fin de carrera para el desarrollo</a></li>
-<li><a href="#orgb5fb239">Convocatoria de ayudas de viaje de cooperación</a></li>
-<li><a href="#orgfd33df6">Programas de estancias cortas</a></li>
+<li><a href="#erasmus">Erasmus+</a></li>
+<li><a href="#org5b8f23c">Magalhães - SMILE</a></li>
+<li><a href="#orgcdd11a3">Programa Global E3</a></li>
+<li><a href="#org43da255">Programa de movilidad hispano-chino</a></li>
+<li><a href="#org6573d0f">Convocatoria de proyectos de fin de carrera para el desarrollo</a></li>
+<li><a href="#orgf559f95">Convocatoria de ayudas de viaje de cooperación</a></li>
+<li><a href="#org44de8b5">Programas de estancias cortas</a></li>
 </ul>
 </li>
-<li><a href="#org58b49f7">Programa nacional SICUE</a>
+<li><a href="#orgc92a309">Programa nacional SICUE</a>
 <ul>
-<li><a href="#org07c6f62">Convocatoria k</a></li>
-<li><a href="#org3a10f3d">Convocatoria k-1</a></li>
+<li><a href="#org5e66b8b">Convocatoria k</a></li>
+<li><a href="#org386bd92">Convocatoria k-1</a></li>
 </ul>
 </li>
-<li><a href="#orge575540">Acuerdos bilaterales y acuerdos de doble diploma de máster</a>
+<li><a href="#orgc110692">Acuerdos bilaterales y acuerdos de doble diploma de máster</a>
 <ul>
-<li><a href="#orgce68d8d">Convocatoria k</a></li>
-<li><a href="#org433c4b6">Convocatoria k-1</a></li>
+<li><a href="#orgf1924de">Convocatoria k</a></li>
+<li><a href="#org03db6d8">Convocatoria k-1</a></li>
 </ul>
 </li>
-<li><a href="#orgdf2adf3">Becas para estancias cortas de investigación en el MIT</a></li>
-<li><a href="#org7b23236">Becas Tokyo Institute of Technology (Japón)</a></li>
-<li><a href="#orgbd846e7">Becas Iberoamérica. Estudiantes de grado. Santander Universidades</a></li>
-<li><a href="#orgeb2836b">Becas Iberoamérica. Santander Investigación</a></li>
+<li><a href="#orgce012ab">Becas para estancias cortas de investigación en el MIT</a></li>
+<li><a href="#org9a7cf2d">Becas Tokyo Institute of Technology (Japón)</a></li>
+<li><a href="#org103e76c">Becas Iberoamérica. Estudiantes de grado. Santander Universidades</a></li>
+<li><a href="#orgd6b17ce">Becas Iberoamérica. Santander Investigación</a></li>
 </ul>
 </li>
-<li><a href="#org131ef3c">Programas de prácticas en empresa en el exterior</a>
+<li><a href="#orgdf8bc5b">Programas de prácticas en empresa en el exterior</a>
 <ul>
-<li><a href="#org89e9def">Vulcanus</a></li>
-<li><a href="#org4b6d1b1">Becas ARGO</a></li>
-<li><a href="#org762f158">Becas Faro Global</a></li>
-<li><a href="#org41f8dd3">Becas Goya-Mundus</a></li>
-<li><a href="#orgb93d0c7">Movilidad para prácticas en empresas a través del programa ERASMUS</a>
+<li><a href="#org729dcf0">Vulcanus</a></li>
+<li><a href="#orgd4dcc5a">Becas ARGO</a></li>
+<li><a href="#orgdabdb2a">Becas Faro Global</a></li>
+<li><a href="#orgefa7a22">Becas Goya-Mundus</a></li>
+<li><a href="#org7230fdd">Movilidad para prácticas en empresas a través del programa ERASMUS</a>
 <ul>
-<li><a href="#org9e9bfb1">Convocatoria 2017-2018</a></li>
+<li><a href="#org4b25faf">Convocatoria 2017-2018</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#orgdd3998b">Otras oportunidades</a>
+<li><a href="#org7ac87e5">Otras oportunidades</a>
 <ul>
-<li><a href="#org6f1b1e5">Programas de voluntariado</a></li>
-<li><a href="#orgf0eaefb">Plataforma Europea de búsqueda de ayuda financiera de becas</a></li>
+<li><a href="#org35f3354">Programas de voluntariado</a></li>
+<li><a href="#orgeae6a84">Plataforma Europea de búsqueda de ayuda financiera de becas</a></li>
 </ul>
 </li>
-<li><a href="#org52c907f">Información de interés sobre idiomas</a>
+<li><a href="#org7acba75">Información de interés sobre idiomas</a>
 <ul>
-<li><a href="#org7f737f6">PROLINTER - Programa de Lengua para la Internacionalización - UPM</a>
+<li><a href="#org0bd57d6">PROLINTER - Programa de Lengua para la Internacionalización - UPM</a>
 <ul>
-<li><a href="#orgc9690b6">Lenguas del mundo en B-learning</a></li>
-<li><a href="#orgf23d98f">Cursos de preparación para el SAI (TOEIC)</a></li>
-<li><a href="#orgbe24855">Exámenes de acreditación externa TOEIC/TFI</a></li>
+<li><a href="#orge8233c1">Lenguas del mundo en B-learning</a></li>
+<li><a href="#orgffb65d0">Cursos de preparación para el SAI (TOEIC)</a></li>
+<li><a href="#org98117a6">Exámenes de acreditación externa TOEIC/TFI</a></li>
 </ul>
 </li>
-<li><a href="#orgd4447af">Listado de certificados acreditativos de inglés reconocidos nacional e internacionalmente</a></li>
+<li><a href="#org91c34cc">Listado de certificados acreditativos de inglés reconocidos nacional e internacionalmente</a></li>
 </ul>
 </li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-orgd0faa1c" class="outline-2">
-<h2 id="orgd0faa1c">Alumnos del centro</h2>
+<div id="outline-container-org9c9c4c3" class="outline-2">
+<h2 id="org9c9c4c3">Alumnos del centro</h2>
 </div>
-<div id="outline-container-org46dda2e" class="outline-2">
-<h2 id="org46dda2e">Programas académicos</h2>
-<div class="outline-text-2" id="text-org46dda2e">
+<div id="outline-container-orgb01da41" class="outline-2">
+<h2 id="programasAcademicos"><a id="orgb01da41"></a>Programas académicos</h2>
+<div class="outline-text-2" id="text-programasAcademicos">
 </div>
-<div id="outline-container-orgabe1a52" class="outline-3">
-<h3 id="orgabe1a52">Programas internacionales</h3>
-<div class="outline-text-3" id="text-orgabe1a52">
+<div id="outline-container-org03996a4" class="outline-3">
+<h3 id="internacionales"><a id="org03996a4"></a>Programas internacionales</h3>
+<div class="outline-text-3" id="text-internacionales">
 </div>
-<div id="outline-container-org75b4039" class="outline-4">
-<h4 id="org75b4039">Erasmus+</h4>
-<div class="outline-text-4" id="text-org75b4039">
+<div id="outline-container-orgc059c1f" class="outline-4">
+<h4 id="erasmus"><a id="orgc059c1f"></a>Erasmus+</h4>
+<div class="outline-text-4" id="text-erasmus">
 <p>
-El programa Erasmus+ ofrece la oportunidad al alumno de cursar parte de sus estudios en una de las universidades con las que tiene acuerdo la ETSIINF. La estancia dura entre 3 y 12 meses, la universidad de destino suele ofrecer alojamiento y se proporciona una ayuda mensual. <a href="http://www2.upm.es/portal/site/institucional/menuitem.e29ff8272ddfb41943a75910dffb46a8/?vgnextoid=99cd56b1540be110VgnVCM10000009c7648aRCRD">(más detalles)</a>
+El programa Erasmus+ ofrece la oportunidad al alumno de cursar parte de sus estudios en una de las universidades con las que tiene acuerdo la ETSIINF. La estancia dura entre 3 y 12 meses, la universidad de destino suele ofrecer alojamiento y se proporciona una ayuda mensual. <a href="http://www2.upm.es/portal/site/institucional/menuitem.e29ff8272ddfb41943a75910dffb46a8/?vgnextoid=99cd56b1540be110VgnVCM10000009c7648aRCRD">(má
+s detalles)</a>
 </p>
 </div>
 <ul class="org-ul">
-<li><a id="org651e32f"></a><a href="http://fi.upm.es">Convocatoria k</a><br /></li>
-<li><a id="org6a0c57f"></a><a href="http://www.fi.upm.es">Convocatoria k-1</a><br /></li>
+<li><a id="org6a948b5"></a><a href="http://fi.upm.es">Convocatoria k</a><br /></li>
+<li><a id="orgf470f7f"></a><a href="http://www.fi.upm.es">Convocatoria k-1</a><br /></li>
 </ul>
 </div>
-<div id="outline-container-org09a8451" class="outline-4">
-<h4 id="org09a8451">Magalhães - SMILE</h4>
-<div class="outline-text-4" id="text-org09a8451">
+<div id="outline-container-org5b8f23c" class="outline-4">
+<h4 id="org5b8f23c">Magalhães - SMILE</h4>
+<div class="outline-text-4" id="text-org5b8f23c">
 <p>
 El programa Magalhães es una red entre Europa, Latinoamérica y Caribe cuyo objetivo es fomentar la movilidad y cooperación entre las universidades participantes. SMILE es el programa de movilidad de estudiantes dentro de Magalhães. Es similar al programa ERASMUS. La UPM es miembro de esta red y la ETSIINF participa en ella a través de acuerdos bilaterales con universidades latinoamericanas de reconocido prestigio.
 </p>
 </div>
 <ul class="org-ul">
-<li><a id="org2662988"></a><a href="http://fi.upm.es">Convocatoria k</a><br /></li>
-<li><a id="org0a46372"></a><a href="http://www.fi.upm.es">Convocatoria k-1</a><br /></li>
+<li><a id="orge02ba47"></a><a href="http://fi.upm.es">Convocatoria k</a><br /></li>
+<li><a id="org74a38d1"></a><a href="http://www.fi.upm.es">Convocatoria k-1</a><br /></li>
 </ul>
 </div>
-<div id="outline-container-org07034d3" class="outline-4">
-<h4 id="org07034d3">Programa Global E3</h4>
-<div class="outline-text-4" id="text-org07034d3">
+<div id="outline-container-orgcdd11a3" class="outline-4">
+<h4 id="orgcdd11a3">Programa Global E3</h4>
+<div class="outline-text-4" id="text-orgcdd11a3">
 <p>
 Global E3 es un programa de intercambio para estudiantes de ingeniería. Se ofrece a los alumnos como oportunidad de cursar parte de sus estudios en una de las universidades asociadas. Está dirigido a alumnos con excelente aprovechamiento académico.
 </p>
 </div>
 <ul class="org-ul">
-<li><a id="org881a005"></a><a href="http://www2.upm.es/portal/site/institucional/menuitem.e29ff8272ddfb41943a75910dffb46a8/?vgnextoid=049f56b1540be110VgnVCM10000009c7648aRCRD">Descripción detallada y convocatorias</a><br /></li>
+<li><a id="orgfe1bae4"></a><a href="http://www2.upm.es/portal/site/institucional/menuitem.e29ff8272ddfb41943a75910dffb46a8/?vgnextoid=049f56b1540be110VgnVCM10000009c7648aRCRD">Descripción detallada y convocatorias</a><br /></li>
 </ul>
 </div>
-<div id="outline-container-org7a37ad4" class="outline-4">
-<h4 id="org7a37ad4">Programa de movilidad hispano-chino</h4>
-<div class="outline-text-4" id="text-org7a37ad4">
+<div id="outline-container-org43da255" class="outline-4">
+<h4 id="org43da255">Programa de movilidad hispano-chino</h4>
+<div class="outline-text-4" id="text-org43da255">
 <p>
 La UPM mantiene acuerdos bilaterales con diversas universidades chinas con el objetivo de fomentar la movilidad de estudiantes entre ambos países. El programa está especialmente dirigido a la realización del trabajo fin de grado o de fin de master.
 </p>
 </div>
 <ul class="org-ul">
-<li><a id="orgfdcc767"></a><a href="http://fi.upm.es">Convocatoria k</a><br /></li>
-<li><a id="org22caa4a"></a><a href="http://fi.upm.es">Convocatoria k-1</a><br /></li>
+<li><a id="orgbe80702"></a><a href="http://fi.upm.es">Convocatoria k</a><br /></li>
+<li><a id="org6828cdb"></a><a href="http://fi.upm.es">Convocatoria k-1</a><br /></li>
 </ul>
 </div>
-<div id="outline-container-org80cbe29" class="outline-4">
-<h4 id="org80cbe29">Convocatoria de proyectos de fin de carrera para el desarrollo</h4>
-<div class="outline-text-4" id="text-org80cbe29">
+<div id="outline-container-org6573d0f" class="outline-4">
+<h4 id="org6573d0f">Convocatoria de proyectos de fin de carrera para el desarrollo</h4>
+<div class="outline-text-4" id="text-org6573d0f">
 <p>
 Sigue existiendo?
 </p>
 </div>
 <ul class="org-ul">
-<li><a id="org42d028c"></a>Descripción<br /></li>
-<li><a id="orge1c8636"></a>Convocatoria k<br /></li>
-<li><a id="orgf013adf"></a>Convocatoria k-1<br /></li>
+<li><a id="orgf15aefd"></a>Descripción<br /></li>
+<li><a id="orgd7d29cd"></a>Convocatoria k<br /></li>
+<li><a id="orgdaf90ee"></a>Convocatoria k-1<br /></li>
 </ul>
 </div>
-<div id="outline-container-orgb5fb239" class="outline-4">
-<h4 id="orgb5fb239">Convocatoria de ayudas de viaje de cooperación</h4>
-<div class="outline-text-4" id="text-orgb5fb239">
+<div id="outline-container-orgf559f95" class="outline-4">
+<h4 id="orgf559f95">Convocatoria de ayudas de viaje de cooperación</h4>
+<div class="outline-text-4" id="text-orgf559f95">
 <p>
 [Hacer una pequeña Descripción]
 </p>
 </div>
 <ul class="org-ul">
-<li><a id="orgaf19be0"></a><a href="http://www.upm.es/institucional/Estudiantes/Movilidad/Programas_Internacionales/Ayudas_Viaje_Coop_1">1-4 meses</a><br /></li>
-<li><a id="org1a21408"></a><a href="http://www.upm.es/institucional/Estudiantes/Movilidad/Programas_Internacionales/Ayudas_Viaje_Coop_2">4-6 meses</a><br /></li>
+<li><a id="orge23c62f"></a><a href="http://www.upm.es/institucional/Estudiantes/Movilidad/Programas_Internacionales/Ayudas_Viaje_Coop_1">1-4 meses</a><br /></li>
+<li><a id="orgd63738e"></a><a href="http://www.upm.es/institucional/Estudiantes/Movilidad/Programas_Internacionales/Ayudas_Viaje_Coop_2">4-6 meses</a><br /></li>
 </ul>
 </div>
-<div id="outline-container-orgfd33df6" class="outline-4">
-<h4 id="orgfd33df6">Programas de estancias cortas</h4>
-<div class="outline-text-4" id="text-orgfd33df6">
+<div id="outline-container-org44de8b5" class="outline-4">
+<h4 id="org44de8b5">Programas de estancias cortas</h4>
+<div class="outline-text-4" id="text-org44de8b5">
 </div>
 <ul class="org-ul">
-<li><a id="org890155f"></a>Athens<br />
-<div class="outline-text-5" id="text-org890155f">
+<li><a id="org51790c4"></a>Athens<br />
+<div class="outline-text-5" id="text-org51790c4">
 <p>
 El programa ATHENS consta de una serie de cursos organizados en universidades tecnológicas europeas, con reconocimiento de créditos y posibilidad de solicitar bolsa de viaje para acudir a los cursos en otros países. Hay una convocatoria de marzo y una de noviembre en cada curso. (más detalles o bien en la <a href="http://www.upm.es/Estudiantes/Movilidad/Programas_Internacionales/Athens">página de UPM</a> o en la <a href="http://athensnetwork.eu/">página oficial de ATHENS</a>)
 </p>
 </div>
 <ul class="org-ul">
-<li><a id="org9c01f54"></a><a href="https://fi.upm.es">Convocatoria k</a><br /></li>
-<li><a id="org9a7554a"></a><a href="http://www.fi.upm.es">Convocatoria k-1</a><br /></li>
+<li><a id="org1b4fea8"></a><a href="https://fi.upm.es">Convocatoria k</a><br /></li>
+<li><a id="orgadb884c"></a><a href="http://www.fi.upm.es">Convocatoria k-1</a><br /></li>
 </ul>
 </li>
-<li><a id="org29da468"></a>BEST<br />
-<div class="outline-text-5" id="text-org29da468">
+<li><a id="orgb9bb3cc"></a>BEST<br />
+<div class="outline-text-5" id="text-orgb9bb3cc">
 <p>
 BEST (Board of European Students of Technology) es una organización apolítica y sin ánimo de lucro que ofrece cursos de corta duración y competiciones por Europa. <a href="http://www.best.eu.org/index.jsp">(más detalles)</a>
 </p>
@@ -410,166 +192,161 @@ BEST (Board of European Students of Technology) es una organización apolítica 
 </ul>
 </div>
 </div>
-<div id="outline-container-org58b49f7" class="outline-3">
-<h3 id="org58b49f7">Programa nacional SICUE</h3>
-<div class="outline-text-3" id="text-org58b49f7">
+<div id="outline-container-orgc92a309" class="outline-3">
+<h3 id="orgc92a309">Programa nacional SICUE</h3>
+<div class="outline-text-3" id="text-orgc92a309">
 <p>
 El programa SICUE permite la realización de parte de los estudios en otra universidad española, con garantía de reconocimiento académico y de aprovechamiento, así como adecuación al perfil curricular.
 </p>
 </div>
-<div id="outline-container-org07c6f62" class="outline-4">
-<h4 id="org07c6f62"><a href="http://fi.upm.es">Convocatoria k</a></h4>
+<div id="outline-container-org5e66b8b" class="outline-4">
+<h4 id="org5e66b8b"><a href="http://fi.upm.es">Convocatoria k</a></h4>
 </div>
-<div id="outline-container-org3a10f3d" class="outline-4">
-<h4 id="org3a10f3d"><a href="http://www.fi.upm.es">Convocatoria k-1</a></h4>
+<div id="outline-container-org386bd92" class="outline-4">
+<h4 id="org386bd92"><a href="http://www.fi.upm.es">Convocatoria k-1</a></h4>
 </div>
 </div>
-<div id="outline-container-orge575540" class="outline-3">
-<h3 id="orge575540">Acuerdos bilaterales y acuerdos de doble diploma de máster</h3>
-<div class="outline-text-3" id="text-orge575540">
+<div id="outline-container-orgc110692" class="outline-3">
+<h3 id="orgc110692">Acuerdos bilaterales y acuerdos de doble diploma de máster</h3>
+<div class="outline-text-3" id="text-orgc110692">
 <p>
 La ETSIINF mantiene acuerdos de cooperación y acuerdos bilaterales con diversos centros extranjeros. Algunos de ellos permiten actividades de movilidad de tipo académico, doble diploma, de investigación, etc. Se listan en las páginas de cada convocatoria, a seguir:
 </p>
 </div>
-<div id="outline-container-orgce68d8d" class="outline-4">
-<h4 id="orgce68d8d"><a href="http://www.fi.upm.es">Convocatoria k</a></h4>
+<div id="outline-container-orgf1924de" class="outline-4">
+<h4 id="orgf1924de"><a href="http://www.fi.upm.es">Convocatoria k</a></h4>
 </div>
-<div id="outline-container-org433c4b6" class="outline-4">
-<h4 id="org433c4b6"><a href="http://www.fi.upm.es">Convocatoria k-1</a></h4>
+<div id="outline-container-org03db6d8" class="outline-4">
+<h4 id="org03db6d8"><a href="http://www.fi.upm.es">Convocatoria k-1</a></h4>
 </div>
 </div>
-<div id="outline-container-orgdf2adf3" class="outline-3">
-<h3 id="orgdf2adf3">Becas para estancias cortas de investigación en el MIT</h3>
-<div class="outline-text-3" id="text-orgdf2adf3">
+<div id="outline-container-orgce012ab" class="outline-3">
+<h3 id="orgce012ab">Becas para estancias cortas de investigación en el MIT</h3>
+<div class="outline-text-3" id="text-orgce012ab">
 <p>
 Esta convocatoria está orientada a promover la relación con el Massachusetts Institute of Technology (MIT) mediante becas para estancias cortas de investigación de estudiantes de máster y de último curso de grado. <a href="http://www.upm.es/Estudiantes/BecasAyudasPremios/Becas/Becas_Movilidad?id=35d6e50734841510VgnVCM10000009c7648a____&amp;fmt=detail&amp;prefmt=articulo">(más detalles)</a>
 </p>
 </div>
 </div>
-<div id="outline-container-org7b23236" class="outline-3">
-<h3 id="org7b23236">Becas Tokyo Institute of Technology (Japón)</h3>
-<div class="outline-text-3" id="text-org7b23236">
+<div id="outline-container-org9a7cf2d" class="outline-3">
+<h3 id="org9a7cf2d">Becas Tokyo Institute of Technology (Japón)</h3>
+<div class="outline-text-3" id="text-org9a7cf2d">
 <p>
 La UPM tiene un acuerdo con el Tokyo Institute of Technology Graduate School of Engineering de intercambio de estudiantes para la realización de estancias de investigación en su Summer Exchange Research Program. Son estancias de hasta 3 meses durante los meses de verano. <a href="http://www.upm.es/Estudiantes/BecasAyudasPremios/Becas/Becas_Movilidad?fmt=detail&amp;prefmt=articulo&amp;id=cd29e527e027c310VgnVCM10000009c7648a">(más detalles)</a>
 </p>
 </div>
 </div>
-<div id="outline-container-orgbd846e7" class="outline-3">
-<h3 id="orgbd846e7">Becas Iberoamérica. Estudiantes de grado. Santander Universidades</h3>
-<div class="outline-text-3" id="text-orgbd846e7">
+<div id="outline-container-org103e76c" class="outline-3">
+<h3 id="org103e76c">Becas Iberoamérica. Estudiantes de grado. Santander Universidades</h3>
+<div class="outline-text-3" id="text-org103e76c">
 <p>
 Estas becas tienen por objeto fomentar la movilidad internacional de estudiantes de grado con el fin de realizar estudios en universidades iberoamericanas con las que la UPM tenga establecido un convenio internacional para el intercambio académico de estudiantes. <a href="http://www.upm.es/Estudiantes/BecasAyudasPremios/Becas/Becas_Movilidad?id=f6512dcb05ebf210VgnVCM10000009c7648a____&amp;fmt=detail&amp;prefmt=articulo">(más detalles)</a>
 </p>
 </div>
 </div>
-<div id="outline-container-orgeb2836b" class="outline-3">
-<h3 id="orgeb2836b">Becas Iberoamérica. Santander Investigación</h3>
-<div class="outline-text-3" id="text-orgeb2836b">
+<div id="outline-container-orgd6b17ce" class="outline-3">
+<h3 id="orgd6b17ce">Becas Iberoamérica. Santander Investigación</h3>
+<div class="outline-text-3" id="text-orgd6b17ce">
 <p>
 Estas becas tienen por objeto reforzar la movilidad e intercambio de alumnos de doctorado entre universidades y centros de investigación iberoamericanos con el fin de promover la actualización del nivel de conocimientos de los participantes, el aprendizage de nuevas técnicas y métodos y la consolidación de vínculos académicos. La duración mínima es de 4 meses. <a href="http://www.upm.es/Estudiantes/BecasAyudasPremios/Becas/Becas_Movilidad?id=3aabcc08ad1e3510VgnVCM10000009c7648a____&amp;fmt=detail&amp;prefmt=articulo">(más detalles)</a>
 </p>
 </div>
 </div>
 </div>
-<div id="outline-container-org131ef3c" class="outline-2">
-<h2 id="org131ef3c">Programas de prácticas en empresa en el exterior</h2>
-<div class="outline-text-2" id="text-org131ef3c">
+<div id="outline-container-orgdf8bc5b" class="outline-2">
+<h2 id="orgdf8bc5b">Programas de prácticas en empresa en el exterior</h2>
+<div class="outline-text-2" id="text-orgdf8bc5b">
 </div>
-<div id="outline-container-org89e9def" class="outline-3">
-<h3 id="org89e9def">Vulcanus</h3>
-<div class="outline-text-3" id="text-org89e9def">
+<div id="outline-container-org729dcf0" class="outline-3">
+<h3 id="org729dcf0">Vulcanus</h3>
+<div class="outline-text-3" id="text-org729dcf0">
 <p>
 El programa consiste en la realización de prácticas en Japón. Empieza en Septiembre y termina en Agosto del año siguiente. <a href="http://www2.upm.es/portal/site/institucional/menuitem.e29ff8272ddfb41943a75910dffb46a8/?vgnextoid=a23056b1540be110VgnVCM10000009c7648aRCRD">(más información)</a>
 </p>
 </div>
 </div>
-<div id="outline-container-org4b6d1b1" class="outline-3">
-<h3 id="org4b6d1b1">Becas ARGO</h3>
-<div class="outline-text-3" id="text-org4b6d1b1">
+<div id="outline-container-orgd4dcc5a" class="outline-3">
+<h3 id="orgd4dcc5a">Becas ARGO</h3>
+<div class="outline-text-3" id="text-orgd4dcc5a">
 <p>
 ARGO es un programa de movilidad promovido por el Ministerio de Educación, Cultura y Deporte, cuyo objetivo es impulsar la formación complementaria de los titulados de todas las universidades españolas a través de la realización de prácticas en empresas de Europa, de EE.UU., Canadá y empresas españolas o multinacionales con sede en Asia u Oceanía. <a href="http://www.becasargo.es/">(más información)</a>
 </p>
 </div>
 </div>
-<div id="outline-container-org762f158" class="outline-3">
-<h3 id="org762f158">Becas Faro Global</h3>
-<div class="outline-text-3" id="text-org762f158">
+<div id="outline-container-orgdabdb2a" class="outline-3">
+<h3 id="orgdabdb2a">Becas Faro Global</h3>
+<div class="outline-text-3" id="text-orgdabdb2a">
 <p>
-El programa de becas Faro Global promueve la movilidad de estudiantes de último curs mediante la realización de prácticas en empresas de Europa, Asia, Estados Unidos y Canadá. <a href="http://www.upm.es/Estudiantes/BecasAyudasPremios/Becas/Becas_Movilidad?fmt=detail&amp;prefmt=articulo&amp;id=8c56765ef9de1210VgnVCM10000009c7648a">(más información)</a>
+El programa de becas Faro Global promueve la movilidad de estudiantes de último curso mediante la realización de prácticas en empresas de Europa, Asia, Estados Unidos y Canadá. <a href="http://www.upm.es/Estudiantes/BecasAyudasPremios/Becas/Becas_Movilidad?fmt=detail&amp;prefmt=articulo&amp;id=8c56765ef9de1210VgnVCM10000009c7648a">(más información)</a>
 </p>
 </div>
 </div>
-<div id="outline-container-org41f8dd3" class="outline-3">
-<h3 id="org41f8dd3">Becas Goya-Mundus</h3>
-<div class="outline-text-3" id="text-org41f8dd3">
+<div id="outline-container-orgefa7a22" class="outline-3">
+<h3 id="orgefa7a22">Becas Goya-Mundus</h3>
+<div class="outline-text-3" id="text-orgefa7a22">
 <p>
 Las becas Goya-Mundus de la Comunidad de Madrid ofrecen a los estudiantes la oportunidad de realizar un período de prácticas en empresas/instituciones de Europa, Estados Unidos y Asia. <a href="http://www.upm.es/Estudiantes/BecasAyudasPremios/Becas/Becas_Movilidad?fmt=detail&amp;prefmt=articulo&amp;id=ced5765ef9de1210VgnVCM10000009c7648a">(más información)</a>
 </p>
 </div>
 </div>
-<div id="outline-container-orgb93d0c7" class="outline-3">
-<h3 id="orgb93d0c7">Movilidad para prácticas en empresas a través del programa ERASMUS</h3>
-<div class="outline-text-3" id="text-orgb93d0c7">
+<div id="outline-container-org7230fdd" class="outline-3">
+<h3 id="org7230fdd">Movilidad para prácticas en empresas a través del programa ERASMUS</h3>
+<div class="outline-text-3" id="text-org7230fdd">
 <p>
 El programa Erasmus+, además de ofrecer la oportunidad de realización de movilidad académica, también ofrece soporte a la movilidad para realización de prácticas en empresa.
 </p>
 </div>
-<div id="outline-container-org9e9bfb1" class="outline-4">
-<h4 id="org9e9bfb1"><a href="http://www.upm.es/Estudiantes/Movilidad/Programas_Internacionales/Erasmus?fmt=detail&amp;prefmt=articulo&amp;id=395781ed1a8fb510VgnVCM10000009c7648a">Convocatoria 2017-2018</a></h4>
+<div id="outline-container-org4b25faf" class="outline-4">
+<h4 id="org4b25faf"><a href="http://www.upm.es/Estudiantes/Movilidad/Programas_Internacionales/Erasmus?fmt=detail&amp;prefmt=articulo&amp;id=395781ed1a8fb510VgnVCM10000009c7648a">Convocatoria 2017-2018</a></h4>
 </div>
 </div>
 </div>
-<div id="outline-container-orgdd3998b" class="outline-2">
-<h2 id="orgdd3998b">Otras oportunidades</h2>
-<div class="outline-text-2" id="text-orgdd3998b">
+<div id="outline-container-org7ac87e5" class="outline-2">
+<h2 id="org7ac87e5">Otras oportunidades</h2>
+<div class="outline-text-2" id="text-org7ac87e5">
 </div>
-<div id="outline-container-org6f1b1e5" class="outline-3">
-<h3 id="org6f1b1e5">Programas de voluntariado</h3>
-<div class="outline-text-3" id="text-org6f1b1e5">
+<div id="outline-container-org35f3354" class="outline-3">
+<h3 id="org35f3354">Programas de voluntariado</h3>
+<div class="outline-text-3" id="text-org35f3354">
 <p>
 La UPM también ofrece una serie de programas de voluntariado. Para un listado completo, visite <a href="http://www2.upm.es/portal/site/institucional/menuitem.e29ff8272ddfb41943a75910dffb46a8/?vgnextoid=7b26bfaaa7230210VgnVCM10000009c7648aRCRD">esta página</a>.
 </p>
 </div>
 </div>
-<div id="outline-container-orgf0eaefb" class="outline-3">
-<h3 id="orgf0eaefb">Plataforma Europea de búsqueda de ayuda financiera de becas</h3>
-<div class="outline-text-3" id="text-orgf0eaefb">
+<div id="outline-container-orgeae6a84" class="outline-3">
+<h3 id="orgeae6a84">Plataforma Europea de búsqueda de ayuda financiera de becas</h3>
+<div class="outline-text-3" id="text-orgeae6a84">
 <p>
 [[
 </p>
 </div>
 </div>
 </div>
-<div id="outline-container-org52c907f" class="outline-2">
-<h2 id="org52c907f">Información de interés sobre idiomas</h2>
-<div class="outline-text-2" id="text-org52c907f">
+<div id="outline-container-org7acba75" class="outline-2">
+<h2 id="org7acba75">Información de interés sobre idiomas</h2>
+<div class="outline-text-2" id="text-org7acba75">
 <p>
 Dadas la necesidad y ventajas de conocer más de un idioma en un mundo globalizado como es el actual, la ETSIINF y la UPM disponen de diversas oportunidades para que el alumno adquiera y certifique sus conocimientos en lenguas extranjeras.
 </p>
 </div>
-<div id="outline-container-org7f737f6" class="outline-3">
-<h3 id="org7f737f6"><a href="http://www.upm.es/Estudiantes/Movilidad/LenguasInternacionalizacion">PROLINTER - Programa de Lengua para la Internacionalización - UPM</a></h3>
-<div class="outline-text-3" id="text-org7f737f6">
+<div id="outline-container-org0bd57d6" class="outline-3">
+<h3 id="org0bd57d6"><a href="http://www.upm.es/Estudiantes/Movilidad/LenguasInternacionalizacion">PROLINTER - Programa de Lengua para la Internacionalización - UPM</a></h3>
+<div class="outline-text-3" id="text-org0bd57d6">
 </div>
-<div id="outline-container-orgc9690b6" class="outline-4">
-<h4 id="orgc9690b6">Lenguas del mundo en B-learning</h4>
+<div id="outline-container-orge8233c1" class="outline-4">
+<h4 id="orge8233c1">Lenguas del mundo en B-learning</h4>
 </div>
-<div id="outline-container-orgf23d98f" class="outline-4">
-<h4 id="orgf23d98f">Cursos de preparación para el SAI (TOEIC)</h4>
+<div id="outline-container-orgffb65d0" class="outline-4">
+<h4 id="orgffb65d0">Cursos de preparación para el SAI (TOEIC)</h4>
 </div>
-<div id="outline-container-orgbe24855" class="outline-4">
-<h4 id="orgbe24855">Exámenes de acreditación externa TOEIC/TFI</h4>
-</div>
-</div>
-<div id="outline-container-orgd4447af" class="outline-3">
-<h3 id="orgd4447af">Listado de certificados acreditativos de <a href="http://www.etsist.upm.es/departamentos/LING/acreditacion-b2-en-lengua-inglesa">inglés</a> reconocidos nacional e internacionalmente</h3>
+<div id="outline-container-org98117a6" class="outline-4">
+<h4 id="org98117a6">Exámenes de acreditación externa TOEIC/TFI</h4>
 </div>
 </div>
+<div id="outline-container-org91c34cc" class="outline-3">
+<h3 id="org91c34cc">Listado de certificados acreditativos de <a href="http://www.etsist.upm.es/departamentos/LING/acreditacion-b2-en-lengua-inglesa">inglés</a> reconocidos nacional e internacionalmente</h3>
 </div>
-<div id="postamble" class="status">
-<p class="author">Author: Luciano Garcia</p>
-<p class="date">Created: 2017-12-21 Thu 16:49</p>
-<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
 </div>
 </body>
 </html>
