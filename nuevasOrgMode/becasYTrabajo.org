@@ -1,10 +1,7 @@
 #+HTML_HEAD: <style type="text/css"> <!--/*--><![CDATA[/*><!--*/ .title { display: none; } /*]]>*/--> </style>
 #+OPTIONS: num:nil
 
-* Becas y Trabajo
-:PROPERTIES:
-:CUSTOM_ID: becasytrabajo
-:END:
+#+HTML: <h1 id="becasytrabajo">Becas y Trabajo</h1>
 * Becas
 :PROPERTIES:
 :CUSTOM_ID: becas

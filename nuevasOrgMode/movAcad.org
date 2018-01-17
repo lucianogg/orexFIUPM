@@ -1,10 +1,7 @@
 # +HTML_HEAD: <style type="text/css"> <!--/*--><![CDATA[/*><!--*/ .title { display: none; } /*]]>*/--> </style>
 #+OPTIONS: num:nil author:nil html-style:nil html-preamble:nil html-postamble:nil html-scripts:nil
 
-* Movilidad académica
-:PROPERTIES:
-:CUSTOM_ID: movilidadAcademica
-:END:
+#+HTML: <h1 id="movilidadAcademica">Movilidad académica</h1>
 La Escuela Técnica Superior de Ingenieros Informáticos (ETSIINF) de la Universidad Politécnica de Madrid es uno de los centros con mayor prestigio nacional en los estudios de Ingeniería Informática y uno de las más relevantes de Europa. Su vocación internacional se manifiesta a través de las relaciones institucionales que desde sus orígenes mantiene con algunos de los más prestigiosos centros europeos de formación, bien a través de la red europea de intercambio ERASMUS, bien mediante acuerdos específicos de doble diploma. Asimismo, la ETSIINF, participa en otras redes y programas internacionales como: ERASMUS-MUNDUS, Magalhães-SMILE, GE3, Programa Hispano-Chino, GOYA-MUNDUS, ATHENS, Vulcanus, etc.
 
 La mayoría de estos programas llevan asociadas [[http://fi.upm.es/?id=becasytrabajo/movilidadinternacional][becas o ayudas]], cuyas convocatorias podrás encontrar puntualmente, en el [[http://www.fi.upm.es/?id=tablon][tablón de anuncios]] de este mismo portal en la sección de becas o movilidad

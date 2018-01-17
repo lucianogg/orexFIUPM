@@ -1,10 +1,7 @@
 # +HTML_HEAD: <style type="text/css"> <!--/*--><![CDATA[/*><!--*/ .title { display: none; } /*]]>*/--> </style>
 #+OPTIONS: num:nil author:nil html-style:nil html-preamble:nil html-postamble:nil html-scripts:nil toc:3
 
-* Alumnos del centro
-:PROPERTIES:
-:CUSTOM_ID: movilidadAcademica
-:END:
+#+HTML: <h1 id="movilidadAcademica">Alumnos del centro</h1>
 * Programas académicos
 :PROPERTIES:
 :CUSTOM_ID: programasAcademicos
@@ -17,13 +14,12 @@
 :PROPERTIES:
 :CUSTOM_ID: erasmus
 :END:
-El programa Erasmus+ ofrece la oportunidad al alumno de cursar parte de sus estudios en una de las universidades con las que tiene acuerdo la ETSIINF. La estancia dura entre 3 y 12 meses, la universidad de destino suele ofrecer alojamiento y se proporciona una ayuda mensual. [[http://www2.upm.es/portal/site/institucional/menuitem.e29ff8272ddfb41943a75910dffb46a8/?vgnextoid=99cd56b1540be110VgnVCM10000009c7648aRCRD][(má
-s detalles)]]
-**** [[http://fi.upm.es][Convocatoria k]]
+El programa Erasmus+ ofrece la oportunidad al alumno de cursar parte de sus estudios en una de las universidades con las que tiene acuerdo la ETSIINF. La estancia dura entre 3 y 12 meses, la universidad de destino suele ofrecer alojamiento y se proporciona una ayuda mensual. [[http://www2.upm.es/portal/site/institucional/menuitem.e29ff8272ddfb41943a75910dffb46a8/?vgnextoid=99cd56b1540be110VgnVCM10000009c7648aRCRD][(más detalles)]]
+**** [[http://fi.upm.es][Convocatoria 2017-2018]]
 :PROPERTIES:
 :CUSTOM_ID: convocatoriaActualErasmus
 :END:
-**** [[http://www.fi.upm.es][Convocatoria k-1]]
+**** [[http://www.fi.upm.es][Convocatoria 2016-2017]]
 :PROPERTIES:
 :CUSTOM_ID: convocatoriaAnteriorErasmus
 :END:
@@ -32,11 +28,11 @@ s detalles)]]
 :CUSTOM_ID: magalhaes
 :END:
 El programa Magalhães es una red entre Europa, Latinoamérica y Caribe cuyo objetivo es fomentar la movilidad y cooperación entre las universidades participantes. SMILE es el programa de movilidad de estudiantes dentro de Magalhães. Es similar al programa ERASMUS. La UPM es miembro de esta red y la ETSIINF participa en ella a través de acuerdos bilaterales con universidades latinoamericanas de reconocido prestigio.
-**** [[http://fi.upm.es][Convocatoria k]]
+**** [[http://fi.upm.es][Convocatoria 2017-2018]]
 :PROPERTIES:
 :CUSTOM_ID: convocatoriaActualMagalhaes
 :END:
-**** [[http://www.fi.upm.es][Convocatoria k-1]]
+**** [[http://www.fi.upm.es][Convocatoria 2016-2017]]
 :PROPERTIES:
 :CUSTOM_ID: convocatoriaAnteriorMagalhaes
 :END:
@@ -54,11 +50,11 @@ Global E3 es un programa de intercambio para estudiantes de ingeniería. Se ofre
 :CUSTOM_ID: hispanoChino
 :END:
 La UPM mantiene acuerdos bilaterales con diversas universidades chinas con el objetivo de fomentar la movilidad de estudiantes entre ambos países. El programa está especialmente dirigido a la realización del trabajo fin de grado o de fin de master.
-**** [[http://fi.upm.es][Convocatoria k]]
+**** [[http://fi.upm.es][Convocatoria 2017-2018]]
 :PROPERTIES:
 :CUSTOM_ID: convocatoriaActualHispChino
 :END:
-**** [[http://fi.upm.es][Convocatoria k-1]]
+**** [[http://fi.upm.es][Convocatoria 2016-2017]]
 :PROPERTIES:
 :CUSTOM_ID: convocatoriaAnteriorHispChino
 :END:
@@ -83,7 +79,6 @@ Sigue existiendo?
 :PROPERTIES:
 :CUSTOM_ID: convocatoriaViajeCooperacion
 :END:
-[Hacer una pequeña Descripción]
 **** [[http://www.upm.es/institucional/Estudiantes/Movilidad/Programas_Internacionales/Ayudas_Viaje_Coop_1][1-4 meses]]
 :PROPERTIES:
 :CUSTOM_ID: convocatoriaViajeCooperacion14meses
@@ -101,13 +96,13 @@ Sigue existiendo?
 :CUSTOM_ID: athens
 :END:
 El programa ATHENS consta de una serie de cursos organizados en universidades tecnológicas europeas, con reconocimiento de créditos y posibilidad de solicitar bolsa de viaje para acudir a los cursos en otros países. Hay una convocatoria de marzo y una de noviembre en cada curso. (más detalles o bien en la [[http://www.upm.es/Estudiantes/Movilidad/Programas_Internacionales/Athens][página de UPM]] o en la [[http://athensnetwork.eu/][página oficial de ATHENS]])
-***** [[https://fi.upm.es][Convocatoria k]]
+***** [[https://fi.upm.es][Convocatoria Marzo 2018]]
 :PROPERTIES:
-:CUSTOM_ID: athensActual
+:CUSTOM_ID: athensMarzo
 :END:
-***** [[http://www.fi.upm.es][Convocatoria k-1]]
+***** [[http://www.fi.upm.es][Convocatoria Noviembre 2017]]
 :PROPERTIES:
-:CUSTOM_ID: athensAnterior
+:CUSTOM_ID: athensNoviembre
 :END:
 **** BEST
 :PROPERTIES:
@@ -119,11 +114,11 @@ BEST (Board of European Students of Technology) es una organización apolítica 
 :CUSTOM_ID: sicue
 :END:
 El programa SICUE permite la realización de parte de los estudios en otra universidad española, con garantía de reconocimiento académico y de aprovechamiento, así como adecuación al perfil curricular.
-*** [[http://fi.upm.es][Convocatoria k]]
+*** [[http://fi.upm.es][Convocatoria 2017-2018]]
 :PROPERTIES:
 :CUSTOM_ID: sicueActual
 :END:
-*** [[http://www.fi.upm.es][Convocatoria k-1]]
+*** [[http://www.fi.upm.es][Convocatoria 2016-2017]]
 :PROPERTIES:
 :CUSTOM_ID: sicueAnterior
 :END:
@@ -132,11 +127,11 @@ El programa SICUE permite la realización de parte de los estudios en otra unive
 :CUSTOM_ID: acuerdosBilaterales
 :END:
 La ETSIINF mantiene acuerdos de cooperación y acuerdos bilaterales con diversos centros extranjeros. Algunos de ellos permiten actividades de movilidad de tipo académico, doble diploma, de investigación, etc. Se listan en las páginas de cada convocatoria, a seguir:
-*** [[http://www.fi.upm.es][Convocatoria k]]
+*** [[http://www.fi.upm.es][Convocatoria 2017-2018]]
 :PROPERTIES:
 :CUSTOM_ID: acBilActual
 :END:
-*** [[http://www.fi.upm.es][Convocatoria k-1]]
+*** [[http://www.fi.upm.es][Convocatoria 2016-2017]]
 :PROPERTIES:
 :CUSTOM_ID: AcBilAnterior
 :END:
@@ -206,11 +201,11 @@ El programa Erasmus+, además de ofrecer la oportunidad de realización de movil
 :CUSTOM_ID: voluntariado
 :END:
 La UPM también ofrece una serie de programas de voluntariado. Para un listado completo, visite [[http://www2.upm.es/portal/site/institucional/menuitem.e29ff8272ddfb41943a75910dffb46a8/?vgnextoid=7b26bfaaa7230210VgnVCM10000009c7648aRCRD][esta página]].
-** Plataforma Europea de búsqueda de ayuda financiera de becas
+** [[http://european-funding-guide.eu][Plataforma Europea de búsqueda de ayuda financiera de becas]]
 :PROPERTIES:
 :CUSTOM_ID: platEuropeaBusquedaBecas
 :END:
-[[
+
 * Información de interés sobre idiomas
 :PROPERTIES:
 :CUSTOM_ID: infoInteresIdiomas

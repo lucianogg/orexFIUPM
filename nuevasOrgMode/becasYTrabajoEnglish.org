@@ -1,0 +1,60 @@
+#+HTML_HEAD: <style type="text/css"> <!--/*--><![CDATA[/*><!--*/ .title { display: none; } /*]]>*/--> </style>
+#+OPTIONS: num:nil
+
+#+HTML: <h1 id="grantsInternships">Grants and Internships</h1>
+* Grants
+:PROPERTIES:
+:CUSTOM_ID: grants
+:END:
+** [[http://www.upm.es/Estudiantes/BecasAyudasPremios][Official student internships and grants]]
+:PROPERTIES:
+:CUSTOM_ID: officialinternships
+:END:
+** [[http://fi.upm.es/?id=becasinvestigacion][Internships at ETSIINF laboratories and research groups]]
+:PROPERTIES:
+:CUSTOM_ID: internshipsLabs
+:END:
+** [[https://fi.upm.es/PaginaNuevaDeAlumnosDelCentro][International mobility grants]]
+:PROPERTIES:
+:CUSTOM_ID: mobilityGrants
+:END:
+* Industrial Internships and job offers
+:PROPERTIES:
+:CUSTOM_ID: InternshipsAndjobs
+:END:
+** [[http://fi.upm.es/?pagina=154][Industrial internships: agreements, lists of employers and postgraduate practicum]]
+:PROPERTIES:
+:CUSTOM_ID: industrialInternships
+:END:
+** [[http://fi.upm.es/?pagina=259][Job offers]]
+:PROPERTIES:
+:CUSTOM_ID: offers
+:END:
+** [[http://congresotryit.es/][Labour market transition training: TryIT!]]
+:PROPERTIES:
+:CUSTOM_ID: tryit
+:END:
+** [[https://www.coie.upm.es/][UPM - COIE: Platform to find internship opportunities]]
+:PROPERTIES:
+:CUSTOM_ID: coie
+:END:
+* Enterpreneurship
+:PROPERTIES:
+:CUSTOM_ID: enterpreneurship
+:END:
+** [[http://www.upm.es/Investigacion/innovacion/CreacionEmpresas/Servicios/Competicion_Creacion_Empresas][ActúaUPM - Program for the creation of businesses]]
+:PROPERTIES:
+:CUSTOM_ID: actuaupm
+:END:
+* Awards and competitions
+:PROPERTIES:
+:CUSTOM_ID: awards
+:END:
+** [[http://fi.upm.es/?pagina=443][Accenture award for the best Undergraduate Thesis]]
+:PROPERTIES:
+:CUSTOM_ID: accenturemejortfg
+:END:
+** [[http://fi.upm.es/?pagina=2021][Accenture award for the best Informatics Engineering Master Thesis]]
+:PROPERTIES:
+:CUSTOM_ID: accenturemejortfm
+:END:
