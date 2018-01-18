@@ -1,5 +1,6 @@
 # +HTML_HEAD: <style type="text/css"> <!--/*--><![CDATA[/*><!--*/ .title { display: none; } /*]]>*/--> </style>
 #+OPTIONS: num:nil author:nil html-style:nil html-preamble:nil html-postamble:nil html-scripts:nil
+#+EXPORT_FILE_NAME: ./exports/movAcadEnglish.html
 
 #+HTML: <h1 id="exchange">Exchange programmes</h1>
 The Universidad Politécnica de Madrid's Escuela Técnica Superior de Ingenieros Informáticos (ETSIINF) is one of Spain's most prestigious  and  one of Europe's major higher education institutions offering informatics engineering degrees. The institutional relations that it has forged ever since its conception with some of Europe's most eminent educational institutions, through either the European ERASMUS exchange network or  special-purpose double degree agreements, are a clear indication of its international ambitions. Also, the ETSIINF is a partner of other international networks and programmes, such as ERASMUS-MUNDUS, Magalhães-SMILE, GE4, the Spanish-Chinese Programme, GOYA-MUNDUS, ATHENS, VULCANUS, etc.

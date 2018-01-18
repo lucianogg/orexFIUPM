@@ -1,5 +1,6 @@
 # +HTML_HEAD: <style type="text/css"> <!--/*--><![CDATA[/*><!--*/ .title { display: none; } /*]]>*/--> </style>
 #+OPTIONS: num:nil author:nil html-style:nil html-preamble:nil html-postamble:nil html-scripts:nil toc:3
+#+EXPORT_FILE_NAME: ./exports/alumnosCentro.html
 
 #+HTML: <h1 id="movilidadAcademica">Alumnos del centro</h1>
 * Programas académicos

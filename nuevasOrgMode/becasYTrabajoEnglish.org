@@ -1,5 +1,6 @@
 #+HTML_HEAD: <style type="text/css"> <!--/*--><![CDATA[/*><!--*/ .title { display: none; } /*]]>*/--> </style>
-#+OPTIONS: num:nil
+#+OPTIONS: num:nil author:nil html-style:nil html-preamble:nil html-postamble:nil html-scripts:nil
+#+EXPORT_FILE_NAME: ./exports/becasytrabajoEnglish.html
 
 #+HTML: <h1 id="grantsInternships">Grants and Internships</h1>
 * Grants
@@ -14,7 +15,7 @@
 :PROPERTIES:
 :CUSTOM_ID: internshipsLabs
 :END:
-** [[https://fi.upm.es/PaginaNuevaDeAlumnosDelCentro][International mobility grants]]
+** [[https://fi.upm.es/?pagina=260][International mobility grants]]
 :PROPERTIES:
 :CUSTOM_ID: mobilityGrants
 :END:
@@ -37,6 +38,10 @@
 ** [[https://www.coie.upm.es/][UPM - COIE: Platform to find internship opportunities]]
 :PROPERTIES:
 :CUSTOM_ID: coie
+:END:
+** [[http://www.stepone.com/jovenes/][*Jóvenes con futuro* program - StepOne]]
+:PROPERTIES:
+:CUSTOM_ID: stepone
 :END:
 * Enterpreneurship
 :PROPERTIES:

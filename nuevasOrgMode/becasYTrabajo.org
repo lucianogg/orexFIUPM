@@ -1,5 +1,6 @@
 #+HTML_HEAD: <style type="text/css"> <!--/*--><![CDATA[/*><!--*/ .title { display: none; } /*]]>*/--> </style>
-#+OPTIONS: num:nil
+#+OPTIONS: num:nil author:nil html-style:nil html-preamble:nil html-postamble:nil html-scripts:nil
+#+EXPORT_FILE_NAME: ./exports/becasytrabajo.html
 
 #+HTML: <h1 id="becasytrabajo">Becas y Trabajo</h1>
 * Becas
@@ -14,7 +15,7 @@
 :PROPERTIES:
 :CUSTOM_ID: becasinvestigacionETSIINF
 :END:
-** [[https://fi.upm.es/PaginaNuevaDeAlumnosDelCentro][Becas para la movilidad académica y laboral]]
+** [[https://fi.upm.es/?pagina=260][Becas para la movilidad académica y laboral]]
 :PROPERTIES:
 :CUSTOM_ID: becasMovilidad
 :END:
@@ -38,11 +39,15 @@
 :PROPERTIES:
 :CUSTOM_ID: plataformapracticascoie
 :END:
+** [[http://www.stepone.com/jovenes/][Programa *Jóvenes con futuro* - StepOne]]
+:PROPERTIES:
+:CUSTOM_ID: stepone
+:END:
 * Emprendedorismo
 :PROPERTIES:
 :CUSTOM_ID: emprendedorismo
 :END:
-** [[http://www.upm.es/Investigacion/innovacion/CreacionEmpresas/Servicios/Competicion_Creacion_Empresas][Programa de creación de empresas - actúaupm]]
+** [[http://www.upm.es/Investigacion/innovacion/CreacionEmpresas/Servicios/Competicion_Creacion_Empresas][Programa de creación de empresas - ActúaUPM]]
 :PROPERTIES:
 :CUSTOM_ID: actuaupm
 :END:

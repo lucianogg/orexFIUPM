@@ -1,5 +1,6 @@
 #+HTML_HEAD: <style type="text/css"> <!--/*--><![CDATA[/*><!--*/ .title { display: none; } /*]]>*/--> </style>
-#+OPTIONS: num:nil
+#+OPTIONS: num:nil author:nil html-style:nil html-preamble:nil html-postamble:nil html-scripts:nil
+#+EXPORT_FILE_NAME: ./exports/alumnosExternos.html
 
 #+HTML: <h1 id="movilidadExterno">Programas de movilidad para alumnos externos</h1>
 En primer lugar queremos dar la bienvenida a la Escuela Técnica Superior de Ingenieros Informáticos - ETSIINF - (antes Facultad de Informática), Universidad Politécnica de Madrid, a todos los alumnos de intercambio que han decidido hacer una estancia con nosotros. Estamos realmente encantados de que hayáis elegido nuestra Facultad para llevar a cabo vuestro programa de intercambio y estamos convencidos de que vuestra estancia de estudios así como  vuestra estancia en España será muy agradable y valiosa para vuestro futuro académico, profesional y personal.
