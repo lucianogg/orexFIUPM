@@ -1,0 +1,41 @@
+#+HTML_HEAD: <style type="text/css"> <!--/*--><![CDATA[/*><!--*/ .title { display: none; } /*]]>*/--> </style>
+#+OPTIONS: num:nil author:nil html-style:nil html-preamble:nil html-postamble:nil html-scripts:nil
+#+EXPORT_FILE_NAME: ./exports/magalhaes1819.html
+
+#+HTML: <h1 id="erasmus">SICUE 2018-2019</h1>
+* Descripción del programa
+Por medio de este programa los estudiantes de las universidades españolas pueden realizar una parte de sus estudios en otra universidad distinta a la suya, con garantías de reconocimiento académico y de aprovechamiento, así como de adecuación a su perfil curricular. [[http://www.upm.es/Estudiantes/Movilidad/Programas_Nacionales/SicueSeneca][(más información)]]
+
+Universidades con las que nuestra escuela tiene acuerdo para este programa:
+
+| Comunidad Autónoma   | Universidad                               |
+| Andalucía            | [[https://www.ugr.es/][Universidad de Granada]]                    |
+| Andalucía            | [[http://www.us.es/][Universidad de Sevilla]]                    |
+| Canarias             | [[http://www.ull.es/][Universidad de La Laguna]]                  |
+| Canarias             | [[https://www.ulpgc.es/node][Universidad de Las Palmas de Gran Canaria]] |
+| Cantabria            | [[http://web.unican.es/][Universidad de Cantabria]]                  |
+| Castilla y León      | [[https://www.unileon.es/][Universidad de León]]                       |
+| Castilla-La Mancha   | [[http://www.uclm.es/][Universidad de Castilla-La Mancha]]         |
+| Cataluña             | [[http://www.upc.edu/?set_language=es][Universidad Politécnica de Cataluña]]       |
+| Comunidad Valenciana | [[http://www.ua.es/][Universidad de Alicante]]                   |
+| Comunidad Valenciana | [[https://ujiapps.uji.es/][Universidad Jaime I]]                       |
+| Comunidad Valenciana | [[http://www.upv.es/][Universidad Politécnica de Valencia]]       |
+| Comunidad Valenciana | [[http://www.uv.es/][Universidad de Valencia]]                   |
+| Extremadura          | [[http://www.unex.es/][Universidad de Extremadura]]                |
+| Galicia              | [[http://www.usc.es/es/index.html][Universidad de Santiago de Compostela]]     |
+| Galicia              | [[http://www.uvigo.es/][Universidad de Vigo]]                       |
+| Región de Murcia     | [[http://www.um.es/][Universidad de Murcia]]                     |
+| País Vasco           | [[http://www.mondragon.edu/es/es][Universidad de Mondragón]]                  |
+| País Vasco           | [[http://www.ehu.eus/es/][Universidad Politécnica del País Vasco]]    |
+
+* Convocatoria de 2018-2019
+- Convocatoria
+- Plazo de solicitud:
+- Solicitud (Impreso A)
+- Resumen del procedimiento
+- Rellenar la solicitud por duplicado, firmarla y presentarla en el registro de la escuela (Secretaría de alumnos), junto con certificado académico que indique la nota media de las calificaciones obtenidas hasta el 30 de septiembre de 2017. Este certificado se solicita en la Secretaría del centro.
+- Destinos y plazas
+- Documentos a rellenar por el alumno una vez seleccionado: Acuerdo Académico (Impreso C), Renuncia (Impreso D), Certificado de incorporación (Impreso F)
+
+** Resultados
+- Resolución de plazas para el programa SICUE, convocatoria 2018-2019

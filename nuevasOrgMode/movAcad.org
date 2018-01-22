@@ -13,10 +13,10 @@ En la [[http://fi.upm.es/?pagina=286][Oficina de Relaciones Externas]] nos ocupa
 :PROPERTIES:
 :CUSTOM_ID: incoming
 :END:
-[[http://fi.upm.es/?id=exchange][Información general para estudiantes extranjeros en programas de movilidad]]
+- [[http://fi.upm.es/?id=exchange][Información general para estudiantes extranjeros en programas de movilidad]]
 
 ** Estudiantes de la ETSIINF en programas de movilidad
 :PROPERTIES:
 :CUSTOM_ID: outgoing
 :END:
-[[http://fi.upm.es/?pagina=9999][Información general para estudiantes de la ETSIINF en programas de movilidad]]
+- [[http://fi.upm.es/?pagina=9999][Información general para estudiantes de la ETSIINF en programas de movilidad]]
