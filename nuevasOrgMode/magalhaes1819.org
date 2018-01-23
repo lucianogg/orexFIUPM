@@ -11,7 +11,8 @@ SMILE es el programa pionero dentro de la red MAGALHAES que se ocupa de la movil
 La UPM es miembro de esta red y la ETSIINF participa en ella y en su programa SMILE a través de acuerdos bilaterales con universidades latinoamericanas de reconocido prestigio. [[http://www2.upm.es/portal/site/institucional/menuitem.e29ff8272ddfb41943a75910dffb46a8/?vgnextoid=99cd56b1540be110VgnVCM10000009c7648aRCRD][(más Información)]]
 * Acuerdos
 La ETSIINF participa en el programa SMILE a través de los acuerdos bilaterales siguientes:
-
+# Cabecera de la tabla: <table style:"width: 551px; height: 289px" border="0">
+# Cabecera del contenido: <tr><th>Pais</th><th>Centro asociado</th></tr>
 | Pais      | Centro asociado                                             |
 |-----------+-------------------------------------------------------------|
 | Argentina | [[http://www.itba.edu.ar/index.php][Instituto Tecnológico de Buenos Aires]]                       |
