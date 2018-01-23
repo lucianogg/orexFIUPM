@@ -13,6 +13,7 @@ La UPM es miembro de esta red y la ETSIINF participa en ella y en su programa SM
 La ETSIINF participa en el programa SMILE a través de los acuerdos bilaterales siguientes:
 
 | Pais      | Centro asociado                                             |
+|-----------+-------------------------------------------------------------|
 | Argentina | [[http://www.itba.edu.ar/index.php][Instituto Tecnológico de Buenos Aires]]                       |
 | Brasil    | [[http://www.unicamp.br/unicamp/es][Universidade Estadual de Campinas (Unicamp)]]                 |
 | Brasil    | [[http://www.ufrj.br/][Universidade Federal do Rio de Janeiro (UFRJ)]]               |
