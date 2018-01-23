@@ -1,0 +1,93 @@
+#+HTML_HEAD: <style type="text/css"> <!--/*--><![CDATA[/*><!--*/ .title { display: none; } /*]]>*/--> </style>
+#+OPTIONS: num:nil author:nil html-style:nil html-preamble:nil html-postamble:nil html-scripts:nil
+#+EXPORT_FILE_NAME: ./exports/erasmus1819.html
+
+#+HTML: <h1 id="erasmus">Erasmus+ 2018-2019</h1>
+* Descripción
+Erasmus + integrará los programas existentes en el Programa de Aprendizaje Permanente y también los programas de educación superior internacional: Mundus, Tempus, ALFA, Edulink y programas bilaterales, además del Programa Juventud en Acción.
+
+Este nuevo programa se centra en el aprendizaje formal e informal más allá de las fronteras de la UE, con una clara vocación de internacionalización abriéndose a terceros países con el objetivo de mejorar las capacidades educativas y formativas de las personas para la empleabilidad de estudiantes, profesorado y trabajadores y trabajadoras.
+
+Como ya hacía el programa ERASMUS para la educación superior, el programa facilita la realización parcial de estudios en el extranjero mediante intercambios, durante periodos mínimos de 3 meses y máximos de 12 meses, pudiéndose realizar en cada nivel de estudios (grado, máster, doctorado).
+
+Sólo es posible acogerse al programa para realizar intercambios con aquellos centros que hayan firmado acuerdos bilaterales con la ETSIINF.
+
+La Unión Europea proporciona una ayuda mensual a los estudiantes que es complementada por los Estados, Comunidades Autónomas o Universidades. La cantidad exacta ofrecida cada año no se conoce de antemano. Esta cantidad la recibe el estudiante directamente a través de su Universidad en dos o tres pagos.
+
+El estudiante debe abonar las tasas académicas de matrícula en su centro de origen, estando exento de las mismas en el extranjero.
+
+Las universidades extranjeras suelen ofrecer alojamiento en sus propias residencias. Para más información contactar con las personas responsables del programa Erasmus en la universidad elegida.
+
+En cuanto al reconocimiento de las actividades académicas realizadas en el extranjero, en el caso de este centro, suele realizarse conforme a los acuerdos de estudios "Learning Agreement" firmados previamente al desplazamiento.
+
+Una novedad que incluye en nuevo programa es el Apoyo Lingüístico en Linea, OLS siglas en inglés, por el cual el alumno debe realizar obligatoriamente una prueba de idioma online al inicio y al final del intercambio, y en función del resultado de la prueba inicial podrá recibir apoyo lingüístico durante el intercambio.
+
+[[http://www2.upm.es/portal/site/institucional/menuitem.e29ff8272ddfb41943a75910dffb46a8/?vgnextoid=2d8e127bab672110VgnVCM100000fdbf648aRCRD][Información detallada del programa en la página pricipal de UPM]]
+* Convocatoria 2018-19
+- Plazo de solicitud: *desde 14:00 del 4 de diciembre 2017 hasta las 14:00 del 15 de enero 2018*
+- [[http://fi.upm.es/docs/estudios/estudiar_en_el_extranjero/951_Destinos%20Para%20publicar%202018-19.pdf][Destinos y plazas]]
+** Solicitud
+- Imprimir la [[https://www.upm.es/erasmus/hermes/erasmus.upm][solicitud]] por duplicado, firmarla y presentarla en el registro, preferentemente en el Registro del Centro (Secretaría de alumnos) junto con la documentación requerida.
+- Documentos a adjuntar a la solicitud: Titulos de idiomas, carta de motivación, permiso de residencia válido para residir en España durante el periodo de movilidad (solo estudiantes extracomunitarios), copia del certificado del NIE o registro de comunitarios (estudiantes extranjeros comunitarios)
+- Pruebas de Capacitación Lingüística en idiomas para alumnos de intercambio. *Martes 29 de enero de 2018*
+** Resultados
+- Adjudicación Provisional ETSIINF
+- [[http://fi.upm.es/docs/estudios/estudiar_en_el_extranjero/951_ACEPTACION-RENUNCIA-RECLAMACION%20DESTINO%202017-18_ERASMUS.pdf][Formulario de Aceptación, Renuncia o Reclamación]]
+- Adjudicación Definitiva ETSIINF 2018-19
+* Tipos de intercambio
+[[http://fi.upm.es/docs/estudios/estudiar_en_el_extranjero/951_TFG-movilidad-normas%20y%20procedmiento-ABRIL-2016.pdf][Normas y procedimiento para realizar TFG a través de programas de intercambio]]
+** Grado en Ingeniería Informática
+Un semestre : 4º curso 7º / 8º semestre
+- 30 créditos optativos
+- 18 créditos optativos + TFG, 12 créditos mínimo
+- Solo TFG, mínimo 12 créditos - mínimo 3 meses, máximo 1 semestre
+Dos semestres o curso completo: 4º curso 7º y 8º semestres:
+- 30 créditos optativos
+- 18 créditos obligatorios con correspondencia de contenidos +
+- TFG + 12 créditos mínimo
+Asignaturas sueltas de cursos distintos de 4º
+- créditos optativos de 3º
+- asignaturas obligatorias con correspondencia de contenidos
+** Grado en Matemáticas e Informática
+Un semestre: 4º curso, 7º / 8º semestre
+- 30 créditos optativos
+- 18 créditos optativos + TFG, 12 créditos mínimo
+- Solo TFG, mínimo 12 créditos - mínimo 3 meses, máximo 1 semestre
+Dos semestres o curso completo: 4º curso 7º y 8º semestres:
+- 42 créditos optativos
+- 6 créditos obligatorios con correspondencia de contenidos +
+- TFG + 12 créditos mínimo
+Asignaturas sueltas de cursos distintos de 4º
+- asignaturas obligatorias con correspondencia de contenidos
+** Máster Universitario en Ingeniería Informática (MUII)
+** Máster Universitario en Ingeniería del Software (MUIS)
+Un semestre: 2º curso, 3º/4º semestre
+- 30 créditos optativos (MUII: intensificaciones)
+- TFM 30 créditos (MUII: 12 EP + 18 TFM)
+Dos semestres: 2º curso, 3º y 4º semestres
+- 30 créditos optativos (MUII: intensificaciones) +
+- TFM 30 créditos (MUII: 12 EP + 18 TFM)
+Doble Diploma de Master
+- 2º curso master (3º y 4º semestres) se realiza en otra universidad con acuerdo específico
+- Finalización y reconocimiento: dos títulos de máster
+* Requisitos para la convocatoria 2018-19
+** Académicos
+*** Grado en Ingeniería Informática y Grado en Matemáticas e Informática
+**** Opción 4º curso – materia obligatoria u optativa
+- Para solicitar la participación en los programas de intercambio: Tener superados todos los créditos de los semestres 1, 2, 3 y 4 (cursos 1º y 2º)
+- Para ser seleccionado: Tener superados los créditos de los semestres 1, 2, 3, 4 y 5 y estar en disposición de superar los créditos del semestre 6 antes de realizar el intercambio.
+
+Hay que tener en cuenta que en la mayoría de destinos se pueden cursar asignaturas de máster, pero para ello se deben tener superados 180 ECTS.
+**** Opción asignaturas sueltas de otros cursos distintos de 4º - materia obligatoria u optativa
+- Para solicitar la participación en los programas de intercambio: Tener superado todos los créditos de los semestres 1 y 2 (primer curso)
+- Para ser seleccionado: Tener superados un mínimo de 18 créditos de segundo curso.
+
+Siempre que se opte por asignaturas de materia obligatoria debe existir equivalencia en los contenidos o en los resultados de aprendizaje.
+**** Máster Universitario en Ingeniería Informática y Máster Universitario en Ingeniería del Software
+- Para solicitar la participación en los programas de intercambio: Estar matriculado en todos los créditos del primer semestre del máster
+- Para ser seleccionado: Haber superado todos los créditos del primer semestre del máster y estar matriculado en todos los créditos del segundo semestre del máster
+** Lingüísticos
+- Cumplir requisitos de idioma exigidos por la universidad de destino
+- Cumplir requisitos de idioma mínimos exigidos por la UPM (inglés (B2), francés (B1), alemán, italiano)
+- Justificación del nivel de idioma del pais y/o del idioma de estudios preferentemente a través de títulos oficiales nacionales o internacionales.
+- De no disponer de la justificación anterior: realización prueba de capacitación interna UPM exclusiva para alumnos de intercambio y en su caso realización de cursos organizados por la UPM.

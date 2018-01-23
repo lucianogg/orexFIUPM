@@ -1,0 +1,21 @@
+#+HTML_HEAD: <style type="text/css"> <!--/*--><![CDATA[/*><!--*/ .title { display: none; } /*]]>*/--> </style>
+#+OPTIONS: num:nil author:nil html-style:nil html-preamble:nil html-postamble:nil html-scripts:nil
+#+EXPORT_FILE_NAME: ./exports/magalhaes1819.html
+
+#+HTML: <h1 id="erasmus">Programa Athens - Convocatoria Marzo 2018</h1>
+* Descripción
+El programa ATHENS consta de una serie de cursos organizados en universidades tecnológicas europeas, con reconocimiento de créditos y posibilidad de solicitar una [[http://fi.upm.es/?pagina=13][bolsa de viaje]] para acudir a los cursos en otros países. Hay dos convocatorias por curso: Marzo y Noviembre. Más información en la [[http://athensnetwork.eu/][página oficial del programa]] y en la [[http://www.upm.es/Estudiantes/Movilidad/Programas_Internacionales/Athens][página de UPM]].
+* Convocatoria Marzo 2018
+- Periodo de la sesión: 17 al 24 de Marzo de 2018
+- Plazo de solicitud online: Hasta el 28 de enero de 2018
+- Documentación importante: [[http://www.upm.es/sfs/Rectorado/Vicerrectorado%20de%20Relaciones%20Internacionales/Europa/ATHENS_Students_Things_to_know.pdf][Condiciones generales]] y [[http://www.upm.es/sfs/Rectorado/Vicerrectorado%20de%20Relaciones%20Internacionales/Europa/ATHENS_Programme_Student_Commitment.pdf][normas y obligaciones]]
+** Procedimiento para la inscripción
+- Hacer la [[http://www.athensprogramme.com/][inscripción online]]
+- Imprimir la *inscripción* y el *commitment* y entregar ambos documentos en la [[http://fi.upm.es/?pagina=286][Oficina de Relaciones Externas de la ETSIINF]] hasta el día 29 de enero de 2018
+
+*IMPORTANTE: Hay una fecha límite para anulaciones sin coste:*  A partir de su aceptación en el curso ATHENS, no será posible su cancelación salvo en circunstancias muy especiales y debidamente justificadas.
+
+*La RENUNCIA fuera del plazo anterior implica hacerse cargo de los gastos locales que conlleven a la institución organizadora del curso, así como los gastos de la reserva de alojamiento.*
+
+** Resultados
+La fecha prevista para la lista de admitidos a los cursos es el 12 de febrero de 2018.

@@ -1,0 +1,62 @@
+#+HTML_HEAD: <style type="text/css"> <!--/*--><![CDATA[/*><!--*/ .title { display: none; } /*]]>*/--> </style>
+#+OPTIONS: num:nil author:nil html-style:nil html-preamble:nil html-postamble:nil html-scripts:nil
+#+EXPORT_FILE_NAME: ./exports/acbilaterales1819.html
+
+#+HTML: <h1 id="acbilat">Acuerdos Bilaterales y Acuerdos de doble diploma 2018-2019</h1>
+* Descripción
+La ETSIINF-UPM mantiene acuerdos de cooperación y acuerdos bilaterales con diversos centros que en función de dichos acuerdos permiten actividades de movilidad de estudiantes de tipo académico, doble diploma, de investigación, etc.
+** Destinos
+Universidades con acuerdo:
+| Pais        | Centro asociado                                                 |
+| Brasil      | [[https://www.ufmg.br/espanol/][Universidade Federal de Minas Gerais]]                            |
+| Canadá      | [[http://www.polymtl.ca/][Polytechnique Montréal]]                                          |
+| Chile       | [[http://www.utalca.cl/][Universidad de Talca]]                                            |
+| Chile       | [[http://www.ubiobio.cl/w/][Universidad Bio Bio]]                                             |
+| Colombia    | [[http://unal.edu.co/][Universidad Nacional de Colombia]]                                |
+| Ecuador     | [[http://www.utpl.edu.ec/][Universidad Técnica Particular de Loja]]                          |
+| EEUU        | [[http://www.iit.edu/][Instituto Tecnológico de Illinois]]                               |
+| EEUU        | [[http://www.unm.edu/][Universidad de Nuevo Mexico]]                                     |
+| EEUU        | [[http://www.troy.edu/][Troy University]], [[https://fi.upm.es/docs/estudios/estudiar_en_el_extranjero/963_Troy%20Online%20PPT%202015%20v2.pdf][Presentación]]                                   |
+| EEUU        | [[https://www2.gmu.edu/][George Mason University]]                                         |
+| México      | [[http://www.uaq.mx/][Universidad Autónoma de Querétaro]]                               |
+| México      | [[http://www.itcolima.edu.mx/][Instituto Tecnológico de Colima]]                                 |
+| Perú        | [[http://www.ucvlima.edu.pe/][Universidad Cesar Vallejo]]                                       |
+| Puerto Rico | [[http://ut.suagm.edu/][Universidad del Turabo]]                                          |
+| Suiza       | [[https://www.epfl.ch/][École Polytechnique Fédérale (EPF) Lausanne]], [[https://fi.upm.es/docs/estudios/estudiar_en_el_extranjero/963_EPFL-2017-18-info.pdf][EPFL Mobility Info]] |
+
+Universidades con acuerdo de *Doble Diploma de Master*:
+| Pais   | Centro asociado                                                         | Master ETSIINF |
+| EEUU   | [[http://www.iit.edu/][Instituto Tecnológico de Illinois]], [[https://fi.upm.es/docs/estudios/estudiar_en_el_extranjero/963_UPM%20presentation%20Oct_2017.pdf][Presentación]]                         | MUII - MUIS    |
+| China  | [[http://ev.buaa.edu.cn/][Beihang University - BUAA]]                                               | MUIS           |
+| China  | [[http://www.tongji.edu.cn/english/][Tongji University]]                                                       | MUIS           |
+| Europa | [[http://www.inf.unibz.it/emse-dokuwiki/emse/home][Official Europan Masters Course in Software Engineering - UKL, FUB, UoO]] | MUIS           |
+
+** Requisitos
+*** Académicos
+**** Máster Universitario en Ingeniería Informática
+**** Máster Universitario en Ingeniería del Software
+- Para solicitar la participación: Estar matriculado en todos los créditos del primer semestre
+- Para ser seleccionado: Haber superado todos los créditos del primer semestre y estar matriculado en todos los créditos del segundo semestre
+
+Como medida de fomento de la movilidad internacional y siempre que  los datos lo permitan, se tendrá en cuenta los resultados de los  exámenes de la convocatoria de Enero-Febrero.
+*** Lingüísticos y otros:
+USA
+- TOEFL: 90 iBT o IELTS: 6.5 o PTE: 63
+- GRE general (minimum per Dpt.)
+
+CHINA
+- TOEFL, mínimo 80 (iBT) / 213 (CBT) / 550 (PBT), o equivalente
+* Convocatoria 2018-2019
+- Plazo de solicitud: *21 de diciembre de 2017 al 5 de febrero de 2018*
+- Documentación: certificados de idioma; carta de motivaci&oacute;n; pasaporte o tarjeta de residencia en vigor (solo estudiantes extracomunitarios)
+- Rellenar la [[https://fi.upm.es/docs/estudios/estudiar_en_el_extranjero/963_FORMULARIO%20SOLICITUD-AABB_%2018-19.pdf][solicitud]], firmarla, adjuntar la documentación requerida y registrarla en el registro de la ETSIINF (Secretaría de alumnos).
+** Resultados
+- Adjudicación Provisional 2018-2019
+- [[https://fi.upm.es/docs/estudios/estudiar_en_el_extranjero/963_ACEPTACION-RENUNCIA-RECLAMACION%20DESTINO%202017-18_AABB.pdf][Formulario de Aceptación, Renuncia o Reclamación]]
+- Adjudicación Definitiva 2018-2019
+
+* Becas internacionales para EEUU y Canada 2018-2019
+- Convocatoria
+- Plazo de solicitud: (saldrá próximamente)
+- Documentación: CV con una fotografía reciente (una solo página), focotopia de documento oficial en el que conste nivel de idioma,  fotocopia de la matrícula, carta de motivación, justificante de admisión en la universidad de destino o, en su defecto, justificante de la solicitud.
+- Rellenar la [[https://vri5.rec.upm.es/becas_EEUU_Canada/][solicitud online]], imprimirla, firmarla, adjuntar la documentación requerida y presentarla en el registro de la ETSIINF (Secretaría de alumnos) o en el registro general de la UPM

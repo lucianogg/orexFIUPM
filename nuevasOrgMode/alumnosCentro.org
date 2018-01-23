@@ -15,16 +15,14 @@
 :PROPERTIES:
 :CUSTOM_ID: erasmus
 :END:
-El programa Erasmus+ ofrece la oportunidad al alumno de cursar parte de sus estudios en una de las universidades con las que tiene acuerdo la ETSIINF. La estancia dura entre 3 y 12 meses, la universidad de destino suele ofrecer alojamiento y se proporciona una ayuda mensual. [[http://www2.upm.es/portal/site/institucional/menuitem.e29ff8272ddfb41943a75910dffb46a8/?vgnextoid=99cd56b1540be110VgnVCM10000009c7648aRCRD][(más detalles)]]
-- [[http://fi.upm.es][Convocatoria 2017-2018]]
-- [[http://www.fi.upm.es][Convocatoria 2016-2017]]
+El programa Erasmus+ ofrece la oportunidad al alumno de cursar parte de sus estudios en una de las universidades con las que tiene acuerdo la ETSIINF. La estancia dura entre 3 y 12 meses, la universidad de destino suele ofrecer alojamiento y se proporciona una ayuda mensual. [[http://www2.upm.es/portal/site/institucional/menuitem.e29ff8272ddfb41943a75910dffb46a8/?vgnextoid=99cd56b1540be110VgnVCM10000009c7648aRCRD][(más información)]]
+- [[http://fi.upm.es][Convocatoria 2018-2019]]
 *** Magalhães - SMILE
 :PROPERTIES:
 :CUSTOM_ID: magalhaes
 :END:
 El programa Magalhães es una red entre Europa, Latinoamérica y Caribe cuyo objetivo es fomentar la movilidad y cooperación entre las universidades participantes. SMILE es el programa de movilidad de estudiantes dentro de Magalhães. Es similar al programa ERASMUS. La UPM es miembro de esta red y la ETSIINF participa en ella a través de acuerdos bilaterales con universidades latinoamericanas de reconocido prestigio.
-- [[http://fi.upm.es][Convocatoria 2017-2018]]
-- [[http://www.fi.upm.es][Convocatoria 2016-2017]]
+- [[http://fi.upm.es][Convocatoria 2018-2019]]
 *** Programa Global E3
 :PROPERTIES:
 :CUSTOM_ID: e3
@@ -36,16 +34,11 @@ Global E3 es un programa de intercambio para estudiantes de ingeniería. Se ofre
 :CUSTOM_ID: hispanoChino
 :END:
 La UPM mantiene acuerdos bilaterales con diversas universidades chinas con el objetivo de fomentar la movilidad de estudiantes entre ambos países. El programa está especialmente dirigido a la realización del trabajo fin de grado o de fin de master.
-- [[http://fi.upm.es][Convocatoria 2017-2018]]
-- [[http://fi.upm.es][Convocatoria 2016-2017]]
+- [[http://fi.upm.es][Convocatoria 2018-2019]]
 *** Convocatoria de proyectos de fin de carrera para el desarrollo
 :PROPERTIES:
 :CUSTOM_ID: convocatoriaFinCarreraDesarrollo
 :END:
-Sigue existiendo?
-- Descripción
-- Convocatoria k
-- Convocatoria k-1
 *** Convocatoria de ayudas de viaje de cooperación
 :PROPERTIES:
 :CUSTOM_ID: convocatoriaViajeCooperacion
@@ -60,48 +53,45 @@ Sigue existiendo?
 :PROPERTIES:
 :CUSTOM_ID: athens
 :END:
-El programa ATHENS consta de una serie de cursos organizados en universidades tecnológicas europeas, con reconocimiento de créditos y posibilidad de solicitar bolsa de viaje para acudir a los cursos en otros países. Hay una convocatoria de marzo y una de noviembre en cada curso. (más detalles o bien en la [[http://www.upm.es/Estudiantes/Movilidad/Programas_Internacionales/Athens][página de UPM]] o en la [[http://athensnetwork.eu/][página oficial de ATHENS]])
+El programa ATHENS consta de una serie de cursos organizados en universidades tecnológicas europeas, con reconocimiento de créditos y posibilidad de solicitar bolsa de viaje para acudir a los cursos en otros países. Hay una convocatoria de marzo y una de noviembre en cada curso. (más información o bien en la [[http://www.upm.es/Estudiantes/Movilidad/Programas_Internacionales/Athens][página de UPM]] o en la [[http://athensnetwork.eu/][página oficial de ATHENS]])
 - [[https://fi.upm.es][Convocatoria Marzo 2018]]
-- [[http://www.fi.upm.es][Convocatoria Noviembre 2017]]
 **** BEST
 :PROPERTIES:
 :CUSTOM_ID: best
 :END:
-BEST (Board of European Students of Technology) es una organización apolítica y sin ánimo de lucro que ofrece cursos de corta duración y competiciones por Europa. [[http://www.best.eu.org/index.jsp][(más detalles)]]
+BEST (Board of European Students of Technology) es una organización apolítica y sin ánimo de lucro que ofrece cursos de corta duración y competiciones por Europa. [[http://www.best.eu.org/index.jsp][(más información)]]
 ** Programa nacional SICUE
 :PROPERTIES:
 :CUSTOM_ID: sicue
 :END:
 El programa SICUE permite la realización de parte de los estudios en otra universidad española, con garantía de reconocimiento académico y de aprovechamiento, así como adecuación al perfil curricular.
-- [[http://fi.upm.es][Convocatoria 2017-2018]]
-- [[http://www.fi.upm.es][Convocatoria 2016-2017]]
+- [[http://fi.upm.es][Convocatoria 2018-2019]]
 ** Acuerdos bilaterales y acuerdos de doble diploma de máster
 :PROPERTIES:
 :CUSTOM_ID: acuerdosBilaterales
 :END:
 La ETSIINF mantiene acuerdos de cooperación y acuerdos bilaterales con diversos centros extranjeros. Algunos de ellos permiten actividades de movilidad de tipo académico, doble diploma, de investigación, etc. Se listan en las páginas de cada convocatoria, a seguir:
-- [[http://www.fi.upm.es][Convocatoria 2017-2018]]
-- [[http://www.fi.upm.es][Convocatoria 2016-2017]]
+- [[http://www.fi.upm.es][Convocatoria 2018-2019]]
 ** Becas para estancias cortas de investigación en el MIT
 :PROPERTIES:
 :CUSTOM_ID: cortaEstanciaMIT
 :END:
-Esta convocatoria está orientada a promover la relación con el Massachusetts Institute of Technology (MIT) mediante becas para estancias cortas de investigación de estudiantes de máster y de último curso de grado. [[http://www.upm.es/Estudiantes/BecasAyudasPremios/Becas/Becas_Movilidad?id=35d6e50734841510VgnVCM10000009c7648a____&fmt=detail&prefmt=articulo][(más detalles)]]
+Esta convocatoria está orientada a promover la relación con el Massachusetts Institute of Technology (MIT) mediante becas para estancias cortas de investigación de estudiantes de máster y de último curso de grado. [[http://www.upm.es/Estudiantes/BecasAyudasPremios/Becas/Becas_Movilidad?id=35d6e50734841510VgnVCM10000009c7648a____&fmt=detail&prefmt=articulo][(más información)]]
 ** Becas Tokyo Institute of Technology (Japón)
 :PROPERTIES:
 :CUSTOM_ID: tokyoIOT
 :END:
-La UPM tiene un acuerdo con el Tokyo Institute of Technology Graduate School of Engineering de intercambio de estudiantes para la realización de estancias de investigación en su Summer Exchange Research Program. Son estancias de hasta 3 meses durante los meses de verano. [[http://www.upm.es/Estudiantes/BecasAyudasPremios/Becas/Becas_Movilidad?fmt=detail&prefmt=articulo&id=cd29e527e027c310VgnVCM10000009c7648a][(más detalles)]]
+La UPM tiene un acuerdo con el Tokyo Institute of Technology Graduate School of Engineering de intercambio de estudiantes para la realización de estancias de investigación en su Summer Exchange Research Program. Son estancias de hasta 3 meses durante los meses de verano. [[http://www.upm.es/Estudiantes/BecasAyudasPremios/Becas/Becas_Movilidad?fmt=detail&prefmt=articulo&id=cd29e527e027c310VgnVCM10000009c7648a][(más información)]]
 ** Becas Iberoamérica. Estudiantes de grado. Santander Universidades
 :PROPERTIES:
 :CUSTOM_ID: iberoamericaGrado
 :END:
-Estas becas tienen por objeto fomentar la movilidad internacional de estudiantes de grado con el fin de realizar estudios en universidades iberoamericanas con las que la UPM tenga establecido un convenio internacional para el intercambio académico de estudiantes. [[http://www.upm.es/Estudiantes/BecasAyudasPremios/Becas/Becas_Movilidad?id=f6512dcb05ebf210VgnVCM10000009c7648a____&fmt=detail&prefmt=articulo][(más detalles)]]
+Estas becas tienen por objeto fomentar la movilidad internacional de estudiantes de grado con el fin de realizar estudios en universidades iberoamericanas con las que la UPM tenga establecido un convenio internacional para el intercambio académico de estudiantes. [[http://www.upm.es/Estudiantes/BecasAyudasPremios/Becas/Becas_Movilidad?id=f6512dcb05ebf210VgnVCM10000009c7648a____&fmt=detail&prefmt=articulo][(más información)]]
 ** Becas Iberoamérica. Santander Investigación
 :PROPERTIES:
 :CUSTOM_ID: iberoamericaInvestigacion
 :END:
-Estas becas tienen por objeto reforzar la movilidad e intercambio de alumnos de doctorado entre universidades y centros de investigación iberoamericanos con el fin de promover la actualización del nivel de conocimientos de los participantes, el aprendizage de nuevas técnicas y métodos y la consolidación de vínculos académicos. La duración mínima es de 4 meses. [[http://www.upm.es/Estudiantes/BecasAyudasPremios/Becas/Becas_Movilidad?id=3aabcc08ad1e3510VgnVCM10000009c7648a____&fmt=detail&prefmt=articulo][(más detalles)]]
+Estas becas tienen por objeto reforzar la movilidad e intercambio de alumnos de doctorado entre universidades y centros de investigación iberoamericanos con el fin de promover la actualización del nivel de conocimientos de los participantes, el aprendizage de nuevas técnicas y métodos y la consolidación de vínculos académicos. La duración mínima es de 4 meses. [[http://www.upm.es/Estudiantes/BecasAyudasPremios/Becas/Becas_Movilidad?id=3aabcc08ad1e3510VgnVCM10000009c7648a____&fmt=detail&prefmt=articulo][(más información)]]
 * Programas de prácticas en empresa en el exterior
 :PROPERTIES:
 :CUSTOM_ID: practicasExterior
@@ -130,9 +120,7 @@ Las becas Goya-Mundus de la Comunidad de Madrid ofrecen a los estudiantes la opo
 :PROPERTIES:
 :CUSTOM_ID: practicaserasmus
 :END:
-El programa Erasmus+, además de ofrecer la oportunidad de realización de movilidad académica, también ofrece soporte a la movilidad para realización de prácticas en empresa.
-- [[http://www.upm.es/Estudiantes/Movilidad/Programas_Internacionales/Erasmus?fmt=detail&prefmt=articulo&id=395781ed1a8fb510VgnVCM10000009c7648a][Convocatoria 2017-2018]]
-- Convocatoria 2016-2017
+El programa Erasmus+, además de ofrecer la oportunidad de realización de movilidad académica, también ofrece soporte a la movilidad para realización de prácticas en empresa. [[http://www.upm.es/Estudiantes/Movilidad/Programas_Internacionales/Erasmus][(Más información)]]
 * Otras oportunidades
 :PROPERTIES:
 :CUSTOM_ID: otrasOportunidades

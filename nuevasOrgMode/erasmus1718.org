@@ -1,7 +1,0 @@
-#+HTML_HEAD: <style type="text/css"> <!--/*--><![CDATA[/*><!--*/ .title { display: none; } /*]]>*/--> </style>
-#+OPTIONS: num:nil author:nil html-style:nil html-preamble:nil html-postamble:nil html-scripts:nil
-#+EXPORT_FILE_NAME: ./exports/erasmus1718.html
-
-#+HTML: <h1 id="erasmus">Erasmus+ 2017-2018</h1>
-
-Presentando el programa Erasmus+
