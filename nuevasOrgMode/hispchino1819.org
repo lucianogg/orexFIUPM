@@ -1,6 +1,6 @@
 #+HTML_HEAD: <style type="text/css"> <!--/*--><![CDATA[/*><!--*/ .title { display: none; } /*]]>*/--> </style>
 #+OPTIONS: num:nil author:nil html-style:nil html-preamble:nil html-postamble:nil html-scripts:nil
-#+EXPORT_FILE_NAME: ./exports/magalhaes1819.html
+#+EXPORT_FILE_NAME: ./exports/hispchino1819.html
 
 #+HTML: <h1 id="erasmus">Programa Hispano-Chino 2018-2019</h1>
 * Descripción
@@ -10,6 +10,8 @@ El programa está especialmente dirigido a la realización de Trabajo fin de Gra
 
 [[http://www.upm.es/Estudiantes/Movilidad/Programas_Internacionales/HispanoChino][(más información)]]
 * Destinos
+# Cabecera de la tabla: <table style:"width: 551px; height: 289px" border="0">
+# Cabecera del contenido: <tr><th>Pais</th><th>Centro asociado</th></tr>
 | Pais             | Centro asociado                                                                                                    |
 | China            | [[http://www.njtu.edu.cn/en/][Beijing Jiaotong University]]                                                                                        |
 | China            | [[http://www.bupt.edu.cn/enver/index.asp][Beijing University of Posts and Telecommunications]]                                                                 |
