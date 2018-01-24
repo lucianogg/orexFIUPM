@@ -16,13 +16,13 @@
 :CUSTOM_ID: erasmus
 :END:
 El programa Erasmus+ ofrece la oportunidad al alumno de cursar parte de sus estudios en una de las universidades con las que tiene acuerdo la ETSIINF. La estancia dura entre 3 y 12 meses, la universidad de destino suele ofrecer alojamiento y se proporciona una ayuda mensual. [[http://www2.upm.es/portal/site/institucional/menuitem.e29ff8272ddfb41943a75910dffb46a8/?vgnextoid=99cd56b1540be110VgnVCM10000009c7648aRCRD][(más información)]]
-- [[http://fi.upm.es][Convocatoria 2018-2019]]
+- [[http://fi.upm.es/?pagina=2351][Convocatoria 2018-2019]]
 *** Magalhães - SMILE
 :PROPERTIES:
 :CUSTOM_ID: magalhaes
 :END:
 El programa Magalhães es una red entre Europa, Latinoamérica y Caribe cuyo objetivo es fomentar la movilidad y cooperación entre las universidades participantes. SMILE es el programa de movilidad de estudiantes dentro de Magalhães. Es similar al programa ERASMUS. La UPM es miembro de esta red y la ETSIINF participa en ella a través de acuerdos bilaterales con universidades latinoamericanas de reconocido prestigio.
-- [[http://fi.upm.es][Convocatoria 2018-2019]]
+- [[http://fi.upm.es/?pagina=2353][Convocatoria 2018-2019]]
 *** Programa Global E3
 :PROPERTIES:
 :CUSTOM_ID: e3
@@ -34,7 +34,7 @@ Global E3 es un programa de intercambio para estudiantes de ingeniería. Se ofre
 :CUSTOM_ID: hispanoChino
 :END:
 La UPM mantiene acuerdos bilaterales con diversas universidades chinas con el objetivo de fomentar la movilidad de estudiantes entre ambos países. El programa está especialmente dirigido a la realización del trabajo fin de grado o de fin de master.
-- [[http://fi.upm.es][Convocatoria 2018-2019]]
+- [[http://fi.upm.es/?pagina=2355][Convocatoria 2018-2019]]
 *** Convocatoria de proyectos de fin de carrera para el desarrollo
 :PROPERTIES:
 :CUSTOM_ID: convocatoriaFinCarreraDesarrollo
@@ -54,7 +54,7 @@ La UPM mantiene acuerdos bilaterales con diversas universidades chinas con el ob
 :CUSTOM_ID: athens
 :END:
 El programa ATHENS consta de una serie de cursos organizados en universidades tecnológicas europeas, con reconocimiento de créditos y posibilidad de solicitar bolsa de viaje para acudir a los cursos en otros países. Hay una convocatoria de marzo y una de noviembre en cada curso. (más información o bien en la [[http://www.upm.es/Estudiantes/Movilidad/Programas_Internacionales/Athens][página de UPM]] o en la [[http://athensnetwork.eu/][página oficial de ATHENS]])
-- [[https://fi.upm.es][Convocatoria Marzo 2018]]
+- [[http://fi.upm.es/?pagina=2357][Convocatoria Marzo 2018]]
 **** BEST
 :PROPERTIES:
 :CUSTOM_ID: best
@@ -65,13 +65,13 @@ BEST (Board of European Students of Technology) es una organización apolítica 
 :CUSTOM_ID: sicue
 :END:
 El programa SICUE permite la realización de parte de los estudios en otra universidad española, con garantía de reconocimiento académico y de aprovechamiento, así como adecuación al perfil curricular.
-- [[http://fi.upm.es][Convocatoria 2018-2019]]
+- [[http://fi.upm.es/?pagina=2359][Convocatoria 2018-2019]]
 ** Acuerdos bilaterales y acuerdos de doble diploma de máster
 :PROPERTIES:
 :CUSTOM_ID: acuerdosBilaterales
 :END:
 La ETSIINF mantiene acuerdos de cooperación y acuerdos bilaterales con diversos centros extranjeros. Algunos de ellos permiten actividades de movilidad de tipo académico, doble diploma, de investigación, etc. Se listan en las páginas de cada convocatoria, a seguir:
-- [[http://www.fi.upm.es][Convocatoria 2018-2019]]
+- [[http://fi.upm.es/?pagina=2361][Convocatoria 2018-2019]]
 ** Becas para estancias cortas de investigación en el MIT
 :PROPERTIES:
 :CUSTOM_ID: cortaEstanciaMIT
@@ -152,3 +152,5 @@ Dadas la necesidad y ventajas de conocer más de un idioma en un mundo globaliza
 :CUSTOM_ID: certificadosReconocidosIngles
 :END:
 - [[http://www.etsist.upm.es/departamentos/LING/acreditacion-b2-en-lengua-inglesa][Inglés]]
+- Alemán: [[https://www.testdaf.de][DaF]], [[https://www.goethe.de/ins/de/esindex.htm][Goethe Institut]]
+- [[http://www.afmadrid.es/es/examenes-oficiales/examenes-y-certificaciones-internacionales/40][Francés]]
