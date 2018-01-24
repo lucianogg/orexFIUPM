@@ -1,14 +1,17 @@
 #+HTML_HEAD: <style type="text/css"> <!--/*--><![CDATA[/*><!--*/ .title { display: none; } /*]]>*/--> </style>
 #+OPTIONS: num:nil author:nil html-style:nil html-preamble:nil html-postamble:nil html-scripts:nil
-#+EXPORT_FILE_NAME: ./exports/magalhaes1819.html
+#+EXPORT_FILE_NAME: ./exports/sicue1819.html
 
-#+HTML: <h1 id="erasmus">SICUE 2018-2019</h1>
+#+HTML: <h1 id="sicue">SICUE 2018-2019</h1>
 * Descripción del programa
 Por medio de este programa los estudiantes de las universidades españolas pueden realizar una parte de sus estudios en otra universidad distinta a la suya, con garantías de reconocimiento académico y de aprovechamiento, así como de adecuación a su perfil curricular. [[http://www.upm.es/Estudiantes/Movilidad/Programas_Nacionales/SicueSeneca][(más información)]]
 
 Universidades con las que nuestra escuela tiene acuerdo para este programa:
 
+# Cabecera de la tabla: <table style:"width: 551px; height: 289px" border="0">
+# Cabecera del contenido: <tr><th>Pais</th><th>Centro asociado</th></tr>
 | Comunidad Autónoma   | Universidad                               |
+|----------------------+-------------------------------------------|
 | Andalucía            | [[https://www.ugr.es/][Universidad de Granada]]                    |
 | Andalucía            | [[http://www.us.es/][Universidad de Sevilla]]                    |
 | Canarias             | [[http://www.ull.es/][Universidad de La Laguna]]                  |

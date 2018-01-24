@@ -2,7 +2,7 @@
 #+OPTIONS: num:nil author:nil html-style:nil html-preamble:nil html-postamble:nil html-scripts:nil
 #+EXPORT_FILE_NAME: ./exports/hispchino1819.html
 
-#+HTML: <h1 id="erasmus">Programa Hispano-Chino 2018-2019</h1>
+#+HTML: <h1 id="hispChino">Programa Hispano-Chino 2018-2019</h1>
 * Descripción
 La UPM mantiene acuerdos bilaterales con diversas Universidades Chinas con el objeto de fomentar la movilidad de estudiantes entre ambos países e instituciones. La ETSIINF participa activamente en este programa.
 

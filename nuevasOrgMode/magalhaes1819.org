@@ -2,7 +2,7 @@
 #+OPTIONS: num:nil author:nil html-style:nil html-preamble:nil html-postamble:nil html-scripts:nil
 #+EXPORT_FILE_NAME: ./exports/magalhaes1819.html
 
-#+HTML: <h1 id="erasmus">Magalhães-SMILE 2018-2019</h1>
+#+HTML: <h1 id="magalhaes">Magalhães-SMILE 2018-2019</h1>
 * ¿Qué es Magalhães-SMILE?
 MAGALHAES es una red entre Europa, Latinoamérica y Caribe cuyo principal objetivo es fomentar la movilidad y los programas de cooperación entre las Universidades que participan en la red.
 
