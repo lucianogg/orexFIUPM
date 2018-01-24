@@ -12,10 +12,10 @@ The External Relations Office is the service in charge of the administrative man
 :PROPERTIES:
 :CUSTOM_ID: incoming
 :END:
-- [[http://fi.upm.es/?id=exchangeincoming][General information for incoming exchange students]]
+- [[http://fi.upm.es/?pagina=432][General information for incoming exchange students]]
 
 ** Outgoing Students (ETSIINF students)
 :PROPERTIES:
 :CUSTOM_ID: outgoing
 :END:
-- [[http://fi.upm.es/?pagina=9999][General information for outgoing students (page available only in Spanish)]]
+- [[http://fi.upm.es/?pagina=2349][General information for outgoing students (page available only in Spanish)]]
