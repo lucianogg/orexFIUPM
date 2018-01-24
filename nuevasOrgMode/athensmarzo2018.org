@@ -1,8 +1,8 @@
 #+HTML_HEAD: <style type="text/css"> <!--/*--><![CDATA[/*><!--*/ .title { display: none; } /*]]>*/--> </style>
 #+OPTIONS: num:nil author:nil html-style:nil html-preamble:nil html-postamble:nil html-scripts:nil
-#+EXPORT_FILE_NAME: ./exports/magalhaes1819.html
+#+EXPORT_FILE_NAME: ./exports/athensmarzo18.html
 
-#+HTML: <h1 id="erasmus">Programa Athens - Convocatoria Marzo 2018</h1>
+#+HTML: <h1 id="athens">Programa Athens - Convocatoria Marzo 2018</h1>
 * Descripción
 El programa ATHENS consta de una serie de cursos organizados en universidades tecnológicas europeas, con reconocimiento de créditos y posibilidad de solicitar una [[http://fi.upm.es/?pagina=13][bolsa de viaje]] para acudir a los cursos en otros países. Hay dos convocatorias por curso: Marzo y Noviembre. Más información en la [[http://athensnetwork.eu/][página oficial del programa]] y en la [[http://www.upm.es/Estudiantes/Movilidad/Programas_Internacionales/Athens][página de UPM]].
 * Convocatoria Marzo 2018
