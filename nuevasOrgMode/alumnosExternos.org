@@ -14,9 +14,9 @@ Si la información que buscas no está aquí, contacta con la [[http://fi.upm.es
 :END:
 Los estudiantes extranjeros interesados en realizar una estancia en la ETSIINF deberán contactar con la oficina internacional de su universidad o centro de origen y verificar si existe o no convenio de intercambio de estudiantes.
 
-En caso de existir convenio, los estudiantes podrán solicitar su admisión a través de sus oficinas internacionales.
+En caso de existir convenio, los estudiantes podrán solicitar su admisión a través de sus oficinas internacionales. [[http://www.upm.es/institucional/Estudiantes/Movilidad/Programas_Internacionales/EstudiantesCon_Convenio][(más información)]]
 
-Si no existe convenio deben consultar con sus oficinas internacionales sobre la posibilidad de establecer uno. De no ser posible, cabe la posibilidad de ser admitido como alumno visitante (sin convenio) ([[http://www.upm.es/sfs/Rectorado/Vicerrectorado%20de%20Relaciones%20Internacionales/Resto%20del%20Mundo/normativa_estudiantes_visitantes.pdf][Normativa]]).
+Si no existe convenio deben consultar con sus oficinas internacionales sobre la posibilidad de establecer uno. De no ser posible, cabe la posibilidad de ser admitido como alumno visitante (sin convenio) ([[http://www.upm.es/sfs/Rectorado/Vicerrectorado%20de%20Relaciones%20Internacionales/Resto%20del%20Mundo/normativa_estudiantes_visitantes.pdf][Normativa]]). [[http://www.upm.es/institucional/Estudiantes/Movilidad/Programas_Internacionales/EstudiantesSin_Convenio][(más información)]]
 
 ** Plazos de solicitud de admisión
 :PROPERTIES:
@@ -231,3 +231,4 @@ Sigue faltando información por aqui
 - Eleccion de asignaturas de máster
 - Ayuda con temas legales para la entrada
 - páginas de alojamiento
+- Integrar lo de Reka por aqui
