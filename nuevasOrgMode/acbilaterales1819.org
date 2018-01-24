@@ -7,7 +7,10 @@
 La ETSIINF-UPM mantiene acuerdos de cooperación y acuerdos bilaterales con diversos centros que en función de dichos acuerdos permiten actividades de movilidad de estudiantes de tipo académico, doble diploma, de investigación, etc.
 ** Destinos
 Universidades con acuerdo:
-| Pais        | Centro asociado                                                 |
+# Cabecera de la tabla: <table style:"width: 521px; height: 289px" border="0">
+# Cabecera del contenido: <tr><th>Pa&iacute;s</th><th>Centro asociado</th></tr>
+| País        | Centro asociado                                                 |
+|-------------+-----------------------------------------------------------------|
 | Brasil      | [[https://www.ufmg.br/espanol/][Universidade Federal de Minas Gerais]]                            |
 | Canadá      | [[http://www.polymtl.ca/][Polytechnique Montréal]]                                          |
 | Chile       | [[http://www.utalca.cl/][Universidad de Talca]]                                            |
@@ -25,7 +28,10 @@ Universidades con acuerdo:
 | Suiza       | [[https://www.epfl.ch/][École Polytechnique Fédérale (EPF) Lausanne]], [[https://fi.upm.es/docs/estudios/estudiar_en_el_extranjero/963_EPFL-2017-18-info.pdf][EPFL Mobility Info]] |
 
 Universidades con acuerdo de *Doble Diploma de Master*:
+# Cabecera de la tabla: <table style:"width: 581px; height: 289px" border="0">
+# Cabecera del contenido: <tr><th>Pa&iacute;s</th><th>Centro asociado</th><th>Master ETSIINF</th></tr>
 | Pais   | Centro asociado                                                         | Master ETSIINF |
+|--------+-------------------------------------------------------------------------+----------------|
 | EEUU   | [[http://www.iit.edu/][Instituto Tecnológico de Illinois]], [[https://fi.upm.es/docs/estudios/estudiar_en_el_extranjero/963_UPM%20presentation%20Oct_2017.pdf][Presentación]]                         | MUII - MUIS    |
 | China  | [[http://ev.buaa.edu.cn/][Beihang University - BUAA]]                                               | MUIS           |
 | China  | [[http://www.tongji.edu.cn/english/][Tongji University]]                                                       | MUIS           |
