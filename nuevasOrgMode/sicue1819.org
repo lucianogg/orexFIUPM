@@ -8,8 +8,8 @@ Por medio de este programa los estudiantes de las universidades españolas puede
 
 Universidades con las que nuestra escuela tiene acuerdo para este programa:
 
-# Cabecera de la tabla: <table style:"width: 551px; height: 289px" border="0">
-# Cabecera del contenido: <tr><th>Pais</th><th>Centro asociado</th></tr>
+# Cabecera de la tabla: <table style:"width: 521px; height: 289px" border="0">
+# Cabecera del contenido: <tr><th>Comunidad Aut&oacute;noma</th><th>Universidad</th></tr>
 | Comunidad Autónoma   | Universidad                               |
 |----------------------+-------------------------------------------|
 | Andalucía            | [[https://www.ugr.es/][Universidad de Granada]]                    |
