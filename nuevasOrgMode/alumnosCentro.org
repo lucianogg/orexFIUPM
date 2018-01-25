@@ -77,22 +77,22 @@ La ETSIINF mantiene acuerdos de cooperación y acuerdos bilaterales con diversos
 :PROPERTIES:
 :CUSTOM_ID: cortaEstanciaMIT
 :END:
-Esta convocatoria está orientada a promover la relación con el Massachusetts Institute of Technology (MIT) mediante becas para estancias cortas de investigación de estudiantes de máster y de último curso de grado. [[http://www.upm.es/Estudiantes/BecasAyudasPremios/Becas/Becas_Movilidad?id=35d6e50734841510VgnVCM10000009c7648a____&fmt=detail&prefmt=articulo][(más información)]]
+Esta convocatoria está orientada a promover la relación con el Massachusetts Institute of Technology (MIT) mediante becas para estancias cortas de investigación de estudiantes de máster y de último curso de grado. [[http://www.upm.es/Estudiantes/BecasAyudasPremios/Becas/Becas_Movilidad][(más información)]]
 ** Becas Tokyo Institute of Technology (Japón)
 :PROPERTIES:
 :CUSTOM_ID: tokyoIOT
 :END:
-La UPM tiene un acuerdo con el Tokyo Institute of Technology Graduate School of Engineering de intercambio de estudiantes para la realización de estancias de investigación en su Summer Exchange Research Program. Son estancias de hasta 3 meses durante los meses de verano. [[http://www.upm.es/Estudiantes/BecasAyudasPremios/Becas/Becas_Movilidad?fmt=detail&prefmt=articulo&id=cd29e527e027c310VgnVCM10000009c7648a][(más información)]]
+La UPM tiene un acuerdo con el Tokyo Institute of Technology Graduate School of Engineering de intercambio de estudiantes para la realización de estancias de investigación en su Summer Exchange Research Program. Son estancias de hasta 3 meses durante los meses de verano. [[http://www.upm.es/Estudiantes/BecasAyudasPremios/Becas/Becas_Movilidad][(más información)]]
 ** Becas Iberoamérica. Estudiantes de grado. Santander Universidades
 :PROPERTIES:
 :CUSTOM_ID: iberoamericaGrado
 :END:
-Estas becas tienen por objeto fomentar la movilidad internacional de estudiantes de grado con el fin de realizar estudios en universidades iberoamericanas con las que la UPM tenga establecido un convenio internacional para el intercambio académico de estudiantes. [[http://www.upm.es/Estudiantes/BecasAyudasPremios/Becas/Becas_Movilidad?id=f6512dcb05ebf210VgnVCM10000009c7648a____&fmt=detail&prefmt=articulo][(más información)]]
+Estas becas tienen por objeto fomentar la movilidad internacional de estudiantes de grado con el fin de realizar estudios en universidades iberoamericanas con las que la UPM tenga establecido un convenio internacional para el intercambio académico de estudiantes. [[http://www.upm.es/Estudiantes/BecasAyudasPremios/Becas/Becas_Movilidad][(más información)]]
 ** Becas Iberoamérica. Santander Investigación
 :PROPERTIES:
 :CUSTOM_ID: iberoamericaInvestigacion
 :END:
-Estas becas tienen por objeto reforzar la movilidad e intercambio de alumnos de doctorado entre universidades y centros de investigación iberoamericanos con el fin de promover la actualización del nivel de conocimientos de los participantes, el aprendizage de nuevas técnicas y métodos y la consolidación de vínculos académicos. La duración mínima es de 4 meses. [[http://www.upm.es/Estudiantes/BecasAyudasPremios/Becas/Becas_Movilidad?id=3aabcc08ad1e3510VgnVCM10000009c7648a____&fmt=detail&prefmt=articulo][(más información)]]
+Estas becas tienen por objeto reforzar la movilidad e intercambio de alumnos de doctorado entre universidades y centros de investigación iberoamericanos con el fin de promover la actualización del nivel de conocimientos de los participantes, el aprendizage de nuevas técnicas y métodos y la consolidación de vínculos académicos. La duración mínima es de 4 meses. [[http://www.upm.es/Estudiantes/BecasAyudasPremios/Becas/Becas_Movilidad][(más información)]]
 * Programas de prácticas en empresa en el exterior
 :PROPERTIES:
 :CUSTOM_ID: practicasExterior
@@ -111,12 +111,12 @@ ARGO es un programa de movilidad promovido por el Ministerio de Educación, Cult
 :PROPERTIES:
 :CUSTOM_ID: becasfaro
 :END:
-El programa de becas Faro Global promueve la movilidad de estudiantes de último curso mediante la realización de prácticas en empresas de Europa, Asia, Estados Unidos y Canadá. [[http://www.upm.es/Estudiantes/BecasAyudasPremios/Becas/Becas_Movilidad?fmt=detail&prefmt=articulo&id=8c56765ef9de1210VgnVCM10000009c7648a][(más información)]]
+El programa de becas Faro Global promueve la movilidad de estudiantes de último curso mediante la realización de prácticas en empresas de Europa, Asia, Estados Unidos y Canadá. [[http://www.upm.es/Estudiantes/BecasAyudasPremios/Becas/Becas_Movilidad][(más información)]]
 ** Becas Goya-Mundus
 :PROPERTIES:
 :CUSTOM_ID: becasgoya
 :END:
-Las becas Goya-Mundus de la Comunidad de Madrid ofrecen a los estudiantes la oportunidad de realizar un período de prácticas en empresas/instituciones de Europa, Estados Unidos y Asia. [[http://www.upm.es/Estudiantes/BecasAyudasPremios/Becas/Becas_Movilidad?fmt=detail&prefmt=articulo&id=ced5765ef9de1210VgnVCM10000009c7648a][(más información)]]
+Las becas Goya-Mundus de la Comunidad de Madrid ofrecen a los estudiantes la oportunidad de realizar un período de prácticas en empresas/instituciones de Europa, Estados Unidos y Asia. [[http://www.upm.es/Estudiantes/BecasAyudasPremios/Becas/Becas_Movilidad][(más información)]]
 ** Movilidad para prácticas en empresas a través del programa ERASMUS
 :PROPERTIES:
 :CUSTOM_ID: practicaserasmus
