@@ -1,0 +1,222 @@
+#+HTML_HEAD: <style type="text/css"> <!--/*--><![CDATA[/*><!--*/ .title { display: none; } /*]]>*/--> </style>
+#+OPTIONS: num:nil author:nil html-style:nil html-preamble:nil html-postamble:nil html-scripts:nil
+#+EXPORT_FILE_NAME: ./exports/alumnosExternosEnglish.html
+
+#+HTML: <h1 id="movilidadExternoEnglish">Exchange students</h1>
+We would like, in the first place, to extend a warm welcome to all exchange students interested in coming for an academic stay at the Universidad Politécnica de Madrid's Escuela Técnica Superior de Ingenieros Informáticos (ETSIINF). This is the page for you to obtain the most important information about how the studies work at ETSIINF.
+
+If you need any information not included here, please ask us at the [[http://fi.upm.es/?pagina=286][Oficina de Relaciones Externas (OREX)]].
+
+* Getting to study at ETSIINF
+:PROPERTIES:
+:CUSTOM_ID: application
+:END:
+International students interested in studying at the ETSIINF should contact the international office of their own univerisity or higher education institution in order to check whether or not there is a student exchange agreement in place between the university and Universidad Politécnica de Madrid. Note that some universities may have agreements with other schools of the Universidad Politécnica de Madrid but not the ETSIINF.
+
+In this case, or if there isn't any valid agreement between the two institutions, the student is invited to ask in their own university's international office if there is the possibility of setting up an agreement.
+
+But even if arranging an agreement is not possible, there is also the possibility of applying as a visiting student without agreement, also refered as "free mover". Check the details [[http://www.upm.es/institucional/Estudiantes/Movilidad/Programas_Internacionales/EstudiantesCon_Convenio][here]].
+** Application deadlines
+:PROPERTIES:
+:CUSTOM_ID: deadlines
+:END:
+- *June 1st*: full year and Autumn-term stays
+- *December 1st*: Spring-term stays
+** Documents required
+:PROPERTIES:
+:CUSTOM_ID: documents
+:END:
+The sending university's international coordinator or office should include the following documents with the applications, according to the type of exchange programme. The applications are to be sent to [[https://www.fi.upm.es/?pagina=286][ETSIINF's international office (OREX)]].
+
+Documents required for *all* exchange programmes:
+- Statement of purpose / Motivation Letter
+- Curriculum vitae
+- Transcript of records
+- Photocopy of passport or ID card
+- 1 digitized photo
+
+Documents specific for *ERASMUS+* students:
+- [[http://fi.upm.es/docs/servicios/tramites/432_EPP_2016_17_learning_agreement_studies_ver2016_3.docx][Learning Agreement]]
+- [[http://www.upm.es/sfs/Rectorado/Vicerrectorado%20de%20Alumnos/Extension%20Universitaria/Intercambios:%20movilidad%20de%20estudiantes/Erasmus/Extranjeros/FORMULARIO%20ALTA%20EXTRANJEROS%202014-2015.pdf][Foreign students Register Form (to be filled out upon arrival)]]
+
+Documents specific for *SMILE* students:
+- [[https://vri5.rec.upm.es/magalhaes/Files/SMILE%20Student%20Application-Form.pdf][Application form]]
+- [[https://vri5.rec.upm.es/magalhaes/Files/SMILE%20Student%20Learning-Agreement.pdf][Learning Agreement]]
+
+Documents specific for *bilateral agreement* students:
+- [[http://fi.upm.es/docs/servicios/tramites/432_2014_Solicitud%20alumnos%20con%20convenio.pdf][Application form]]
+- [[http://fi.upm.es/docs/servicios/tramites/432_Contrato%20de%20estudios%20CON%20CONVENIO2010-11.doc][Learning Agreement]]
+
+Documents specific for *visiting* students (free mover):
+- [[http://www.upm.es/sfs/Rectorado/Vicerrectorado%20de%20Relaciones%20Internacionales/Resto%20del%20Mundo/Impreso_alumnos_visitantes.pdf][Application form]]
+- [[http://fi.upm.es/docs/servicios/tramites/432_Contrato%20de%20estudios%20VISITANTES%20SC.doc][Learning Agreement]]
+
+** Admission
+:PROPERTIES:
+:CUSTOM_ID: admission
+:END:
+Within 4-5 weeks after receiving the application, the student will be informed by the International Office (OREX) whether the student was admitted or not. Admitted students will receive a letter of admission from ETSIINF, as well as the signed learning agreement and a document of useful informations for exchange students.
+
+** Visa
+:PROPERTIES:
+:CUSTOM_ID: visa
+:END:
+
+Non-European students must apply for a visa to enter Spain to study. This application is done through the Spanish Embassy or consulate in their home countries.
+
+** Insurance
+:PROPERTIES:
+:CUSTOM_ID: insurance
+:END:
+European students must be insured either by the European Health Insurance Card, which can be obtained from their own home countries, or by contracting a private one.
+Non-European students must contract a private insurance that includes repatriation. This is usually a requirement to get a visa, so it must be contracted before coming to Spain.
+This University offers the possibility of contracting the [[http://oncampus.es/][ONCAMPUS]] insurance.
+
+* Arrival at Madrid and first steps
+:PROPERTIES:
+:CUSTOM_ID: arrival
+:END:
+
+The ETSIINF is located at the Campus de Montegancedo, which is one of the campi of UPM.
+
+[[http://fi.upm.es/?pagina=166][How to get to the ETSIINF]]
+
+Once in Madrid, one of the first things the students should do is to visit the [[https://www.fi.upm.es/?pagina=286][External Relations Office (OREX)]] at ETSIINF to formalize the registration at the University. OREX is the office in charge of all the mobility procedures.
+
+* How classes work at ETSIINF
+:PROPERTIES:
+:CUSTOM_ID: programasEstudio
+:END:
+Nowadays, there are various study programmes being taught concurrently:
+- [[http://fi.upm.es/?id=gradoingenieriainformatica][Graduado en Ingeniería Informática]]
+- [[http://fi.upm.es/?id=gradomatematicasinformatica][Graduado en Matemáticas e Informática]]
+- [[http://fi.upm.es/?pagina=1645][Máster Universitario en Ingeniería Informática]]
+- [[http://fi.upm.es/es/europeanmasteronsoftwareengineering][Máster Universitario en Ingeniería del Software - European Master on Software Engineering]]
+- [[http://www.dia.fi.upm.es/masteria/?q=es/MUIA][Máster Universitario en Inteligencia Artificial]], [[http://fi.upm.es/?id=masterinteligenciaartificial][(internal link)]]
+- [[http://muss.fi.upm.es/][Máster Universitario en Software y Sistemas]], [[http://fi.upm.es/?id=mastersoftwareysistemas][(internal link)]]
+
+All the programmes mentioned above are structured around semesters and ECTS credits.
+
+** Academic calendar
+:PROPERTIES:
+:CUSTOM_ID: academicCalendar
+:END:
+Each programme has its own academic calendar. The stundents can find it inside the official programme's website.
+
+** Timetables
+:PROPERTIES:
+:CUSTOM_ID: timetables
+:END:
+The timetables for each class are defined according to other classes of the same course and programme. Therefore, the timetable for a certain class will be found in conjunction with all the other classes of the same course. This document is published in the programme's main website for Undergraduate studies. For master's programmes the timetables aren't necesarily published. Checking the desired programme's website is the best option to know its timetable.
+
+** Exams / Assessment
+:PROPERTIES:
+:CUSTOM_ID: exams
+:END:
+Examination dates and times are set and cannot be changed.
+
+Students do not have to register for an examination. Officially enrolled students are entitled to two examination sessions (ordinary -January/June- and deferred/referred -July-). Students are advised to look up the dates and times of both sessions for their respective degree programmes.
+
+** Enrollment
+:PROPERTIES:
+:CUSTOM_ID: enrollment
+:END:
+All exchange students will enroll exclusively through the International Office.
+
+To enroll, students will have to have duly completed the learning agreement stating the subjects that they actually intend to take. Any changes that need to be made to the original learning agreement should be completed no later than ten days as of the course starting date. Exchange students must confirm that the original content of the learning agreement is valid and correct or notify the International Office of any changes to the learning agreement as soon as possible during these ten days. In the event of modifications, the International Office will rework the learning agreement and forward it to the sending university. Students that fail to meet this requirement will NOT be allowed to enrol.
+
+Students will not be allowed to modify the learning agreement at any other time during the academic year. For this reason, they would be well advised to assure that the subjects listed in the learning agreement are the ones that they really intend to take and are taught in the right semester, and that there are no timetable overlaps with other subjects.
+
+The enrollment will be done on a semester basis. Each semester has an enrolment period (July-September and January-February).
+
+After enrolment, students will be advised by electronic mail to apply on-line for a @alumnos.upm.es email accounts. Students need this email address to access UPM and ETSIINF network services (Politécnica Virtual, distance learning services, wireless network, electronic mail, etc.).
+
+** Tuition language
+:PROPERTIES:
+:CUSTOM_ID: tuitionLanguage
+:END:
+Most lectures, especially in undergraduate programmes, are delivered in Spanish. In some master's degree programmes lectures are given in English and Spanish, and European master's degrees are taught in English only. Consult the subject learning guide to find out the tuition language.
+
+On the above grounds, students should have a Level B1 Spanish proficiency (Common European Reference Framework for Languages). The students should have to prove their language proficiency with official certificates or certificates from their home universities. Those who can not prove that level, should attend Spanish programme organized by PROLINTER UPM for International students.
+
+* Choosing the classes
+:PROPERTIES:
+:CUSTOM_ID: choosingClasses
+:END:
+One of the main factors for having a propitious stay at this school is to choose the classes to take wisely. Some general guidelines to take into account are listed below. They are separated by level of study.
+** Undergraduate students
+:PROPERTIES:
+:CUSTOM_ID: chooseUndergradClasses
+:END:
+- At ETSIINF there are 3 different Undergraduate programmes being taught (Grado en Ingeniería Informática (Bachelor in Informatics Engineering), Grado en Matemáticas e Informática (Bachelor in Mathematics and Informatics) and Doble grado en Ingeniería Informática (Bachelor in Informatics and Business Administration). Exchange students can choose classes from any of the programmes and not all chosen classes need to be of the same programme. It is worth mentioning that some classes have their equivalents in another programme. For example, all of them have a Programming I class, although they can be slightly different.
+- All the classes available to exchange students at the Undergraduate level are taught in Spanish.
+- There is a document called "Guía de Asignatura" for each class taught at UPM. It is usually written only in Spanish and contains all the important information about the class, although this doesn't include a timetable, which can be found after the sequence of recommendations.
+- Note that the classes are divided into courses. This is because they are thought to be taken in a consecutive and sequential manner by local students. For exchange students, it is no different if the chosen classes are from mixed courses. The only thing to have in mind is that the "Horarios de evaluación", which is the time when most exams from a certain course are taken place, might collide with classes or between themselves, which can be a problem, since collisions of this type are not a justification for not attending to an exam. Classes from a given course are guaranteed to never set their exams at the same time.
+- Some courses have more than one group. And the exchange students, as well as local ones, can choose any of them indistinctively.
+The available classes, their own "Guías de asignatura", as well as the timetables, can be found in:
+- Classes: [[http://fi.upm.es/es/gradoingenieriainformatica/asignaturas][Grado en Ingeniería Informática]], [[http://fi.upm.es/?pagina=1081][Grado en Matemáticas e Informática]], [[http://fi.upm.es/?pagina=2123][Doble Grado en Ingeniería Informática y Administración de Empresas]]
+- "Guías de Asignatura": [[http://fi.upm.es/?pagina=2283][Grado en Ingeniería Informática]], [[http://fi.upm.es/?pagina=1105][Grado en Matemáticas e Informática]], [[http://fi.upm.es/?pagina=2203][Doble Grado en Ingeniería Informática y Administración de Empresas]]
+- Timetable: [[http://fi.upm.es/?id=gradoingenieriainformatica][Grado en Ingeniería Informática]], [[http://fi.upm.es/?id=gradomatematicasinformatica][Grado en Matemáticas e Informática]], [[http://fi.upm.es/?id=Informatica-ADE][Doble Grado en Ingeniería Informática y Administración de Empresas]]
+** Master students
+:PROPERTIES:
+:CUSTOM_ID: chooseMasterClasses
+:END:
+Exchange students that come to study at ETSIINF as master's students can choose classes either from the Undergraduate programmes or from our master's programmes. For Undergraduate-level classes we recommend checking the section dedicated to them, while for master's level classes, their own websites are the best way to get to decide which classes to take. Note that exchange students don't need to choose all the classes from a specific programme. The websites are listed below:
+- [[http://fi.upm.es/?id=muii][Máster Universitario en Ingeniería Informática]]
+- [[http://www.dlsiis.fi.upm.es/emse/][Máster Universitario en Ingeniería del Software - European Master on Software Engineering]]
+- [[http://www.dia.fi.upm.es/masteria/?q=es/asignaturas_seminarios][Máster Universitario en Inteligencia Artificial]]
+- [[http://muss.fi.upm.es/asignaturas.php][Máster Universitario en Software y Sistemas]]
+
+* Spanish courses
+:PROPERTIES:
+:CUSTOM_ID: spanishCourses
+:END:
+Through its Language Programme for International Students  (PROLINTER), the UPM offers a range of Spanish language courses for exchange students that are visiting any of its schools or colleges.
+
+There are many reasons for learning Spanish. The first is that most of the degree programmes at the ETSIINF are taught in Spanish, and students are advised to take some sort of Spanish course to be able to properly understand lectures and seminars. Second, Spanish is an essential tool for dealing with Spaniards and sorting out everyday matters. Last but not least, Spanish is one of the most widely spoken languages in the world. For this reason, it is worthwhile making the most of the chance to learn and practise Spanish during your stay in Madrid.
+
+Exchange students have a choice of Spanish programmes: summer courses, intensive courses, regular courses applied to science and technology, DELE (SFL Diploma) examinations, etc. Additionally, exchange students can benefit from special prices.
+
+For more information on schedules, timetables, application dates, etc., visit PROLINTER.
+
+* Accommodation
+Unfortunately ETSIINF does not provide accommodation facilities, such as halls of residence or dormitories, but you can find information for accommodation at UPM website
+
+Note that Madrid is a very expensive city to live, so that you have to reckon an estimated amount of 350€ per month for a room in a shared flat, plus a similar amount as a down payment. Prices vary depending on the area.
+
+* Student Life in Madrid from the very beginning
+For information about living in Madrid, we recommend reading the [[https://docs.google.com/document/d/1y13X3u4V8KQgI5hv8GnLGF3ySWQzCl3LcOe14AQKbXk/edit?usp=sharing][*Student Life in Madrid from the very beginning*]] guide.
+
+# +HTML: <iframe width='1200' height='1000' src="https://docs.google.com/document/d/1y13X3u4V8KQgI5hv8GnLGF3ySWQzCl3LcOe14AQKbXk/edit?usp=sharing?embedded=true"></iframe>
+
+* News, groups and sites
+:PROPERTIES:
+:CUSTOM_ID: gruposnoticias
+:END:
+Facebook: https://www.facebook.com/ETSIINF and https://www.facebook.com/sias.internacional
+
+Twitter: @informaticaupm
+
+** Further information
+:PROPERTIES:
+:CUSTOM_ID: furtherInformation
+:END:
+- [[http://www.upm.es/sfs/Rectorado/Vicerrectorado%20de%20Alumnos/Extension%20Universitaria/Intercambios:%20movilidad%20de%20estudiantes/Erasmus/Extranjeros/GUIA%20PARA%20ESTUDIANTES%20EXTRANJEROS%20-%20ENGLISH.pdf][UPM International Students Guide]]
+- [[http://www.upm.es/portal/site/institucional/template.PAGE/menuitem.ca8d5a1f6c6bb42aad77b13bdffb46a8/?javax.portlet.tpst=ec9cfb82dd1810f48851ac10907c46a8&amp;javax.portlet.prp_ec9cfb82dd1810f48851ac10907c46a8=opcion%3DvistaCentros&amp;javax.portlet.begCacheTok=com.vignette.cachetoken&amp;javax.portlet.endCacheTok=com.vignette.cachetoken&amp;vgnextoid=598350078572f110VgnVCM10000009c7648aRCRD][UPM student associations]]
+- [[http://fi.upm.es/?pagina=18][ETSIINF student associations]]
+- [[http://www.upm.es/DelegacionAlumnos/Delegacion/E_Delegacion][UPM Students' Guild]]
+- [[http://www.da.fi.upm.es/][ETSIINF Students' Guild]]
+- [[http://www.upm.es/institucional/UPM/Actividades_Culturales/Acceso_Actividades][UPM cultural pursuits]]
+- [[http://www.upm.es/institucional/UPM/Actividades_Culturales/Aula_Cultura][Culture classroom]]
+- [[http://www.upm.es/institucional/UPM/MuseosUPM][UPM museums and collections]]
+- [[http://www.mhi.fi.upm.es/][ETSIINF museum]]
+- [[http://www.upm.es/institucional/UPM/Deportes][UPM sports pursuits]]
+- [[http://fi.upm.es/?pagina=229][ETSIINF sports facilities]]
+- [[http://www.upm.es/institucional/Estudiantes/CompeticionesEstudiantes][UPM student competitions]]
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Sigue faltando información por aqui
+- Ayuda con temas legales para la entrada
+- páginas de alojamiento

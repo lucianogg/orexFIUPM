@@ -94,7 +94,7 @@ Una vez que el alumno ha llegado a Madrid, una de las primeras cosas que debe ha
 :PROPERTIES:
 :CUSTOM_ID: eleccionAsignaturas
 :END:
-Algunos factores son esenciales para una buena elección de asignaturas por parte de los alumnos que vienen a la ETSIINF en programas de intercambio. Se divide su enumeración en tipo de programa de origen.
+Algunos factores son esenciales para una buena elección de asignaturas por parte de los alumnos que vienen a la ETSIINF en programas de intercambio. Se divide su enumeración en tipo de programa de estudios.
 ** Alumnos de grado
 :PROPERTIES:
 :CUSTOM_ID: elegirAsignaturasGrado
@@ -112,8 +112,12 @@ Los listados de asignaturas, sus guías de asignatura y sus horarios se encuentr
 :PROPERTIES:
 :CUSTOM_ID: elegirAsignaturasMaster
 :END:
-Los alumnos que vienen a la ETSIINF a partir de cursos de máster pueden elegir asignaturas tanto de grado, cuyas recomendaciones se mencionan en el punto anterior, como de máster, que se mencionan a seguir:
--
+Los alumnos que vienen a la ETSIINF a partir de cursos de máster pueden elegir asignaturas tanto de grado, cuyas recomendaciones se mencionan en el punto anterior, como de máster. De esta forma, recomendamos elegir las asignaturas siguiendo tanto el punto anterior como las páginas oficiales de los másteres que se ofertan en esta escuela, que se listan a seguir:
+- [[http://fi.upm.es/?id=muii][Máster Universitario en Ingeniería Informática]]
+- [[http://www.dlsiis.fi.upm.es/emse/][Máster Universitario en Ingeniería del Software - European Master on Software Engineering]]
+- [[http://www.dia.fi.upm.es/masteria/?q=es/asignaturas_seminarios][Máster Universitario en Inteligencia Artificial]]
+- [[http://muss.fi.upm.es/asignaturas.php][Máster Universitario en Software y Sistemas]]
+
 * Programas de estudios
 :PROPERTIES:
 :CUSTOM_ID: programasEstudio
@@ -139,7 +143,7 @@ Para cada curso coexisten varios calendarios activos en función del programa de
 :PROPERTIES:
 :CUSTOM_ID: horariosClase
 :END:
-Los horarios de clase son fijos y no es posible cambiarlos. Es responsabilidad del alumno el confeccionar un programa de estudios en el que no haya solapamientos de horarios.
+Los horarios de clase son fijos y no es posible cambiarlos. Es responsabilidad del alumno el confeccionar un programa de estudios en el que no haya solapamientos de horarios. Se disponibilizan en las páginas de cada programa de estudios.
 
 ** Exámenes
 :PROPERTIES:
@@ -147,11 +151,9 @@ Los horarios de clase son fijos y no es posible cambiarlos. Es responsabilidad d
 :END:
 Las fecha y horarios de exámenes son fijos y no es posible cambiarlos.
 
-No es necesario registrarse para realizar un examen. Una vez que el alumno está oficialmente matriculado tiene derecho a dos convocatorias de exámen, una ordinaria (Enero o Junio) y otra extraordinaria (Julio).
+No es necesario registrarse para realizar un examen. Una vez que el alumno está oficialmente matriculado tiene derecho a dos convocatorias de exámen, una ordinaria (Enero o Junio) y otra extraordinaria (siempre en Julio). Se recomienda consultar fechas y horarios de ambas convocatorias en los respectivos programas de estudios (guía de asignatura).
 
-Los alumnos que opten por la modalidad de examen final deben comunicarlo al profesor-coordinador de la asignatura en un plazo que se informa en la guía de la misma.
-
-Se recomienda consultar fechas y horarios de ambas convocatorias en los respectivos programas de estudios (guía de asignatura).
+Los alumnos pueden optar por hacer solamente un examen final (que, en algunas asignaturas, no elimina la obligatoriedad de entregar prácticas). En este caso, es necesario comunicar esa decisión al profesor-coordinador de la asignatura en un plazo que se informa en la guía de la misma. Los exámenes finales se hacen en Enero o en Junio (dependiendo, claro está, del semestre al que pertenece la asignatura)
 
 ** Matrícula
 :PROPERTIES:
@@ -165,7 +167,7 @@ Una vez realizada la matrícula no es posible modificarla a lo largo del curso, 
 
 La matrícula se realizará por semestres. Cada semestre tiene un periodo de matrícula (Julio-Septiembre y Enero-Febrero).
 
-Una vez realizada la matrícula se avisará al alumno por correo electrónico para que solicite de forma on-line, cuenta de correo electrónico @alumnos.upm.es. Esta dirección de correo electrónico es imprescindible para acceder a los servicios en red de la UPM (Politécnica virtual, plataformas de teleenseñanza, red inalámbrica, correo electrónico, etc.).
+Una vez realizada la matrícula se avisará al alumno por correo electrónico para que solicite, de forma on-line, cuenta de correo electrónico @alumnos.upm.es. Esta dirección de correo electrónico es imprescindible para acceder a los servicios en red de la UPM (Politécnica virtual, plataformas de teleenseñanza, red inalámbrica, correo electrónico, etc.).
 
 ** Lengua en la que se imparten las clases
 :PROPERTIES:
@@ -193,9 +195,12 @@ Más információn sobre calendario, horarios, plazos de solicitud, etc. en [[ht
 :PROPERTIES:
 :CUSTOM_ID: alojamiento
 :END:
-La ETSIINF no dispone de servicio de alojamiento tales como residencias de estudiantes o colegios mayores, pero puedes encontrar información sobre alojamiento en la [[http://www.upm.es/institucional/Estudiantes/Atencion/AlojamientoEstudiantes][web]] de la UPM y en (>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<).
+La ETSIINF no dispone de servicio de alojamiento tales como residencias de estudiantes o colegios mayores, pero puedes encontrar información sobre alojamiento en la [[http://www.upm.es/institucional/Estudiantes/Atencion/AlojamientoEstudiantes][web]] de la UPM o en el [[http://manual][manual del alumno extranjero (solamente en inglés)]]
 
 Tienes que tener en cuenta que Madrid es una ciudad muy cara para vivir, por ello debes estimar una cantidad aproximada 350€ por mes por una habitación en piso compartido, más una cantidad similar para dejar en depósito. Los precios varían dependiendo de la zona.
+
+* Manual del alumno extranjero
+Para obtener más información no relacionada con cuestiones académicas, recomendamos la lectura de nuestro *[[https://docs.google.com/document/d/1y13X3u4V8KQgI5hv8GnLGF3ySWQzCl3LcOe14AQKbXk/edit?usp=sharing][Manual del alumno extranjero]]*
 
 * Grupos y sitios de noticias
 :PROPERTIES:
@@ -228,7 +233,4 @@ Twitter: @informaticaupm
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Sigue faltando información por aqui
-- Eleccion de asignaturas de máster
 - Ayuda con temas legales para la entrada
-- páginas de alojamiento
-- Integrar lo de Reka por aqui
