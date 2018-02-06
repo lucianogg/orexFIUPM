@@ -2,7 +2,7 @@
 #+OPTIONS: num:nil author:nil html-style:nil html-preamble:nil html-postamble:nil html-scripts:nil
 #+EXPORT_FILE_NAME: ./exports/alumnosExternosEnglish.html
 
-#+HTML: <h1 id="movilidadExternoEnglish">Exchange students</h1>
+#+HTML: <h1 id="movilidadExternoEnglish">Incoming students</h1>
 We would like, in the first place, to extend a warm welcome to all exchange students interested in coming for an academic stay at the Universidad Politécnica de Madrid's Escuela Técnica Superior de Ingenieros Informáticos (ETSIINF). This is the page for you to obtain the most important information about how the studies work at ETSIINF.
 
 If you need any information not included here, please ask us at the [[http://fi.upm.es/?pagina=286][Oficina de Relaciones Externas (OREX)]].
@@ -184,6 +184,8 @@ Unfortunately ETSIINF does not provide accommodation facilities, such as halls o
 
 Note that Madrid is a very expensive city to live, so that you have to reckon an estimated amount of 350€ per month for a room in a shared flat, plus a similar amount as a down payment. Prices vary depending on the area.
 
+There is an agreement between the school and the [[https://residenciamonteprincipe.com/][university house Montepríncipe]] which allows students to enjoy a 5% discount over the full charge.
+
 * Student Life in Madrid from the very beginning
 For information about living in Madrid, we recommend reading the [[https://docs.google.com/document/d/1y13X3u4V8KQgI5hv8GnLGF3ySWQzCl3LcOe14AQKbXk/edit?usp=sharing][*Student Life in Madrid from the very beginning*]] guide.
 
@@ -219,4 +221,3 @@ Twitter: @informaticaupm
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Sigue faltando información por aqui
 - Ayuda con temas legales para la entrada
-- páginas de alojamiento
