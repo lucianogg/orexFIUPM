@@ -14,7 +14,7 @@
 :PROPERTIES:
 :CUSTOM_ID: practicasyofertas
 :END:
-- [[http://fi.upm.es/?pagina=154][Prácticas en empresas: convenios, listados, practicum de grado y practicum de postgrado]]
+- [[http://fi.upm.es/?pagina=2349#practicasExterior][Prácticas en empresas: convenios, listados, practicum de grado y practicum de postgrado]]
 - [[http://fi.upm.es/?pagina=259][Ofertas de empleo]]
 - [[http://congresotryit.es/][Formación para la inserción laboral: TryIT!]]
 - [[https://www.coie.upm.es/][Plataforma de Prácticas de la UPM - COIE]]
