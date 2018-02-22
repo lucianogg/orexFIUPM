@@ -83,6 +83,10 @@ The ETSIINF is located at the Campus de Montegancedo, which is one of the campi 
 
 Once in Madrid, one of the first things the students should do is to visit the [[https://www.fi.upm.es/?pagina=286][External Relations Office (OREX)]] at ETSIINF to formalize the registration at the University. OREX is the office in charge of all the mobility procedures.
 
+** Welcome and orientation meeting
+There will be a special welcome and orientation meeting for all ETSIINF exchange students at the beginning of the semester. The exact date, time and place will be announced in due time.
+The attendance to this meeting is very advisable. It will provide you with useful information to take the maximum profit from your exchange period in Spain. You will be given information about study-related topics, practical advice, as well as some general information about living in Spain. At the same time, you will be able to get in touch with other exchange students at ETSIINF.
+
 * How classes work at ETSIINF
 :PROPERTIES:
 :CUSTOM_ID: programasEstudio
@@ -102,6 +106,29 @@ All the programmes mentioned above are structured around semesters and ECTS cred
 :CUSTOM_ID: academicCalendar
 :END:
 Each programme has its own academic calendar. The stundents can find it inside the official programme's website.
+*** Undergraduate programmes
+This is the general calendar but note that each undergraduate  programme may have its own one, especially in spring semester.
+Please check the specific programme in advance.
+Fall term: 4th September 2017 – 22nd December 2017
+Examination period: 8th – 23th January 2018
+Spring term: 5th February – 31st May 2018
+Examination period: 4th - 19th June 2018
+Extra examination period for both semesters (resits): 27th June – 13rd July 2018
+
+*** Master programmes
+This is the general calendar but note that each master programme could have its own one, especially in spring semester.
+Please check the specific programme in advance.
+Fall term: 4th September - 22th December 2017
+Examination period: 8th - 23rd January 2018
+Spring term: 5th February – 18th June 2018
+Examination period: 11st – 19th June 2018
+Extra examination period for both semesters (resits): 27th June – 13rd July 2018
+
+*** Holidays:
+Christmas Holidays: 23rd December 2017 - 7th January 2018
+Easter Holidays: 24th  March – 2nd April 2018
+Summer Holidays: 20thJune – 1tst September 2018
+Local & National Holidays:12th October, 1st, 9th November, 6th, 8th December 2017; 29th January, 5th March, 1st, 2nd and 15th May 2018
 
 ** Timetables
 :PROPERTIES:
