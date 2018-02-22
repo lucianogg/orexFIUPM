@@ -15,7 +15,8 @@
 :PROPERTIES:
 :CUSTOM_ID: InternshipsAndjobs
 :END:
-- [[http://fi.upm.es/?pagina=2349#practicasExterior][Industrial internships: agreements, lists of employers and postgraduate practicum (only available in Spanish)]]
+- [[http://fi.upm.es/?pagina=154][Industrial internships: agreements, lists of employers and postgraduate practicum]]
+- [[http://fi.upm.es/?pagina=2349#practicasExterior][International internship programmes (available only in Spanish)]]
 - [[http://fi.upm.es/?pagina=259][Job offers]]
 - [[http://congresotryit.es/][Labour market transition training: TryIT!]]
 - [[https://www.coie.upm.es/][UPM - COIE: Platform to find internship opportunities]]
