@@ -10,6 +10,7 @@
 - [[http://www.upm.es/Estudiantes/BecasAyudasPremios][Becas y ayudas oficiales para alumnos]]
 - [[http://fi.upm.es/?id=becasinvestigacion][Becas de investigación en la ETSI Informáticos]]
 - [[https://fi.upm.es/?pagina=260][Becas para la movilidad académica y laboral]]
+- [[http://fi.upm.es/?pagina=13][Bolsas de viaje]]
 * Prácticas en empresa y ofertas laborales
 :PROPERTIES:
 :CUSTOM_ID: practicasyofertas
