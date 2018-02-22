@@ -156,7 +156,7 @@ Semestre par: 05/02/2018 - 18/06/2018
 Periodo de evaluación: 11/06/2018 - 19/06/2018
 Periodo de evaluación (extraordinaria): 27/06/2018 - 13/07/2018
 
-*** Festivos:
+*** Festivos
 Navidad: 23/12/2017 - 07/01/2018
 Pascua: 24/03/2018 - 02/04/2018
 Vacaciones de verano: 20/06/2018 - 01/09/2018
