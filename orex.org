@@ -29,7 +29,7 @@ Edificio 3, Planta 1 \\
 Despachos 3102-3104 \\
 28660-Boadilla del Monte \\
 MADRID - ESPAÑA
-
+#+HTML: <p class="separador">&nbsp;</p>
 #+ATTR_HTML: :class contacto
 E-mail: orex@etsiinf.upm.es \\
 Teléfonos: \\
@@ -42,7 +42,7 @@ Fax: +34 91 336 3676/3667
 #+ATTR_HTML: :class contacto
 Mañanas de Lunes a Viernes de 9:30 a 14:30 h. \\
 Tardes de Lunes a Jueves de 16:00 a 17:30h
-
+#+HTML: <p class="separador">&nbsp;</p>
 #+ATTR_HTML: :class contacto
 HORARIO DE VERANO \\
 Desde el 15 de junio al 15 de Septiembre: \\
