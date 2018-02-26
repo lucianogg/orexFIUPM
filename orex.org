@@ -1,0 +1,88 @@
+#+HTML_HEAD: <style type="text/css"> <!--/*--><![CDATA[/*><!--*/ .title { display: none; } /*]]>*/--> </style>
+#+OPTIONS: num:nil author:nil html-style:nil html-preamble:nil html-postamble:nil html-scripts:nil
+#+EXPORT_FILE_NAME: ./exports/orex.html
+
+#+HTML: <h1 id="orex">Oficina de Relaciones Externas (OREX)</h1>
+* Presentación
+El personal de la oficina de relaciones externas del centro es el responsable de la gestión administrativa de las relaciones externas en tres áreas:
+** Área de movilidad
+Relaciones con universidades o instituciones, nacionales e internacionales, para el desarrollo de la movilidad y los intercambios con fines académicos para los alumnos del centro y la movilidad para el personal docente y personal no docente.
+
+** Área de prácticas y empleo
+Relaciones con empresas o instituciones, nacionales e internacionales para el desarrollo de la movilidad con fines de prácticas y/o empleo para los alumnos del centro con el fin de facilitar la inserción laboral de nuestros alumnos.
+
+** Área de relaciones con la sociedad
+Relaciones con la sociedad, orientadas fundamentalmente a informar a futuros alumnos, padres, colegios, etc., como instrumento de promoción del centro.
+
+* Contacto
+# +HTML: <p class="contacto"><strong>Oficina de Relaciones Externas</strong><br />ETSI INFORM&Aacute;TICOS -UPM<br />Campus de Montegancedo s/n <br />Edificio 3, Planta 1<br /> Despachos 3102-3104 <br />28660-Boadilla del Monte<br />MADRID - ESPA&Ntilde;A</p>
+
+# <p class="contacto">E-mail: orex@etsiinf.upm.es <br />Tel&eacute;fonos:<br />+34 91 336 3739/3679/6895<br />Fax: +34 91 336 3676/3667</p> <p class="separador">&nbsp;</p>
+# :PROPERTIES:
+# :HTML_CONTAINER_CLASS: contacto
+# :END:
+#+ATTR_HTML: :class contacto
+*Oficina de Relaciones Externas* \\
+ETSI INFORMÁTICOS - UPM \\
+Campus de Montegancedo s/n \\
+Edificio 3, Planta 1 \\
+Despachos 3102-3104 \\
+28660-Boadilla del Monte \\
+MADRID - ESPAÑA
+
+#+ATTR_HTML: :class contacto
+E-mail: orex@etsiinf.upm.es \\
+Teléfonos: \\
++34 91 336 3739/3679/6895 \\
+Fax: +34 91 336 3676/3667
+
+* Horario de atención al usuario
+# +HTML: <p class="contacto">Ma&ntilde;anas de Lunes a Viernes de 9:30 a 14:30 h.<br />Tardes de Lunes a Jueves &nbsp;&nbsp; de 16:00 a 17:30h.</p> <p class="contacto">HORARIO DE VERANO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Desde el 15 de junio al 15 de Septiembre&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ma&ntilde;anas de Lunes a Viernes de 9:30 a 14:30 h.</p> <p class="separador">&nbsp;</p> <p><strong><span class="aviso">&nbsp;</span></strong></p> <p>&nbsp;</p>
+
+#+ATTR_HTML: :class contacto
+Mañanas de Lunes a Viernes de 9:30 a 14:30 h. \\
+Tardes de Lunes a Jueves de 16:00 a 17:30h
+
+#+ATTR_HTML: :class contacto
+HORARIO DE VERANO \\
+Desde el 15 de junio al 15 de Septiembre: \\
+Mañanas de Lunes a Viernes de 9:30 a 14:30 h
+
+* Personal
+#+HTML: <p class="card"><img style="float: right;" src="docs/estructura/servicios/img/286_paloma.JPG" alt="paloma" width="82" height="93" /><strong>Paloma Vivas</strong> Responsable de OREX<br /> T&eacute;cnico de Administraci&oacute;n<br /> <em>Relaciones con la Sociedad</em><br />Extensi&oacute;n: 6895</p> <p class="separador">&nbsp;</p> <p class="card"><strong>Oscar Valle</strong><br />Jefe de Negociado<br /><em>Movilidad e Intercambios</em><br /> Extensi&oacute;n: 3739</p> <p class="card"><strong>Agust&iacute;n Rodr&iacute;guez</strong><br />T&eacute;cnico Especialista<br /><em>Pr&aacute;cticas y Empleo</em><br />Extensi&oacute;n: 3679</p><p class="separador">&nbsp;</p>
+
+* Competencias
+** Área de movilidad académica
+- Información y soporte para alumnos internacionales
+- Trámites legales, documentación, etc.
+- [[http://fi.upm.es/?pagina=2349][Movilidad académica para alumnos del centro]]
+- [[http://fi.upm.es/?pagina=2365][Movilidad académica para alumnos extranjeros]]
+- Reconocimiento de estudios de programas de intercambio
+- [[https://www.fi.upm.es/docs/estructura/servicios/286_Procedimiento%20Ex.Distancia_OREX_Julio2017.pdf][Exámenes a distancia]]
+- [[https://www.fi.upm.es/?id=tablon&acciongt=consulta&categoriagt=Movilidad&tipoet=anuncio][Tablón de anuncios: prácticas, cursos y eventos internacionales]]
+- Movilidad para el personal del centro:
+  - [[http://www.upm.es/Personal/PAS/Movilidad/Erasmus?id=1ec13c10a414f110VgnVCM10000009c7648a____&fmt=detail][Movilidad ERASMUS+ para personal docente y personal invitado de Empresas o Centros de Investigación para impartir enseñanza (STA) en paises del programa (europeos)]]
+  - [[http://www.upm.es/Personal/PAS/Movilidad/Erasmus?id=939bb07a08cc0510VgnVCM10000009c7648a____&fmt=detail][Movilidad ERASMUS+ para personal docente para impartir docencia (STA) en paises asociados (no europeos)]]
+  - [[http://www.upm.es/Personal/PAS/Movilidad/Erasmus?id=02843c10a414f110VgnVCM10000009c7648a____&fmt=detail][Movilidad ERASMUS+ para el personal docente y no docente con fines de formación (STT) en paises del programa (europeos)]]
+  - [[http://www.upm.es/Personal/PAS/Movilidad/Erasmus?id=2c2f0a26d1dc0510VgnVCM10000009c7648a____&fmt=detail][Movilidad ERASMUS+ para el personal docente y no docente con fines de formación (STT) en paises asociados (no europeos)]]
+
+** Área de Prácticas y Empleo
+- Información y soporte para alumnos nacionales e internacionales
+- [[http://fi.upm.es/?pagina=2349#practicasExterior][Realización de prácticas en empresa en el exterior]]
+- [[https://www.fi.upm.es/?id=practicasempresas][Prácticas en empresa]]
+  - Practicum de grado
+    - Grado en Ingeniería Informática
+    - Grado en Matemáticas e Informática
+  - Estudio Práctico de Máster Universitario en Ingeniería Informática (opciónA)
+  - Estudio Práctico de Máster Universitario en Ingeniería Informática (plan antiguo, en extinción)
+  - Practicum de Máster en Tecnologías de la Información (en extinción)
+  - Reconocimiento de créditos de libre elección (plan 96, en extinción)
+- [[https://www.fi.upm.es/?pagina=259][Becas y ofertas de empleo]]
+- [[https://www.fi.upm.es/?pagina=831][Seminarios de inserción laboral]]
+- Soporte en la organización de eventos para empresas.
+
+** Área de relaciones con la sociedad
+- [[https://www.fi.upm.es/web/futuroalumno/][Futuro alumno]]
+- Colegios
+- [[https://www.fi.upm.es/?pagina=263/][Visitas al Museo Histórico de la Informática]]
+- Visitas al centro
