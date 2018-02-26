@@ -9,23 +9,23 @@ La ETSIINF-UPM mantiene acuerdos de cooperación y acuerdos bilaterales con dive
 Universidades con acuerdo:
 # Cabecera de la tabla: <table style:"width: 521px; height: 289px" border="0">
 # Cabecera del contenido: <tr><th>Pa&iacute;s</th><th>Centro asociado</th></tr>
-| País        | Centro asociado                                                 |
-|-------------+-----------------------------------------------------------------|
-| Brasil      | [[https://www.ufmg.br/espanol/][Universidade Federal de Minas Gerais]]                            |
-| Canadá      | [[http://www.polymtl.ca/][Polytechnique Montréal]]                                          |
-| Chile       | [[http://www.utalca.cl/][Universidad de Talca]]                                            |
-| Chile       | [[http://www.ubiobio.cl/w/][Universidad Bio Bio]]                                             |
-| Colombia    | [[http://unal.edu.co/][Universidad Nacional de Colombia]]                                |
-| Ecuador     | [[http://www.utpl.edu.ec/][Universidad Técnica Particular de Loja]]                          |
-| EEUU        | [[http://www.iit.edu/][Instituto Tecnológico de Illinois]]                               |
-| EEUU        | [[http://www.unm.edu/][Universidad de Nuevo Mexico]]                                     |
-| EEUU        | [[http://www.troy.edu/][Troy University]], [[https://fi.upm.es/docs/estudios/estudiar_en_el_extranjero/963_Troy%20Online%20PPT%202015%20v2.pdf][Presentación]]                                   |
-| EEUU        | [[https://www2.gmu.edu/][George Mason University]]                                         |
-| México      | [[http://www.uaq.mx/][Universidad Autónoma de Querétaro]]                               |
-| México      | [[http://www.itcolima.edu.mx/][Instituto Tecnológico de Colima]]                                 |
-| Perú        | [[http://www.ucvlima.edu.pe/][Universidad Cesar Vallejo]]                                       |
-| Puerto Rico | [[http://ut.suagm.edu/][Universidad del Turabo]]                                          |
-| Suiza       | [[https://www.epfl.ch/][École Polytechnique Fédérale (EPF) Lausanne]], [[https://fi.upm.es/docs/estudios/estudiar_en_el_extranjero/963_EPFL-2017-18-info.pdf][EPFL Mobility Info]] |
+| País        | Centro asociado                                                               |
+|-------------+-------------------------------------------------------------------------------|
+| Brasil      | [[https://www.ufmg.br/espanol/][Universidade Federal de Minas Gerais]]                                          |
+| Canadá      | [[http://www.polymtl.ca/][Polytechnique Montréal]]                                                        |
+| Chile       | [[http://www.utalca.cl/][Universidad de Talca]]                                                          |
+| Chile       | [[http://www.ubiobio.cl/w/][Universidad Bio Bio]]                                                           |
+| Colombia    | [[http://unal.edu.co/][Universidad Nacional de Colombia]]                                              |
+| Ecuador     | [[http://www.utpl.edu.ec/][Universidad Técnica Particular de Loja]]                                        |
+| EEUU        | [[http://www.iit.edu/][Instituto Tecnológico de Illinois]]                                             |
+| EEUU        | [[http://www.unm.edu/][Universidad de Nuevo Mexico]]                                                   |
+| EEUU        | [[http://www.troy.edu/][Troy University]], [[https://fi.upm.es/docs/estudios/estudiar_en_el_extranjero/963_Troy%20Online%20PPT%202015%20v2.pdf][Presentación]]                                                 |
+| EEUU        | [[https://www2.gmu.edu/][George Mason University]]                                                       |
+| México      | [[http://www.uaq.mx/][Universidad Autónoma de Querétaro]]                                             |
+| México      | [[http://www.itcolima.edu.mx/][Instituto Tecnológico de Colima]]                                               |
+| Perú        | [[http://www.ucvlima.edu.pe/][Universidad Cesar Vallejo]]                                                     |
+| Puerto Rico | [[http://ut.suagm.edu/][Universidad del Turabo]]                                                        |
+| Suiza       | [[https://www.epfl.ch/][École Polytechnique Fédérale (EPF) Lausanne]], [[https://fi.upm.es/docs/estudios/estudiar_en_el_extranjero/2361_EPFLKeyData2018-2019.pdf][EPFL Information Sheet 2018/2019]] |
 
 Universidades con acuerdo de *Doble Diploma de Master*:
 # Cabecera de la tabla: <table style:"width: 581px; height: 289px" border="0">
