@@ -28,6 +28,7 @@ Universidades con acuerdo:
 | # | Puerto Rico | [[http://ut.suagm.edu/][Universidad del Turabo]]                                                        |
 | # | Suiza       | [[https://www.epfl.ch/][École Polytechnique Fédérale (EPF) Lausanne]], [[https://fi.upm.es/docs/estudios/estudiar_en_el_extranjero/2361_EPFLKeyData2018-2019.pdf][EPFL Information Sheet 2018/2019]] |
 |---+-------------+-------------------------------------------------------------------------------|
+# Esos # y / y <> al final no cambian nada en la página de la fi
 
 Universidades con acuerdo de *Doble Diploma de Master*:
 # Cabecera de la tabla: <table style:"width: 581px; height: 289px" border="0">
