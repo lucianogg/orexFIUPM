@@ -3,6 +3,8 @@
 #+EXPORT_FILE_NAME: ./exports/orex.html
 
 #+HTML: <h1 id="orex">Oficina de Relaciones Externas (OREX)</h1>
+
+# El tema de los separadores y las fichas hace que todo el trabajo sea más complicado. Por eso, se hacen dos ficheros con el HTML ya hecho para las páginas en español y en inglés de OREX
 * Presentación
 El personal de la oficina de relaciones externas del centro es el responsable de la gestión administrativa de las relaciones externas en tres áreas:
 ** Área de movilidad
@@ -29,25 +31,25 @@ Edificio 3, Planta 1 \\
 Despachos 3102-3104 \\
 28660-Boadilla del Monte \\
 MADRID - ESPAÑA
-#+HTML: <p class="separador">\&nbsp;</p>
+# +HTML: <p class="separador">\&nbsp;</p>
 #+ATTR_HTML: :class contacto
 E-mail: orex@etsiinf.upm.es \\
 Teléfonos: \\
 +34 91 336 3739/3679/6895 \\
 Fax: +34 91 336 3676/3667
-
+#+HTML: <p class="separador">\&nbsp;</p>
 * Horario de atención al usuario
 # +HTML: <p class="contacto">Ma&ntilde;anas de Lunes a Viernes de 9:30 a 14:30 h.<br />Tardes de Lunes a Jueves &nbsp;&nbsp; de 16:00 a 17:30h.</p> <p class="contacto">HORARIO DE VERANO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Desde el 15 de junio al 15 de Septiembre&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ma&ntilde;anas de Lunes a Viernes de 9:30 a 14:30 h.</p> <p class="separador">\&nbsp;</p> <p><strong><span class="aviso">&nbsp;</span></strong></p> <p>&nbsp;</p>
 
 #+ATTR_HTML: :class contacto
 Mañanas de Lunes a Viernes de 9:30 a 14:30 h. \\
 Tardes de Lunes a Jueves de 16:00 a 17:30h
-#+HTML: <p class="separador">\&nbsp;</p>
+# +HTML: <p class="separador">\&nbsp;</p>
 #+ATTR_HTML: :class contacto
 HORARIO DE VERANO \\
 Desde el 15 de junio al 15 de Septiembre: \\
 Mañanas de Lunes a Viernes de 9:30 a 14:30 h
-
+#+HTML: <p class="separador">\&nbsp;</p>
 * Personal
 #+HTML: <p class="card"><img style="float: right;" src="docs/estructura/servicios/img/286_paloma.JPG" alt="paloma" width="82" height="93" /><strong>Paloma Vivas</strong> Responsable de OREX<br /> T&eacute;cnico de Administraci&oacute;n<br /> <em>Relaciones con la Sociedad</em><br />Extensi&oacute;n: 6895</p> <p class="separador">\&nbsp;</p> <p class="card"><strong>Oscar Valle</strong><br />Jefe de Negociado<br /><em>Movilidad e Intercambios</em><br /> Extensi&oacute;n: 3739</p> <p class="card"><strong>Agust&iacute;n Rodr&iacute;guez</strong><br />T&eacute;cnico Especialista<br /><em>Pr&aacute;cticas y Empleo</em><br />Extensi&oacute;n: 3679</p><p class="separador">\&nbsp;</p>
 
