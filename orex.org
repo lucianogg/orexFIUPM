@@ -29,7 +29,7 @@ Edificio 3, Planta 1 \\
 Despachos 3102-3104 \\
 28660-Boadilla del Monte \\
 MADRID - ESPAÑA
-#+HTML: <p class="separador">&nbsp;</p>
+#+HTML: <p class="separador">\&nbsp;</p>
 #+ATTR_HTML: :class contacto
 E-mail: orex@etsiinf.upm.es \\
 Teléfonos: \\
@@ -37,19 +37,19 @@ Teléfonos: \\
 Fax: +34 91 336 3676/3667
 
 * Horario de atención al usuario
-# +HTML: <p class="contacto">Ma&ntilde;anas de Lunes a Viernes de 9:30 a 14:30 h.<br />Tardes de Lunes a Jueves &nbsp;&nbsp; de 16:00 a 17:30h.</p> <p class="contacto">HORARIO DE VERANO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Desde el 15 de junio al 15 de Septiembre&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ma&ntilde;anas de Lunes a Viernes de 9:30 a 14:30 h.</p> <p class="separador">&nbsp;</p> <p><strong><span class="aviso">&nbsp;</span></strong></p> <p>&nbsp;</p>
+# +HTML: <p class="contacto">Ma&ntilde;anas de Lunes a Viernes de 9:30 a 14:30 h.<br />Tardes de Lunes a Jueves &nbsp;&nbsp; de 16:00 a 17:30h.</p> <p class="contacto">HORARIO DE VERANO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Desde el 15 de junio al 15 de Septiembre&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ma&ntilde;anas de Lunes a Viernes de 9:30 a 14:30 h.</p> <p class="separador">\&nbsp;</p> <p><strong><span class="aviso">&nbsp;</span></strong></p> <p>&nbsp;</p>
 
 #+ATTR_HTML: :class contacto
 Mañanas de Lunes a Viernes de 9:30 a 14:30 h. \\
 Tardes de Lunes a Jueves de 16:00 a 17:30h
-#+HTML: <p class="separador">&nbsp;</p>
+#+HTML: <p class="separador">\&nbsp;</p>
 #+ATTR_HTML: :class contacto
 HORARIO DE VERANO \\
 Desde el 15 de junio al 15 de Septiembre: \\
 Mañanas de Lunes a Viernes de 9:30 a 14:30 h
 
 * Personal
-#+HTML: <p class="card"><img style="float: right;" src="docs/estructura/servicios/img/286_paloma.JPG" alt="paloma" width="82" height="93" /><strong>Paloma Vivas</strong> Responsable de OREX<br /> T&eacute;cnico de Administraci&oacute;n<br /> <em>Relaciones con la Sociedad</em><br />Extensi&oacute;n: 6895</p> <p class="separador">&nbsp;</p> <p class="card"><strong>Oscar Valle</strong><br />Jefe de Negociado<br /><em>Movilidad e Intercambios</em><br /> Extensi&oacute;n: 3739</p> <p class="card"><strong>Agust&iacute;n Rodr&iacute;guez</strong><br />T&eacute;cnico Especialista<br /><em>Pr&aacute;cticas y Empleo</em><br />Extensi&oacute;n: 3679</p><p class="separador">&nbsp;</p>
+#+HTML: <p class="card"><img style="float: right;" src="docs/estructura/servicios/img/286_paloma.JPG" alt="paloma" width="82" height="93" /><strong>Paloma Vivas</strong> Responsable de OREX<br /> T&eacute;cnico de Administraci&oacute;n<br /> <em>Relaciones con la Sociedad</em><br />Extensi&oacute;n: 6895</p> <p class="separador">\&nbsp;</p> <p class="card"><strong>Oscar Valle</strong><br />Jefe de Negociado<br /><em>Movilidad e Intercambios</em><br /> Extensi&oacute;n: 3739</p> <p class="card"><strong>Agust&iacute;n Rodr&iacute;guez</strong><br />T&eacute;cnico Especialista<br /><em>Pr&aacute;cticas y Empleo</em><br />Extensi&oacute;n: 3679</p><p class="separador">\&nbsp;</p>
 
 * Competencias
 ** Área de movilidad académica

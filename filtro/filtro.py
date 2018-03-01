@@ -3,6 +3,8 @@ import argparse
 
 def replaceAcuteletters(text):
     text = text.replace('&', '&amp;')
+    # Sometimes we really need &, so we escape it!
+    text = text.replace('\&amp;', '&')
     text = text.replace('º', '&ordm;')
     text = text.replace('ã', '&atilde;')
     text = text.replace('á', '&aacute;')
