@@ -51,7 +51,7 @@ Desde el 15 de junio al 15 de Septiembre: \\
 Mañanas de Lunes a Viernes de 9:30 a 14:30 h
 #+HTML: <p class="separador">\&nbsp;</p>
 * Personal
-#+HTML: <p class="card"><img style="float: right;" src="docs/estructura/servicios/img/286_paloma.JPG" alt="paloma" width="82" height="93" /><strong>Paloma Vivas</strong> Responsable de OREX<br /> T&eacute;cnico de Administraci&oacute;n<br /> <em>Relaciones con la Sociedad</em><br />Extensi&oacute;n: 6895</p> <p class="separador">\&nbsp;</p> <p class="card"><strong>Oscar Valle</strong><br />Jefe de Negociado<br /><em>Movilidad e Intercambios</em><br /> Extensi&oacute;n: 3739</p> <p class="card"><strong>Agust&iacute;n Rodr&iacute;guez</strong><br />T&eacute;cnico Especialista<br /><em>Pr&aacute;cticas y Empleo</em><br />Extensi&oacute;n: 3679</p><p class="separador">\&nbsp;</p>
+#+HTML: <p class="card"><img style="float: right;" src="docs/estructura/servicios/img/286_paloma.JPG" alt="paloma" width="82" height="93" /><strong>Paloma Vivas</strong> Responsable de OREX<br /> Técnico de Administración<br /> <em>Relaciones con la Sociedad</em><br />Extensión: 6895</p> <p class="separador">\&nbsp;</p> <p class="card"><strong>Oscar Valle</strong><br />Jefe de Negociado<br /><em>Movilidad e Intercambios</em><br /> Extensión: 3739</p> <p class="card"><strong>Agustín Rodríguez</strong><br />Técnico Especialista<br /><em>Prácticas y Empleo</em><br />Extensión: 3679</p><p class="separador">\&nbsp;</p>
 
 * Competencias
 ** Área de movilidad académica
