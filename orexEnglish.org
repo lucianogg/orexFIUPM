@@ -21,25 +21,27 @@ Building 3, 1st Floor \\
 Rooms 3102-3104 \\
 28660-Boadilla del Monte \\
 MADRID - SPAIN
-#+HTML: <p class="separador">\&nbsp;</p>
+# +HTML: <p class="separador">\&nbsp;</p>
 #+ATTR_HTML: :class contacto
 E-mail: orex@etsiinf.upm.es \\
 Telephones: \\
 +34 91 336 3739/3679/6895 \\
 Fax: +34 91 336 3676/3667
+#+HTML: <p class="separador">\&nbsp;</p>
 
 * Office opening hours
 #+ATTR_HTML: :class contacto
 Mornings: Monday to Friday, from 9:30 to 14:30 h. \\
 Afternoons: Monday to Thursday, from 16:00 to 17:30 h
-#+HTML: <p class="separador">\&nbsp;</p>
+# +HTML: <p class="separador">\&nbsp;</p>
 #+ATTR_HTML: :class contacto
 SUMMER OPENING TIME \\
 From 15th, June to 15th September: \\
 Mornings: Monday to Friday, from 9:30 a 14:30 h
+#+HTML: <p class="separador">\&nbsp;</p>
 
 * Staff
-#+HTML: <p class="card"><img style="float: right;" src="docs/estructura/servicios/img/286_paloma.JPG" alt="" width="90" /><strong>Paloma Vivas </strong>Head of the Office<br /> <em>Relations with Society</em> Extension: 6895</p> <p class="separador">\&nbsp;</p> <p class="card"><strong>Oscar Valle</strong><br />Administrative Officer<br /><em>Mobility and Exchanges &nbsp;</em>Extension: 3739</p> <p class="card"><strong>Agust&iacute;n Rodriguez</strong>&nbsp;&nbsp; Specialist Officer<br /><em>Placements and Employment</em><br /> Extension:3679&nbsp;</p> <p class="separador">\&nbsp;</p>
+#+HTML: <p class="card"><img style="float: right;" src="docs/estructura/servicios/img/286_paloma.JPG" alt="" width="90" /><strong>Paloma Vivas </strong>Head of the Office<br /> <em>Relations with Society</em> Extension: 6895</p> <p class="separador">\&nbsp;</p> <p class="card"><strong>Oscar Valle</strong><br />Administrative Officer<br /><em>Mobility and Exchanges \&nbsp;</em>Extension: 3739</p> <p class="card"><strong>Agustín Rodriguez</strong>\&nbsp;\&nbsp; Specialist Officer<br /><em>Placements and Employment</em><br /> Extension:3679\&nbsp;</p> <p class="separador">\&nbsp;</p>
 
 * Responsibilites
 ** Mobility area
