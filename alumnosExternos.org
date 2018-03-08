@@ -218,7 +218,7 @@ Más információn sobre calendario, horarios, plazos de solicitud, etc. en [[ht
 :PROPERTIES:
 :CUSTOM_ID: alojamiento
 :END:
-La ETSIINF no dispone de servicio de alojamiento tales como residencias de estudiantes o colegios mayores, pero puedes encontrar información sobre alojamiento en la [[http://www.upm.es/institucional/Estudiantes/Atencion/AlojamientoEstudiantes][web]] de la UPM o en el [[https://docs.google.com/document/d/1y13X3u4V8KQgI5hv8GnLGF3ySWQzCl3LcOe14AQKbXk/edit?usp=sharing][manual del alumno extranjero (solamente en inglés)]]
+La ETSIINF no dispone de servicio de alojamiento tales como residencias de estudiantes o colegios mayores, pero puedes encontrar información sobre alojamiento en la [[http://www.upm.es/institucional/Estudiantes/Atencion/AlojamientoEstudiantes][web]] de la UPM o en el [[https://docs.google.com/document/d/1y13X3u4V8KQgI5hv8GnLGF3ySWQzCl3LcOe14AQKbXk/edit?usp=sharing][manual del alumno extranjero (solamente en inglés)]].
 
 Tienes que tener en cuenta que Madrid es una ciudad muy cara para vivir, por ello debes estimar una cantidad aproximada 350€ por mes por una habitación en piso compartido, más una cantidad similar para dejar en depósito. Los precios varían dependiendo de la zona.
 
