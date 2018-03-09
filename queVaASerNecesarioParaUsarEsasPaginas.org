@@ -1,6 +1,0 @@
-- Cambiar de h2 a h1, de h3 a h2 y quizás pasar algo más para h3 (ya que no hay h4 aparentemente)
-- Cambiar las etiquetas a cosas más normales que "org-123123123123"
-- Quitar cosas inútiles y lo de clases y tal
-- Rehacer el índice
-- Reponer los enlaces para que usen rutas relativas
-- Quitar lo de author: Luciano ...., Created ... y lo de validate .....
