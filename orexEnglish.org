@@ -1,4 +1,3 @@
-#+HTML_HEAD: <style type="text/css"> <!--/*--><![CDATA[/*><!--*/ .title { display: none; } /*]]>*/--> </style>
 #+OPTIONS: num:nil author:nil html-style:nil html-preamble:nil html-postamble:nil html-scripts:nil
 #+EXPORT_FILE_NAME: ./exports/orexEnglish.html
 
@@ -36,7 +35,7 @@ Building 3, 1st Floor \\
 Rooms 3102-3104 \\
 28660-Boadilla del Monte \\
 MADRID - SPAIN
-# +HTML: <p class="separador">\&nbsp;</p>
+
 #+ATTR_HTML: :class contacto
 E-mail: orex@etsiinf.upm.es \\
 Telephones: \\
@@ -51,7 +50,7 @@ Fax: +34 91 336 3676/3667
 #+ATTR_HTML: :class contacto
 Mornings: Monday to Friday, from 9:30 to 14:30 h. \\
 Afternoons: Monday to Thursday, from 16:00 to 17:30 h
-# +HTML: <p class="separador">\&nbsp;</p>
+
 #+ATTR_HTML: :class contacto
 SUMMER OPENING TIME \\
 From 15th, June to 15th September: \\

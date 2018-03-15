@@ -1,4 +1,3 @@
-#+HTML_HEAD: <style type="text/css"> <!--/*--><![CDATA[/*><!--*/ .title { display: none; } /*]]>*/--> </style>
 #+OPTIONS: num:nil author:nil html-style:nil html-preamble:nil html-postamble:nil html-scripts:nil
 #+EXPORT_FILE_NAME: ./exports/acbilaterales1819.html
 
@@ -13,8 +12,6 @@ La ETSIINF-UPM mantiene acuerdos de cooperación y acuerdos bilaterales con dive
 :CUSTOM_ID: destinos
 :END:
 Universidades con acuerdo:
-# Cabecera de la tabla: <table style:"width: 521px; height: 289px" border="0">
-# Cabecera del contenido: <tr><th>Pa&iacute;s</th><th>Centro asociado</th></tr>
 |   | País        | Centro asociado                                                               |
 |---+-------------+-------------------------------------------------------------------------------|
 | / | <>          | <>                                                                            |
@@ -34,11 +31,8 @@ Universidades con acuerdo:
 | # | Puerto Rico | [[http://ut.suagm.edu/][Universidad del Turabo]]                                                        |
 | # | Suiza       | [[https://www.epfl.ch/][École Polytechnique Fédérale (EPF) Lausanne]], [[https://fi.upm.es/docs/estudios/estudiar_en_el_extranjero/2361_EPFLKeyData2018-2019.pdf][EPFL Information Sheet 2018/2019]] |
 |---+-------------+-------------------------------------------------------------------------------|
-# Esos # y / y <> al final no cambian nada en la página de la fi
 
 Universidades con acuerdo de *Doble Diploma de Master*:
-# Cabecera de la tabla: <table style:"width: 581px; height: 289px" border="0">
-# Cabecera del contenido: <tr><th>Pa&iacute;s</th><th>Centro asociado</th><th>Master ETSIINF</th></tr>
 | Pais   | Centro asociado                                                         | Master ETSIINF |
 |--------+-------------------------------------------------------------------------+----------------|
 | EEUU   | [[http://www.iit.edu/][Instituto Tecnológico de Illinois]], [[https://fi.upm.es/docs/estudios/estudiar_en_el_extranjero/963_UPM%20presentation%20Oct_2017.pdf][Presentación]]                         | MUII - MUIS    |

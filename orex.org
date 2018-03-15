@@ -1,4 +1,3 @@
-#+HTML_HEAD: <style type="text/css"> <!--/*--><![CDATA[/*><!--*/ .title { display: none; } /*]]>*/--> </style>
 #+OPTIONS: num:nil author:nil html-style:nil html-preamble:nil html-postamble:nil html-scripts:nil
 #+EXPORT_FILE_NAME: ./exports/orex.html
 
@@ -32,12 +31,6 @@ Relaciones con la sociedad, orientadas fundamentalmente a informar a futuros alu
 :PROPERTIES:
 :CUSTOM_ID: contacto
 :END:
-# +HTML: <p class="contacto"><strong>Oficina de Relaciones Externas</strong><br />ETSI INFORM&Aacute;TICOS -UPM<br />Campus de Montegancedo s/n <br />Edificio 3, Planta 1<br /> Despachos 3102-3104 <br />28660-Boadilla del Monte<br />MADRID - ESPA&Ntilde;A</p>
-
-# <p class="contacto">E-mail: orex@etsiinf.upm.es <br />Tel&eacute;fonos:<br />+34 91 336 3739/3679/6895<br />Fax: +34 91 336 3676/3667</p> <p class="separador">&nbsp;</p>
-# :PROPERTIES:
-# :HTML_CONTAINER_CLASS: contacto
-# :END:
 #+ATTR_HTML: :class contacto
 *Oficina de Relaciones Externas* \\
 ETSI INFORMÁTICOS - UPM \\
@@ -46,7 +39,7 @@ Edificio 3, Planta 1 \\
 Despachos 3102-3104 \\
 28660-Boadilla del Monte \\
 MADRID - ESPAÑA
-# +HTML: <p class="separador">\&nbsp;</p>
+
 #+ATTR_HTML: :class contacto
 E-mail: orex@etsiinf.upm.es \\
 Teléfonos: \\
@@ -57,12 +50,10 @@ Fax: +34 91 336 3676/3667
 :PROPERTIES:
 :CUSTOM_ID: horario
 :END:
-# +HTML: <p class="contacto">Ma&ntilde;anas de Lunes a Viernes de 9:30 a 14:30 h.<br />Tardes de Lunes a Jueves &nbsp;&nbsp; de 16:00 a 17:30h.</p> <p class="contacto">HORARIO DE VERANO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Desde el 15 de junio al 15 de Septiembre&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ma&ntilde;anas de Lunes a Viernes de 9:30 a 14:30 h.</p> <p class="separador">\&nbsp;</p> <p><strong><span class="aviso">&nbsp;</span></strong></p> <p>&nbsp;</p>
 
 #+ATTR_HTML: :class contacto
 Mañanas de Lunes a Viernes de 9:30 a 14:30 h. \\
 Tardes de Lunes a Jueves de 16:00 a 17:30h
-# +HTML: <p class="separador">\&nbsp;</p>
 #+ATTR_HTML: :class contacto
 HORARIO DE VERANO \\
 Desde el 15 de junio al 15 de Septiembre: \\
