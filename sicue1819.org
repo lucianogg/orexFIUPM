@@ -4,6 +4,9 @@
 
 #+HTML: <h1 id="sicue">SICUE 2018-2019</h1>
 * Descripción del programa
+:PROPERTIES:
+:CUSTOM_ID: descripcion
+:END:
 Por medio de este programa los estudiantes de las universidades españolas pueden realizar una parte de sus estudios en otra universidad distinta a la suya, con garantías de reconocimiento académico y de aprovechamiento, así como de adecuación a su perfil curricular. [[http://www.upm.es/Estudiantes/Movilidad/Programas_Nacionales/SicueSeneca][(más información)]]
 
 Universidades con las que nuestra escuela tiene acuerdo para este programa:
@@ -32,6 +35,9 @@ Universidades con las que nuestra escuela tiene acuerdo para este programa:
 | País Vasco           | [[http://www.ehu.eus/es/][Universidad Politécnica del País Vasco]]    |
 
 * Convocatoria de 2018-2019
+:PROPERTIES:
+:CUSTOM_ID: convocatoria1819
+:END:
 - [[http://www.upm.es/sfs/Rectorado/Vicerrectorado%20de%20Alumnos/Extension%20Universitaria/Intercambios:%20movilidad%20de%20estudiantes/SICUE-S%C3%89NECA/2018_19_Resolucion_Rectoral_SICUE.pdf][Convocatoria]]
 - Plazo de solicitud: *13 de febrero al 13 de marzo de 2018*
 - [[http://www.upm.es/sfs/Rectorado/Vicerrectorado%20de%20Alumnos/Extension%20Universitaria/Intercambios:%20movilidad%20de%20estudiantes/SICUE-S%C3%89NECA/2018_19_ImpresoA.pdf][Solicitud]] (Impreso A)
@@ -42,5 +48,8 @@ Universidades con las que nuestra escuela tiene acuerdo para este programa:
 - [[http://www.upm.es/Estudiantes/Movilidad/Programas_Nacionales/SicueSeneca][Más información del programa en UPM]]
 
 ** Resultados
+:PROPERTIES:
+:CUSTOM_ID: convocatoria1819resultados
+:END:
 - Resolución provisional de adjudicación de plazas para el programa SICUE, convocatoria 2018-2019
 - Resolución definitiva de adjudicación de plazas para el programa SICUE, convocatoria 2018-2019

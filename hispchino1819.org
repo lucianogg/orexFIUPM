@@ -4,12 +4,18 @@
 
 #+HTML: <h1 id="hispChino">Programa Hispano-Chino 2018-2019</h1>
 * Descripción
+:PROPERTIES:
+:CUSTOM_ID: descripcion
+:END:
 La UPM mantiene acuerdos bilaterales con diversas Universidades Chinas con el objeto de fomentar la movilidad de estudiantes entre ambos países e instituciones. La ETSIINF participa activamente en este programa.
 
 El programa está especialmente dirigido a la realización de Trabajo fin de Grado (TFG, Trabajo Fin de Master (TFM) o Proyecto Fin de Carrera (PFC).
 
 [[http://www.upm.es/Estudiantes/Movilidad/Programas_Internacionales/HispanoChino][(más información)]]
 * Destinos
+:PROPERTIES:
+:CUSTOM_ID: destinos
+:END:
 # Cabecera de la tabla: <table style:"width: 551px; height: 289px" border="0">
 # Cabecera del contenido: <tr><th>Pais</th><th>Centro asociado</th></tr>
 | Pais             | Centro asociado                                                                                                    |
@@ -30,10 +36,16 @@ El programa está especialmente dirigido a la realización de Trabajo fin de Gra
 Recordando que existe la oportunidad de firmar acuerdo con cualquier otro centro que interese al alumno y no figure en esta lista.
 
 * Convocatoria de 2018-2019
+:PROPERTIES:
+:CUSTOM_ID: convocatoria1819
+:END:
 - [[http://www.upm.es/sfs/Rectorado/Vicerrectorado%20de%20Relaciones%20Internacionales/Resto%20del%20Mundo/2018_Convocatoria_Hispano_Chino.pdf][Convocatoria]]
 - Plazo de solicitud: *15 de enero de 2018 al 28 de febrero de 2018, a las 14:00 h*
 - Rellenar y firmar online la [[https://vri5.rec.upm.es/becas_china/][solicitud]], imprimirla, firmarla, adjuntar la documentación requerida y registrarla en el registro de la ETSIINF (Secretaría de Alumnos) o en registro general UPM.
 ** Resultados
+:PROPERTIES:
+:CUSTOM_ID: resultados
+:END:
 - Adjudicación Provisional
 - [[http://fi.upm.es/docs/estudios/estudiar_en_el_extranjero/959_ACEPTACION-RENUNCIA-RECLAMACION%20HISPANO%20CHINO%202015-16.pdf][Impreso de Aceptación, Renuncia o Reclamación]]
 - [[https://www.fi.upm.es/docs/estudios/estudiar_en_el_extranjero/2355_Adjudicacion_Definitiva_Movilidad%20_2018-19_HISPANO%20CHINO.pdf][Adjudicación Definitiva]]

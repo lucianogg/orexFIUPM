@@ -4,15 +4,30 @@
 
 #+HTML: <h1 id="orex">External Relations Office (OREX)</h1>
 * Outline
+:PROPERTIES:
+:CUSTOM_ID: outline
+:END:
 The External Relations Office staff is responsible for the administrative management of external relations within three areas:
 ** Mobility
+:PROPERTIES:
+:CUSTOM_ID: outlineMobility
+:END:
 Relations with national and international univerisities for the mobility and exchange programmes development, targeting students, teaching and non-teaching staff of our center
 ** Work Placements and Employment
+:PROPERTIES:
+:CUSTOM_ID: outlineWorkandEmployment
+:END:
 Relations with national and international companies and institutions for the trainee mobility and/or employment opportunities development, targeted towards students from our center, focusing on facilitating their transition to the labor market
 ** Relations with Society
+:PROPERTIES:
+:CUSTOM_ID: outlineRelSociety
+:END:
 Relations with Society mainly addressed on informing prospective students, parents, schools, etc., as promotional tool of our center.
 
 * Contact
+:PROPERTIES:
+:CUSTOM_ID: contact
+:END:
 #+ATTR_HTML: :class contacto
 *External Relations Office* \\
 ETSI INFORMÁTICOS - UPM \\
@@ -30,6 +45,9 @@ Fax: +34 91 336 3676/3667
 #+HTML: <p class="separador">\&nbsp;</p>
 
 * Office opening hours
+:PROPERTIES:
+:CUSTOM_ID: openingHours
+:END:
 #+ATTR_HTML: :class contacto
 Mornings: Monday to Friday, from 9:30 to 14:30 h. \\
 Afternoons: Monday to Thursday, from 16:00 to 17:30 h
@@ -41,10 +59,19 @@ Mornings: Monday to Friday, from 9:30 a 14:30 h
 #+HTML: <p class="separador">\&nbsp;</p>
 
 * Staff
+:PROPERTIES:
+:CUSTOM_ID: staff
+:END:
 #+HTML: <p class="card"><img style="float: right;" src="docs/estructura/servicios/img/286_paloma.JPG" alt="" width="90" /><strong>Paloma Vivas </strong>Head of the Office<br /> <em>Relations with Society</em> Extension: 6895</p> <p class="separador">\&nbsp;</p> <p class="card"><strong>Oscar Valle</strong><br />Administrative Officer<br /><em>Mobility and Exchanges \&nbsp;</em>Extension: 3739</p> <p class="card"><strong>Agustín Rodriguez</strong>\&nbsp;\&nbsp; Specialist Officer<br /><em>Placements and Employment</em><br /> Extension:3679\&nbsp;</p> <p class="separador">\&nbsp;</p>
 
 * Responsibilites
+:PROPERTIES:
+:CUSTOM_ID: responsibilities
+:END:
 ** Mobility area
+:PROPERTIES:
+:CUSTOM_ID: responsibilitiesMobility
+:END:
 - Information and support for international students
 - Legal formalities, documents, etc.
 - [[http://fi.upm.es/?pagina=2349][Academic Mobility for ETSIINF students]]
@@ -58,6 +85,9 @@ Mornings: Monday to Friday, from 9:30 a 14:30 h
   - [[http://www.upm.es/Personal/PAS/Movilidad/Erasmus?id=2c2f0a26d1dc0510VgnVCM10000009c7648a____&fmt=detail][Teaching/non-teaching staff for training purpose in non-European countries (STT)]]
 
 ** Placements and Employment Area
+:PROPERTIES:
+:CUSTOM_ID: responsibilitiesPlacementEmployment
+:END:
 - Support and information for international students
 - [[http://fi.upm.es/?pagina=2349#practicasExterior][Placements in Companies outside Spain]]
 - [[https://www.fi.upm.es/?id=practicasempresas][Placements in Companies]]
@@ -68,6 +98,9 @@ Mornings: Monday to Friday, from 9:30 a 14:30 h
 - Organizative support for companies events
 
 ** Relations with Society Area
+:PROPERTIES:
+:CUSTOM_ID: responsibilitiesRelSociety
+:END:
 - [[https://www.fi.upm.es/web/futuroalumno/][Prospective students]]
 - Schools
 - [[https://www.fi.upm.es/?pagina=263/][Visits to the Informatics Historical Museum]]

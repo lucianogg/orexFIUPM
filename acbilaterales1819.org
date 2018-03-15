@@ -4,8 +4,14 @@
 
 #+HTML: <h1 id="acbilat">Acuerdos Bilaterales y Acuerdos de doble diploma 2018-2019</h1>
 * Descripción
+:PROPERTIES:
+:CUSTOM_ID: descripcion
+:END:
 La ETSIINF-UPM mantiene acuerdos de cooperación y acuerdos bilaterales con diversos centros que en función de dichos acuerdos permiten actividades de movilidad de estudiantes de tipo académico, doble diploma, de investigación, etc.
 ** Destinos
+:PROPERTIES:
+:CUSTOM_ID: destinos
+:END:
 Universidades con acuerdo:
 # Cabecera de la tabla: <table style:"width: 521px; height: 289px" border="0">
 # Cabecera del contenido: <tr><th>Pa&iacute;s</th><th>Centro asociado</th></tr>
@@ -41,7 +47,13 @@ Universidades con acuerdo de *Doble Diploma de Master*:
 | Europa | [[http://www.inf.unibz.it/emse-dokuwiki/emse/home][Official Europan Masters Course in Software Engineering - UKL, FUB, UoO]] | MUIS           |
 
 ** Requisitos
+:PROPERTIES:
+:CUSTOM_ID: requisitos
+:END:
 *** Académicos
+:PROPERTIES:
+:CUSTOM_ID: requisitosAcademicos
+:END:
 **** Máster Universitario en Ingeniería Informática
 **** Máster Universitario en Ingeniería del Software
 - Para solicitar la participación: Estar matriculado en todos los créditos del primer semestre
@@ -49,6 +61,9 @@ Universidades con acuerdo de *Doble Diploma de Master*:
 
 Como medida de fomento de la movilidad internacional y siempre que  los datos lo permitan, se tendrá en cuenta los resultados de los  exámenes de la convocatoria de Enero-Febrero.
 *** Lingüísticos y otros:
+:PROPERTIES:
+:CUSTOM_ID: requisitosLinguisticos
+:END:
 USA
 - TOEFL: 90 iBT o IELTS: 6.5 o PTE: 63
 - GRE general (minimum per Dpt.)
@@ -56,15 +71,24 @@ USA
 CHINA
 - TOEFL, mínimo 80 (iBT) / 213 (CBT) / 550 (PBT), o equivalente
 * Convocatoria 2018-2019
+:PROPERTIES:
+:CUSTOM_ID: convocatoria1819
+:END:
 - Plazo de solicitud: *21 de diciembre de 2017 al 5 de febrero de 2018*
 - Documentación: certificados de idioma; carta de motivaci&oacute;n; pasaporte o tarjeta de residencia en vigor (solo estudiantes extracomunitarios)
 - Rellenar la [[https://fi.upm.es/docs/estudios/estudiar_en_el_extranjero/963_FORMULARIO%20SOLICITUD-AABB_%2018-19.pdf][solicitud]], firmarla, adjuntar la documentación requerida y registrarla en el registro de la ETSIINF (Secretaría de alumnos).
 ** Resultados
+:PROPERTIES:
+:CUSTOM_ID: resultados1819
+:END:
 - [[http://fi.upm.es/docs/estudios/estudiar_en_el_extranjero/2361_Adjudicacion%20Provisional_%20Movilidad%20_2018%2019_AABB.pdf][Adjudicación Provisional 2018-2019]]
 - [[https://fi.upm.es/docs/estudios/estudiar_en_el_extranjero/963_ACEPTACION-RENUNCIA-RECLAMACION%20DESTINO%202017-18_AABB.pdf][Formulario de Aceptación, Renuncia o Reclamación]]
 - [[https://www.fi.upm.es/docs/estudios/estudiar_en_el_extranjero/2361_Adjudicacion_Definitiva_Movilidad%20_2018-19_AABB.pdf][Adjudicación Definitiva 2018-2019]]
 
 * Becas internacionales para EEUU y Canada 2018-2019
+:PROPERTIES:
+:CUSTOM_ID: becasInternacionalesEEUUCanada
+:END:
 - Convocatoria
 - Plazo de solicitud: (saldrá próximamente)
 - Documentación: CV con una fotografía reciente (una solo página), focotopia de documento oficial en el que conste nivel de idioma,  fotocopia de la matrícula, carta de motivación, justificante de admisión en la universidad de destino o, en su defecto, justificante de la solicitud.

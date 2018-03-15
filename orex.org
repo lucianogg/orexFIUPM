@@ -6,17 +6,32 @@
 
 # El tema de los separadores y las fichas hace que todo el trabajo sea más complicado. Por eso, se hacen dos ficheros con el HTML ya hecho para las páginas en español y en inglés de OREX
 * Presentación
+:PROPERTIES:
+:CUSTOM_ID: presentacion
+:END:
 El personal de la oficina de relaciones externas del centro es el responsable de la gestión administrativa de las relaciones externas en tres áreas:
 ** Área de movilidad
+:PROPERTIES:
+:CUSTOM_ID: presentacionMovilidad
+:END:
 Relaciones con universidades o instituciones, nacionales e internacionales, para el desarrollo de la movilidad y los intercambios con fines académicos para los alumnos del centro y la movilidad para el personal docente y personal no docente.
 
 ** Área de prácticas y empleo
+:PROPERTIES:
+:CUSTOM_ID: presentacionPracticasyEmpleo
+:END:
 Relaciones con empresas o instituciones, nacionales e internacionales para el desarrollo de la movilidad con fines de prácticas y/o empleo para los alumnos del centro con el fin de facilitar la inserción laboral de nuestros alumnos.
 
 ** Área de relaciones con la sociedad
+:PROPERTIES:
+:CUSTOM_ID: presentacionRelSociedad
+:END:
 Relaciones con la sociedad, orientadas fundamentalmente a informar a futuros alumnos, padres, colegios, etc., como instrumento de promoción del centro.
 
 * Contacto
+:PROPERTIES:
+:CUSTOM_ID: contacto
+:END:
 # +HTML: <p class="contacto"><strong>Oficina de Relaciones Externas</strong><br />ETSI INFORM&Aacute;TICOS -UPM<br />Campus de Montegancedo s/n <br />Edificio 3, Planta 1<br /> Despachos 3102-3104 <br />28660-Boadilla del Monte<br />MADRID - ESPA&Ntilde;A</p>
 
 # <p class="contacto">E-mail: orex@etsiinf.upm.es <br />Tel&eacute;fonos:<br />+34 91 336 3739/3679/6895<br />Fax: +34 91 336 3676/3667</p> <p class="separador">&nbsp;</p>
@@ -39,6 +54,9 @@ Teléfonos: \\
 Fax: +34 91 336 3676/3667
 #+HTML: <p class="separador">\&nbsp;</p>
 * Horario de atención al usuario
+:PROPERTIES:
+:CUSTOM_ID: horario
+:END:
 # +HTML: <p class="contacto">Ma&ntilde;anas de Lunes a Viernes de 9:30 a 14:30 h.<br />Tardes de Lunes a Jueves &nbsp;&nbsp; de 16:00 a 17:30h.</p> <p class="contacto">HORARIO DE VERANO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Desde el 15 de junio al 15 de Septiembre&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ma&ntilde;anas de Lunes a Viernes de 9:30 a 14:30 h.</p> <p class="separador">\&nbsp;</p> <p><strong><span class="aviso">&nbsp;</span></strong></p> <p>&nbsp;</p>
 
 #+ATTR_HTML: :class contacto
@@ -51,10 +69,19 @@ Desde el 15 de junio al 15 de Septiembre: \\
 Mañanas de Lunes a Viernes de 9:30 a 14:30 h
 #+HTML: <p class="separador">\&nbsp;</p>
 * Personal
+:PROPERTIES:
+:CUSTOM_ID: personal
+:END:
 #+HTML: <p class="card"><img style="float: right;" src="docs/estructura/servicios/img/286_paloma.JPG" alt="paloma" width="82" height="93" /><strong>Paloma Vivas</strong> Responsable de OREX<br /> Técnico de Administración<br /> <em>Relaciones con la Sociedad</em><br />Extensión: 6895</p> <p class="separador">\&nbsp;</p> <p class="card"><strong>Oscar Valle</strong><br />Jefe de Negociado<br /><em>Movilidad e Intercambios</em><br /> Extensión: 3739</p> <p class="card"><strong>Agustín Rodríguez</strong><br />Técnico Especialista<br /><em>Prácticas y Empleo</em><br />Extensión: 3679</p><p class="separador">\&nbsp;</p>
 
 * Competencias
+:PROPERTIES:
+:CUSTOM_ID: competencias
+:END:
 ** Área de movilidad académica
+:PROPERTIES:
+:CUSTOM_ID: competenciasMovilidad
+:END:
 - Información y soporte para alumnos internacionales
 - Trámites legales, documentación, etc.
 - [[http://fi.upm.es/?pagina=2349][Movilidad académica para alumnos del centro]]
@@ -69,6 +96,9 @@ Mañanas de Lunes a Viernes de 9:30 a 14:30 h
   - [[http://www.upm.es/Personal/PAS/Movilidad/Erasmus?id=2c2f0a26d1dc0510VgnVCM10000009c7648a____&fmt=detail][Movilidad ERASMUS+ para el personal docente y no docente con fines de formación (STT) en paises asociados (no europeos)]]
 
 ** Área de Prácticas y Empleo
+:PROPERTIES:
+:CUSTOM_ID: competenciasPracyEmpleo
+:END:
 - Información y soporte para alumnos nacionales e internacionales
 - [[http://fi.upm.es/?pagina=2349#practicasExterior][Realización de prácticas en empresa en el exterior]]
 - [[https://www.fi.upm.es/?id=practicasempresas][Prácticas en empresa]]
@@ -84,6 +114,9 @@ Mañanas de Lunes a Viernes de 9:30 a 14:30 h
 - Soporte en la organización de eventos para empresas.
 
 ** Área de relaciones con la sociedad
+:PROPERTIES:
+:CUSTOM_ID: competenciasRelSociedad
+:END:
 - [[https://www.fi.upm.es/web/futuroalumno/][Futuro alumno]]
 - Colegios
 - [[https://www.fi.upm.es/?pagina=263/][Visitas al Museo Histórico de la Informática]]

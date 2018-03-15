@@ -4,12 +4,18 @@
 
 #+HTML: <h1 id="magalhaes">Magalhães-SMILE 2018-2019</h1>
 * ¿Qué es Magalhães-SMILE?
+:PROPERTIES:
+:CUSTOM_ID: descripcion
+:END:
 MAGALHAES es una red entre Europa, Latinoamérica y Caribe cuyo principal objetivo es fomentar la movilidad y los programas de cooperación entre las Universidades que participan en la red.
 
 SMILE es el programa pionero dentro de la red MAGALHAES que se ocupa de la movilidad de estudiantes. SMILE es el acrónimo de 'Student Mobility in Latin America, the Caribbean and Europe'. SMILE está inspirado en el programa de movilidad europeo ERASMUS y su funcionamiento es similar, facilitando la movilidad de estudiantes de Latinoamérica y Caribe hacia Europa y de Europa hacia Latinoamérica y Caribe.
 
 La UPM es miembro de esta red y la ETSIINF participa en ella y en su programa SMILE a través de acuerdos bilaterales con universidades latinoamericanas de reconocido prestigio. [[http://www2.upm.es/portal/site/institucional/menuitem.e29ff8272ddfb41943a75910dffb46a8/?vgnextoid=99cd56b1540be110VgnVCM10000009c7648aRCRD][(más Información)]]
 * Acuerdos
+:PROPERTIES:
+:CUSTOM_ID: acuerdos
+:END:
 La ETSIINF participa en el programa SMILE a través de los acuerdos bilaterales siguientes:
 # Cabecera de la tabla: <table style:"width: 551px; height: 289px" border="0">
 # Cabecera del contenido: <tr><th>Pais</th><th>Centro asociado</th></tr>
@@ -29,12 +35,18 @@ La ETSIINF participa en el programa SMILE a través de los acuerdos bilaterales 
 | Venezuela | [[http://www.usb.ve/][Universidad Simón Bolívar]]                                   |
 
 * Convocatoria de 2018-2019
+:PROPERTIES:
+:CUSTOM_ID: convocatoria1819
+:END:
 - [[http://www.upm.es/sfs/Rectorado/Vicerrectorado%20de%20Relaciones%20Internacionales/America%20Latina/2018_Magalhaes_Extracto_convocatoria.pdf][Convocatoria]]
 - Plazo de solicitud: Desde el *4 de diciembre del 2017 hasta el 5 de febrero del 2018 a las 14:00 h*
 - Rellenar la [[https://vri5.rec.upm.es/becas_magalhaes/][Solicitud]] online, imprimirla, adjuntar la información requerida y presentarla en el registro de la ETSIINF (Secretaría de alumnos) o en el registro General UPM
 - [[http://fi.upm.es/docs/estudios/estudiar_en_el_extranjero/955_PLAZAS%20SMILE_2018-19.pdf][Destinos y Plazas]]
 - Documentos a rellenar después de la adjudicación: [[https://vri5.rec.upm.es/magalhaes/Files/SMILE%20Student%20Application-Form.pdf][Application form]], [[https://vri5.rec.upm.es/magalhaes/Files/SMILE%20Student%20Learning-Agreement.pdf][Learning Agreement]] e [[http://fi.upm.es/docs/estudios/estudiar_en_el_extranjero/955_ACEPTACION-RENUNCIA-RECLAMACION%20DESTINO%202017-18_SMILE.pdf][Impreso de Aceptación, Renuncia o Reclamación]]
 ** Resultados
+:PROPERTIES:
+:CUSTOM_ID: resultados
+:END:
 - Adjudicación Provisional
 - Adjudicación Definitiva ETSIINF (plazas)
 - Resolución Rectoral. Adjudicación Becas Programa SMILE
