@@ -7,6 +7,8 @@
 :CUSTOM_ID: programasAcademicos
 :END:
 [[http://fi.upm.es/docs/estudios/estudiar_en_el_extranjero/216_Presentacion%20Programas%20de%20Movilidad%202018%2019%20definitiva.pdf][Presentación de los programas académicos para 2018-19]]
+
+Para información sobre la realización del Trabajo de Fin de Grado en una estancia en otra Universidad, consulte [[#tfgProgMov][la sección dedicada a ello]].
 ** Programas internacionales
 :PROPERTIES:
 :CUSTOM_ID: internacionales
@@ -134,7 +136,11 @@ La UPM también ofrece una serie de programas de voluntariado. Para un listado c
 :PROPERTIES:
 :CUSTOM_ID: platEuropeaBusquedaBecas
 :END:
-
+* Realización del Trabajo de Fin de Grado en Programas de Movilidad
+:PROPERTIES:
+:CUSTOM_ID: tfgProgMov
+:END:
+Algunos programas de movilidad posibilitan a los alumnos desarrollar su Trabajo de Fin de Grado (TFG) como parte del programa. Esta posibilidad está regulada por la ETSIINF y se pueden consultar las normas en [[http://fi.upm.es/docs/estudios/estudiar_en_el_extranjero/2349_TFG-movilidad-normas%20y%20procedmiento-ABRIL-2016.pdf][este documento]].
 * Información de interés sobre idiomas
 :PROPERTIES:
 :CUSTOM_ID: infoInteresIdiomas
